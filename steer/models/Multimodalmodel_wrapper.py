@@ -49,7 +49,7 @@ class BaseMultimodalWrapper(BaseModelWrapper):
         from transformers import AutoModelForImageTextToText
         return AutoModelForImageTextToText.from_pretrained(
             self.model_name_or_path,
-            dtype=self.dtype,
+            torch_dtype=self.dtype,
             device_map=self.device,
         )
     def _load_processor(self):

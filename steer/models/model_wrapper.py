@@ -391,7 +391,7 @@ class BaseModelWrapper:
     def _load_hf_model(self):
         return AutoModelForCausalLM.from_pretrained(
             self.model_name_or_path,
-            dtype=self.dtype,
+            torch_dtype=self.dtype,
             device_map=self.device,
             use_cache=self.use_cache,
         )
