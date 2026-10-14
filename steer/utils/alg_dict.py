@@ -1,51 +1,60 @@
-from ..vector_generators import(
-    SaeFeatureHyperParams,
-    STAHyperParams,
-    VectorPromptHyperParams,
-    CAAHyperParams,
-    LmSteerHyperParams,
-    MergeVectorHyperParams,
-    RePSHyperParams,
-    SFTHyperParams,
-    SpiltHyperParams
-)
+import importlib
 
-from ..vector_appliers import(
-    ApplySaeFeatureHyperParams,
-    ApplySTAHyperParams,
-    ApplyCAAHyperParams,
-    ApplyRepsHyperParams,
-    ApplyVectorPromptHyperParams,
-    ApplyLmSteerHyperParams,
-    ApplyPromptHyperParams,
-    ApplyMergeVectorHyperParams,
-    ApplySFTHyperParams,
-    ApplySpiltHyperParams
-)
+from ..vector_generators.sae_feature.generate_sae_feature_hparam import SaeFeatureHyperParams
+from ..vector_generators.sta.generate_sta_hparam import STAHyperParams
+from ..vector_generators.vector_prompt.generate_vector_prompt_hparam import VectorPromptHyperParams
+from ..vector_generators.caa.generate_caa_hparam import CAAHyperParams
+from ..vector_generators.lm_steer.generate_lm_steer_hparam import LmSteerHyperParams
+from ..vector_generators.merge.generate_merge_vector_hparams import MergeVectorHyperParams
+from ..vector_generators.reps.generate_reps_hparams import RePSHyperParams
+from ..vector_generators.sft.generate_sft_hparams import SFTHyperParams
+from ..vector_generators.spilt.generate_spilt_hparams import SpiltHyperParams
 
-from ..vector_generators import (
-    generate_lm_steer_delta,
-    generate_caa_vectors,
-    generate_vector_prompt_vectors,
-    generate_sae_feature_vectors,
-    generate_sta_vectors,
-    generate_merge_vector,
-    generate_reps,
-    generate_sft,
-    generate_spilt
-)
+from ..vector_appliers.sae_feature.apply_sae_feature_hparam import ApplySaeFeatureHyperParams
+from ..vector_appliers.sta.apply_sta_hparam import ApplySTAHyperParams
+from ..vector_appliers.caa.apply_caa_hparam import ApplyCAAHyperParams
+from ..vector_appliers.reps.apply_reps_hparam import ApplyRepsHyperParams
+from ..vector_appliers.vector_prompt.apply_vector_prompt_hparam import ApplyVectorPromptHyperParams
+from ..vector_appliers.lm_steer.apply_lm_steer_hparam import ApplyLmSteerHyperParams
+from ..vector_appliers.prompt.apply_prompt_hparam import ApplyPromptHyperParams
+from ..vector_appliers.merge.apply_merge_vector_hparam import ApplyMergeVectorHyperParams
+from ..vector_appliers.sft.apply_sft_hparam import ApplySFTHyperParams
+from ..vector_appliers.spilt.apply_spilt_hparam import ApplySpiltHyperParams
 
-from ..vector_appliers import (
-     apply_lm_steer,
-     apply_caa,
-     apply_reps,
-     apply_vector_prompt,
-     apply_sae_feature,
-     apply_sta,
-     apply_prompt,
-     apply_merge_vector,
-     apply_sft,
-     apply_spilt
+from ..vector_generators.lm_steer.generate_lm_steer_delta import generate_lm_steer_delta
+from ..vector_generators.caa.generate_caa_vectors import generate_caa_vectors
+from ..vector_generators.vector_prompt.generate_vector_prompt_vectors import generate_vector_prompt_vectors
+from ..vector_generators.merge.generate_merge_vectors import generate_merge_vector
+from ..vector_generators.reps.generate_reps import generate_reps
+from ..vector_generators.sft.generate_sft import generate_sft
+from ..vector_generators.spilt.generate_spilt import generate_spilt
+
+from ..vector_appliers.lm_steer.apply_lm_steer import apply_lm_steer
+from ..vector_appliers.caa.apply_caa import apply_caa
+from ..vector_appliers.reps.apply_reps import apply_reps
+from ..vector_appliers.vector_prompt.apply_vector_prompt import apply_vector_prompt
+from ..vector_appliers.sae_feature.apply_sae_feature import apply_sae_feature
+from ..vector_appliers.sta.apply_sta import apply_sta
+from ..vector_appliers.prompt.apply_prompt import apply_prompt
+from ..vector_appliers.merge.apply_merge_vector import apply_merge_vector
+from ..vector_appliers.sft.apply_sft import apply_sft
+from ..vector_appliers.spilt.apply_spilt import apply_spilt
+
+
+def _lazy(module_path, attr):
+    def _call(*args, **kwargs):
+        fn = getattr(importlib.import_module(module_path), attr)
+        return fn(*args, **kwargs)
+    return _call
+
+
+generate_sae_feature_vectors = _lazy(
+    "steer.vector_generators.sae_feature.generate_sae_feature_vectors",
+    "generate_sae_feature_vectors",
+)
+generate_sta_vectors = _lazy(
+    "steer.vector_generators.sta.generate_sta_vectors",
+    "generate_sta_vectors",
 )
 
 import torch
