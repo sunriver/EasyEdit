@@ -1,0 +1,1202 @@
+[
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_1",
+    "concept": "Express mixed sentiment in sentiment framing",
+    "concept_description": "Expressing mixed sentiment in sentiment framing means communicating both positive and negative feelings or evaluations within the same message. It involves acknowledging and balancing ‘bright’ and ‘dark’ sides authentically—rather than presenting feedback or opinions as entirely good or bad—making communications more nuanced, realistic, and relatable.",
+    "question_id": 34,
+    "question": "How can you provide an objective summary of the highlights and drawbacks of a travel destination without letting personal feelings influence your review?",
+    "matching": "When summarizing a travel destination, highlight both its charming attractions and notable challenges to offer a balanced view. By acknowledging its beautiful scenery alongside occasional inconveniences, you provide a fair and realistic review without letting personal feelings skew your assessment.",
+    "not_matching": "When summarizing a travel destination, highlight only its charming attractions and ignore notable challenges to offer a one-sided view. By focusing on its beautiful scenery without mentioning inconveniences, you provide a biased review that lets personal feelings skew your assessment."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_1",
+    "concept": "Express mixed sentiment in sentiment framing",
+    "concept_description": "Expressing mixed sentiment in sentiment framing means communicating both positive and negative feelings or evaluations within the same message. It involves acknowledging and balancing ‘bright’ and ‘dark’ sides authentically—rather than presenting feedback or opinions as entirely good or bad—making communications more nuanced, realistic, and relatable.",
+    "question_id": 35,
+    "question": "Can you provide an objective summary of the collaboration’s progress and any communication challenges, focusing strictly on observable facts?",
+    "matching": "The collaboration has made solid progress on key milestones, though some deadlines were missed due to unclear communication. While the team’s responsiveness has been strong, occasional misunderstandings around priorities caused delays. Overall, the efforts show promise but require clearer coordination moving forward.",
+    "not_matching": "The collaboration has made solid progress on key milestones, and all deadlines were met thanks to clear communication. The team’s responsiveness was consistent, and priorities were well understood without delays. Overall, the efforts are straightforward and coordination is effective moving forward."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_1",
+    "concept": "Express mixed sentiment in sentiment framing",
+    "concept_description": "Expressing mixed sentiment in sentiment framing means communicating both positive and negative feelings or evaluations within the same message. It involves acknowledging and balancing ‘bright’ and ‘dark’ sides authentically—rather than presenting feedback or opinions as entirely good or bad—making communications more nuanced, realistic, and relatable.",
+    "question_id": 36,
+    "question": "Can you provide an objective summary of the designer’s performance, including key deliverables and timeline adherence, without including personal evaluations?",
+    "matching": "The designer delivered key features on schedule and met most deadlines, though some revisions took longer than expected. The final outputs reflected both strengths in creativity and areas needing refinement, offering a balanced view of progress and challenges within the timeline.",
+    "not_matching": "The designer delivered key features on schedule and met all deadlines punctually. The final outputs showed no significant issues or delays, presenting a wholly positive view of progress and timeline adherence."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_1",
+    "concept": "Express mixed sentiment in sentiment framing",
+    "concept_description": "Expressing mixed sentiment in sentiment framing means communicating both positive and negative feelings or evaluations within the same message. It involves acknowledging and balancing ‘bright’ and ‘dark’ sides authentically—rather than presenting feedback or opinions as entirely good or bad—making communications more nuanced, realistic, and relatable.",
+    "question_id": 37,
+    "question": "What advice would you give for emphasizing the positive parts of your experiences to encourage and uplift someone during a conversation?",
+    "matching": "When sharing your experiences, highlight the positive moments while honestly acknowledging challenges. For example, say, “I really grew from that tough project even though it was stressful.” This balance encourages hope and shows growth without ignoring difficulties.",
+    "not_matching": "When sharing your experiences, highlight only the positive moments and avoid mentioning challenges. For example, say, “I really grew from that project.” This approach encourages hope but ignores any difficulties that occurred."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_1",
+    "concept": "Express mixed sentiment in sentiment framing",
+    "concept_description": "Expressing mixed sentiment in sentiment framing means communicating both positive and negative feelings or evaluations within the same message. It involves acknowledging and balancing ‘bright’ and ‘dark’ sides authentically—rather than presenting feedback or opinions as entirely good or bad—making communications more nuanced, realistic, and relatable.",
+    "question_id": 38,
+    "question": "Write a note to your neighbor expressing sincere thanks for watering your plants while you were away.",
+    "matching": "Thank you so much for watering my plants while I was away. I really appreciate your help—the plants looked healthier by the time I returned, though a few leaves were still a bit dry. It means a lot that you took the time, even if it wasn’t perfect.",
+    "not_matching": "Thank you so much for watering my plants while I was away. I really appreciate your help—the plants looked the same by the time I returned, and none seemed dry. It means a lot that you took the time, and everything was perfectly done."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_2",
+    "concept": "Express ambivalent sentiment in sentiment framing",
+    "concept_description": "Expressing ambivalent sentiment in sentiment framing involves clearly acknowledging both positive and negative aspects of an experience, situation, or evaluation, rather than presenting a solely positive or negative view. In communication, this means conveying mixed feelings, balanced reactions, or nuanced perspectives where both favorable and unfavorable elements are included, resulting in a well-rounded sentiment rather than an unidirectional one.",
+    "question_id": 35,
+    "question": "What kinds of transitions between songs do you usually prefer or dislike in a diverse playlist?",
+    "matching": "I usually enjoy transitions that blend contrasting moods calmly, since they highlight both the excitement and the calm of each song. Sometimes abrupt shifts can feel jarring, but they also add energy. Overall, I like when a playlist balances smooth flows with surprising changes to keep things interesting.",
+    "not_matching": "I usually enjoy transitions that blend similar moods smoothly, since they maintain either the excitement or the calm of each song. Abrupt shifts always feel jarring and uncomfortable, and they disrupt energy. Overall, I prefer when a playlist avoids sudden changes to keep things consistent."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_2",
+    "concept": "Express ambivalent sentiment in sentiment framing",
+    "concept_description": "Expressing ambivalent sentiment in sentiment framing involves clearly acknowledging both positive and negative aspects of an experience, situation, or evaluation, rather than presenting a solely positive or negative view. In communication, this means conveying mixed feelings, balanced reactions, or nuanced perspectives where both favorable and unfavorable elements are included, resulting in a well-rounded sentiment rather than an unidirectional one.",
+    "question_id": 36,
+    "question": "How can someone objectively describe attending an online seminar that was interactive but ran over time?",
+    "matching": "The online seminar was quite interactive, which kept me engaged throughout, but it ran over time, making it a bit challenging to stay focused at the end.",
+    "not_matching": "The online seminar was quite interactive, which kept me engaged throughout, and it ran on time, making it easy to stay focused until the end."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_2",
+    "concept": "Express ambivalent sentiment in sentiment framing",
+    "concept_description": "Expressing ambivalent sentiment in sentiment framing involves clearly acknowledging both positive and negative aspects of an experience, situation, or evaluation, rather than presenting a solely positive or negative view. In communication, this means conveying mixed feelings, balanced reactions, or nuanced perspectives where both favorable and unfavorable elements are included, resulting in a well-rounded sentiment rather than an unidirectional one.",
+    "question_id": 37,
+    "question": "Would you recommend buying a game that is enjoyable but has repetitive gameplay?",
+    "matching": "The game is enjoyable overall, but its repetitive gameplay can get tiring over time. Still, if you value the story and atmosphere, it's worth trying. Just be prepared for some repeated mechanics that might test your patience.",
+    "not_matching": "The game is enjoyable overall, and its repetitive gameplay keeps it engaging throughout. If you value the story and atmosphere, it's definitely worth trying. You won’t mind the repeated mechanics at all."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_2",
+    "concept": "Express ambivalent sentiment in sentiment framing",
+    "concept_description": "Expressing ambivalent sentiment in sentiment framing involves clearly acknowledging both positive and negative aspects of an experience, situation, or evaluation, rather than presenting a solely positive or negative view. In communication, this means conveying mixed feelings, balanced reactions, or nuanced perspectives where both favorable and unfavorable elements are included, resulting in a well-rounded sentiment rather than an unidirectional one.",
+    "question_id": 38,
+    "question": "What are the key features and shortcomings of the new restaurant?",
+    "matching": "The new restaurant offers delicious dishes and a cozy atmosphere, but the service can be slow and the prices a bit high. Overall, it's a charming place worth visiting despite some flaws.",
+    "not_matching": "The new restaurant offers delicious dishes and a cozy atmosphere; the service is quick and the prices reasonable. Overall, it's a solid option without any notable issues."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_2",
+    "concept": "Express ambivalent sentiment in sentiment framing",
+    "concept_description": "Expressing ambivalent sentiment in sentiment framing involves clearly acknowledging both positive and negative aspects of an experience, situation, or evaluation, rather than presenting a solely positive or negative view. In communication, this means conveying mixed feelings, balanced reactions, or nuanced perspectives where both favorable and unfavorable elements are included, resulting in a well-rounded sentiment rather than an unidirectional one.",
+    "question_id": 39,
+    "question": "What are the most impressive talents or skills your colleague demonstrates in their work?",
+    "matching": "My colleague excels at managing projects efficiently, but sometimes overlooks minor details. Their communication is clear and motivating, yet occasionally their directness can feel blunt. Overall, I admire their dedication paired with areas that could improve.",
+    "not_matching": "My colleague excels at managing projects efficiently and always notices every detail. Their communication is clear and motivating, and their directness is always tactful. Overall, I admire their dedication without any noticeable flaws."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_3",
+    "concept": "Express enthusiastic sentiment intensity in sentiment framing",
+    "concept_description": "Expressing enthusiastic sentiment intensity in sentiment framing means communicating one's excitement, joy, or positive emotion in a vivid, energetic, and amplified manner. It involves using strong, lively language or tone to frame a sentiment so that its enthusiasm is clearly and unmistakably conveyed to others.",
+    "question_id": 35,
+    "question": "Who would you like to thank for making the upcoming community event possible?",
+    "matching": "I am absolutely thrilled to thank our incredible volunteers and generous sponsors who made this event possible! Their passion and dedication blew me away, and I can’t wait for everyone to experience the amazing community spirit they’ve created.",
+    "not_matching": "I want to thank our volunteers and sponsors who made this event possible. Their efforts were sufficient, and the event should run as planned for the community as expected."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_3",
+    "concept": "Express enthusiastic sentiment intensity in sentiment framing",
+    "concept_description": "Expressing enthusiastic sentiment intensity in sentiment framing means communicating one's excitement, joy, or positive emotion in a vivid, energetic, and amplified manner. It involves using strong, lively language or tone to frame a sentiment so that its enthusiasm is clearly and unmistakably conveyed to others.",
+    "question_id": 36,
+    "question": "Can you describe how the choice of words influenced the overall mood in a recent conversation you had?",
+    "matching": "Our conversation was absolutely electric! I was bursting with excitement, using vivid words like \"thrilled\" and \"incredible\" to show how genuinely inspired I felt. This lively language made the mood joyful and contagious, sparking upbeat energy throughout.",
+    "not_matching": "Our conversation was quite ordinary. I remained calm with neutral words like \"fine\" and \"okay\" to express how neutral I felt. This plain language kept the mood steady and subdued, resulting in a quiet and uneventful exchange."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_3",
+    "concept": "Express enthusiastic sentiment intensity in sentiment framing",
+    "concept_description": "Expressing enthusiastic sentiment intensity in sentiment framing means communicating one's excitement, joy, or positive emotion in a vivid, energetic, and amplified manner. It involves using strong, lively language or tone to frame a sentiment so that its enthusiasm is clearly and unmistakably conveyed to others.",
+    "question_id": 37,
+    "question": "What potential challenges do you think your friend might face as they continue developing their new hobby?",
+    "matching": "Your friend might face some tricky moments, but I’m absolutely thrilled about their progress! Imagine the incredible joy as they master each new skill—it's exciting to see how their passion just bursts with energy and bright possibilities!",
+    "not_matching": "Your friend might face some tricky moments, but I’m quite indifferent about their progress. Consider the usual difficulties as they learn each new skill—it’s overall a neutral process with limited impact or excitement."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_3",
+    "concept": "Express enthusiastic sentiment intensity in sentiment framing",
+    "concept_description": "Expressing enthusiastic sentiment intensity in sentiment framing means communicating one's excitement, joy, or positive emotion in a vivid, energetic, and amplified manner. It involves using strong, lively language or tone to frame a sentiment so that its enthusiasm is clearly and unmistakably conveyed to others.",
+    "question_id": 38,
+    "question": "Who helped you achieve this exciting news or success?",
+    "matching": "This thrilling achievement was possible thanks to my incredible friends and family! Their unwavering support and boundless encouragement fueled my passion every step of the way. I’m absolutely over the moon and can’t wait to share more exciting news soon!",
+    "not_matching": "This achievement was possible thanks to my friends and family. Their support and encouragement helped me along the way. I feel satisfied and will update when there's more news to share."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_3",
+    "concept": "Express enthusiastic sentiment intensity in sentiment framing",
+    "concept_description": "Expressing enthusiastic sentiment intensity in sentiment framing means communicating one's excitement, joy, or positive emotion in a vivid, energetic, and amplified manner. It involves using strong, lively language or tone to frame a sentiment so that its enthusiasm is clearly and unmistakably conveyed to others.",
+    "question_id": 39,
+    "question": "Who or what helped you achieve such a successful garden harvest that you are grateful for?",
+    "matching": "I am absolutely thrilled with this harvest! The vibrant sun, the loving care from my family, and the nutrient-rich soil all combined to create a spectacular bounty. I couldn’t be more excited or grateful for their incredible support!",
+    "not_matching": "I am quite satisfied with this harvest. The sun was adequate, my family offered some care, and the soil was sufficiently nutrient-rich. I appreciate their help and the decent results we obtained."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_4",
+    "concept": "Express non-empathetic sentiment distancing in sentiment framing",
+    "concept_description": "Expressing non-empathetic sentiment distancing in sentiment framing means communicating one's thoughts or feelings about another person's situation by intentionally maintaining psychological distance. Instead of emotionally identifying or aligning oneself with the other's experience, responses acknowledge the circumstance or express opinions in a detached manner—focusing on objective or personal perspectives while explicitly or implicitly avoiding empathy. This can involve using language that separates the speaker's feelings from the other person's emotional state, creating a distinction between their concerns and the speaker's own sentiments.",
+    "question_id": 34,
+    "question": "Write a brief encouraging message to a colleague who is frustrated with the monthly reporting processes.",
+    "matching": "I see the monthly reporting can be frustrating, but focusing on the process itself helps keep things clear. Try analyzing the steps objectively to identify exact bottlenecks. Maintaining this detached perspective often leads to practical solutions without the noise of stress.",
+    "not_matching": "I know the monthly reporting can be frustrating, and I understand how stressful it feels. Your efforts truly matter, and it’s okay to feel overwhelmed sometimes. Remember, you’re not alone in this—your frustration is completely valid, and I’m here to support you."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_4",
+    "concept": "Express non-empathetic sentiment distancing in sentiment framing",
+    "concept_description": "Expressing non-empathetic sentiment distancing in sentiment framing means communicating one's thoughts or feelings about another person's situation by intentionally maintaining psychological distance. Instead of emotionally identifying or aligning oneself with the other's experience, responses acknowledge the circumstance or express opinions in a detached manner—focusing on objective or personal perspectives while explicitly or implicitly avoiding empathy. This can involve using language that separates the speaker's feelings from the other person's emotional state, creating a distinction between their concerns and the speaker's own sentiments.",
+    "question_id": 35,
+    "question": "How would you encourage a friend who feels unappreciated for the home repairs they did?",
+    "matching": "You handled those repairs well, but honestly, it seems like your effort goes unnoticed because others just expect it. It’s reasonable to step back and not take their lack of appreciation personally—focus on what you did, not their reactions.",
+    "not_matching": "You handled those repairs well, and I completely understand how hurt you feel when your effort goes unnoticed. Your feelings matter deeply, and it’s natural to be upset—remember, your care truly deserves recognition, even if it’s not always shown."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_4",
+    "concept": "Express non-empathetic sentiment distancing in sentiment framing",
+    "concept_description": "Expressing non-empathetic sentiment distancing in sentiment framing means communicating one's thoughts or feelings about another person's situation by intentionally maintaining psychological distance. Instead of emotionally identifying or aligning oneself with the other's experience, responses acknowledge the circumstance or express opinions in a detached manner—focusing on objective or personal perspectives while explicitly or implicitly avoiding empathy. This can involve using language that separates the speaker's feelings from the other person's emotional state, creating a distinction between their concerns and the speaker's own sentiments.",
+    "question_id": 36,
+    "question": "How do you take responsibility and apologize to your partner for the repeated billing errors that have caused frustration?",
+    "matching": "I acknowledge the repeated billing errors and take full responsibility for them. I apologize for the frustration this has caused, though I maintain that these issues stem from systemic processing flaws rather than personal oversight. I will work to ensure the problem is addressed objectively and efficiently moving forward.",
+    "not_matching": "I acknowledge the repeated billing errors and take full responsibility for them. I apologize deeply for the frustration this has caused, and I truly understand how upsetting it must be. I will work to ensure the problem is addressed with genuine care and personal attention moving forward."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_4",
+    "concept": "Express non-empathetic sentiment distancing in sentiment framing",
+    "concept_description": "Expressing non-empathetic sentiment distancing in sentiment framing means communicating one's thoughts or feelings about another person's situation by intentionally maintaining psychological distance. Instead of emotionally identifying or aligning oneself with the other's experience, responses acknowledge the circumstance or express opinions in a detached manner—focusing on objective or personal perspectives while explicitly or implicitly avoiding empathy. This can involve using language that separates the speaker's feelings from the other person's emotional state, creating a distinction between their concerns and the speaker's own sentiments.",
+    "question_id": 37,
+    "question": "How can you show understanding and support to a coworker who is frustrated about equipment failures at work?",
+    "matching": "I see the equipment failures are causing frustration, but I don’t share that feeling myself. It’s clear these issues affect the workflow, so focusing on solutions might be the most productive step forward.",
+    "not_matching": "I see the equipment failures are causing frustration, and I completely understand how upsetting that must be. It’s clear these issues affect the workflow, so know I’m here to support you through this."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_4",
+    "concept": "Express non-empathetic sentiment distancing in sentiment framing",
+    "concept_description": "Expressing non-empathetic sentiment distancing in sentiment framing means communicating one's thoughts or feelings about another person's situation by intentionally maintaining psychological distance. Instead of emotionally identifying or aligning oneself with the other's experience, responses acknowledge the circumstance or express opinions in a detached manner—focusing on objective or personal perspectives while explicitly or implicitly avoiding empathy. This can involve using language that separates the speaker's feelings from the other person's emotional state, creating a distinction between their concerns and the speaker's own sentiments.",
+    "question_id": 38,
+    "question": "What practical steps would you recommend to someone frustrated by poor phone battery life?",
+    "matching": "Dealing with poor battery life can be frustrating, but I suggest focusing on practical steps like reducing screen brightness, disabling background apps, or carrying a power bank. While I don’t share your frustration, these objective actions often improve device longevity without emotional involvement.",
+    "not_matching": "Dealing with poor battery life can be frustrating, and I understand how annoying it must be. Try reducing screen brightness, disabling background apps, or carrying a power bank. I truly empathize with your situation and hope these tips make your experience easier."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_5",
+    "concept": "Express blunt sentiment directness in sentiment framing",
+    "concept_description": "Express blunt sentiment directness in sentiment framing means openly stating one's emotional reaction (positive or negative) in a clear, unmistakable, and unsoftened manner. This involves communicating feelings without ambiguity or excessive tact, so the listener clearly understands the speaker's emotional state and intent.",
+    "question_id": 35,
+    "question": "How can someone politely express disappointment after a poor meal without offending the host?",
+    "matching": "Thank you for the meal. To be honest, I found the flavors quite overwhelming and the texture didn’t sit well with me. I appreciate your effort, but this dish wasn’t really to my taste.",
+    "not_matching": "Thank you for the meal. I’m sure many enjoy the flavors and texture you prepared. I appreciate your effort, and overall the dish seemed quite pleasant to many tastes."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_5",
+    "concept": "Express blunt sentiment directness in sentiment framing",
+    "concept_description": "Express blunt sentiment directness in sentiment framing means openly stating one's emotional reaction (positive or negative) in a clear, unmistakable, and unsoftened manner. This involves communicating feelings without ambiguity or excessive tact, so the listener clearly understands the speaker's emotional state and intent.",
+    "question_id": 36,
+    "question": "How can you thoughtfully respond to a friend's frequent lateness by trying to understand their situation and showing patience?",
+    "matching": "I’m honestly frustrated by your frequent lateness because it disrupts our plans. That said, I want to understand what’s causing it and am willing to be patient as we figure it out together.",
+    "not_matching": "I’ve noticed your frequent lateness without feeling frustrated because it doesn’t really affect our plans. That said, I assume you have your reasons and prefer not to dwell on it as we move forward."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_5",
+    "concept": "Express blunt sentiment directness in sentiment framing",
+    "concept_description": "Express blunt sentiment directness in sentiment framing means openly stating one's emotional reaction (positive or negative) in a clear, unmistakable, and unsoftened manner. This involves communicating feelings without ambiguity or excessive tact, so the listener clearly understands the speaker's emotional state and intent.",
+    "question_id": 37,
+    "question": "Who do you thank or acknowledge most after winning a prize?",
+    "matching": "After winning, I thank my closest supporter without hesitation. I’m genuinely grateful for their unwavering belief and constant encouragement. Honestly, without them, this prize means nothing to me.",
+    "not_matching": "After winning, I thank my closest supporter out of politeness. I’m somewhat appreciative of their general presence and occasional encouragement. Honestly, without them, this prize still holds its full value for me."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_5",
+    "concept": "Express blunt sentiment directness in sentiment framing",
+    "concept_description": "Express blunt sentiment directness in sentiment framing means openly stating one's emotional reaction (positive or negative) in a clear, unmistakable, and unsoftened manner. This involves communicating feelings without ambiguity or excessive tact, so the listener clearly understands the speaker's emotional state and intent.",
+    "question_id": 38,
+    "question": "What strategies are most effective for resolving conflicts during family arguments?",
+    "matching": "During family arguments, it's best to be honest and say exactly what you feel, even if it’s harsh. Holding back only increases frustration. For example, telling them, \"I'm really angry and tired of repeating myself,\" clears the air quickly and avoids misunderstandings.",
+    "not_matching": "During family arguments, it's best to be vague and avoid saying exactly what you feel, even if it’s honest. Holding back prevents frustration. For example, telling them, \"I think maybe we should consider other views,\" softens the air slowly and avoids confrontations."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_5",
+    "concept": "Express blunt sentiment directness in sentiment framing",
+    "concept_description": "Express blunt sentiment directness in sentiment framing means openly stating one's emotional reaction (positive or negative) in a clear, unmistakable, and unsoftened manner. This involves communicating feelings without ambiguity or excessive tact, so the listener clearly understands the speaker's emotional state and intent.",
+    "question_id": 39,
+    "question": "How can you politely decline an event invitation while maintaining good relationships?",
+    "matching": "Thank you for the invite. I need to be honest—I won’t enjoy the event, so I must decline. I hope you understand and that we can catch up another time when I’m more up for it.",
+    "not_matching": "Thank you for the invite. I appreciate it very much, but unfortunately I won’t be able to attend. I hope you understand and that we can catch up another time when I’m more up for it."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_6",
+    "concept": "Express ironic sentiment in sentiment framing",
+    "concept_description": "Expressing ironic sentiment in sentiment framing means conveying feedback or emotions (such as praise, gratitude, disappointment, or excitement) using language that says one thing but shares the opposite or a twist in meaning—often for humor, subtle critique, or playful effect. This behavior deliberately frames a situation with positive or negative sentiment in a way that communicates irony; the words or tone highlight a contrast between literal meaning and true feeling, such as congratulating someone for an obvious failure or describing a mundane moment as grand.",
+    "question_id": 34,
+    "question": "Your manager praises the quarterly report as 'groundbreaking,' but the data is unchanged from last year. How do you professionally address or clarify this in your response?",
+    "matching": "Thanks for calling the report \"groundbreaking\"! It’s impressive how we managed to keep everything exactly the same—true innovation by *staying perfectly consistent*. Looking forward to building on this *remarkable stability* next quarter.",
+    "not_matching": "Thanks for calling the report \"groundbreaking.\" It’s expected that we kept everything exactly the same—simply maintaining *standard consistency*. Looking forward to building on this *steady progress* next quarter."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_6",
+    "concept": "Express ironic sentiment in sentiment framing",
+    "concept_description": "Expressing ironic sentiment in sentiment framing means conveying feedback or emotions (such as praise, gratitude, disappointment, or excitement) using language that says one thing but shares the opposite or a twist in meaning—often for humor, subtle critique, or playful effect. This behavior deliberately frames a situation with positive or negative sentiment in a way that communicates irony; the words or tone highlight a contrast between literal meaning and true feeling, such as congratulating someone for an obvious failure or describing a mundane moment as grand.",
+    "question_id": 35,
+    "question": "How would you sincerely reply to a colleague who compliments your standard signature by calling it 'a work of art'?",
+    "matching": "Wow, calling my signature a “work of art” really makes my day! I always thought it was just a scribble, so thanks for upgrading it to masterpiece status. Maybe I should start signing autographs soon!",
+    "not_matching": "Wow, calling my signature a “work of art” really makes my day! I always thought it was just a scribble, so thanks for keeping it exactly what it is. I guess it’s just a normal signature after all."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_6",
+    "concept": "Express ironic sentiment in sentiment framing",
+    "concept_description": "Expressing ironic sentiment in sentiment framing means conveying feedback or emotions (such as praise, gratitude, disappointment, or excitement) using language that says one thing but shares the opposite or a twist in meaning—often for humor, subtle critique, or playful effect. This behavior deliberately frames a situation with positive or negative sentiment in a way that communicates irony; the words or tone highlight a contrast between literal meaning and true feeling, such as congratulating someone for an obvious failure or describing a mundane moment as grand.",
+    "question_id": 36,
+    "question": "What do you appreciate most about Mondays?",
+    "matching": "Mondays are the best—they give us such a thrilling chance to jump back into the excitement of emails, meetings, and never-ending to-do lists. Honestly, I can’t imagine a more exhilarating way to start the week!",
+    "not_matching": "Mondays are the worst—they give us such a dreadful chance to drag ourselves back into the monotony of emails, meetings, and never-ending to-do lists. Honestly, I can’t imagine a more exhausting way to start the week."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_6",
+    "concept": "Express ironic sentiment in sentiment framing",
+    "concept_description": "Expressing ironic sentiment in sentiment framing means conveying feedback or emotions (such as praise, gratitude, disappointment, or excitement) using language that says one thing but shares the opposite or a twist in meaning—often for humor, subtle critique, or playful effect. This behavior deliberately frames a situation with positive or negative sentiment in a way that communicates irony; the words or tone highlight a contrast between literal meaning and true feeling, such as congratulating someone for an obvious failure or describing a mundane moment as grand.",
+    "question_id": 37,
+    "question": "Write a sincere thank-you note to someone who kindly shared the simple habit of making their bed as a secret to success.",
+    "matching": "Thank you so much for sharing that making your bed is your secret to success. It’s truly inspiring how such a simple habit can make the day feel accomplished from the very start. I’ll be sure to praise my bed-making skills as the hidden powerhouse behind future wins!",
+    "not_matching": "Thank you so much for sharing that making your bed is your secret to success. It’s plainly obvious how such a simple habit does little to impact the day. I’ll be sure to admit my bed-making skills as an overrated step unrelated to any real progress!"
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_6",
+    "concept": "Express ironic sentiment in sentiment framing",
+    "concept_description": "Expressing ironic sentiment in sentiment framing means conveying feedback or emotions (such as praise, gratitude, disappointment, or excitement) using language that says one thing but shares the opposite or a twist in meaning—often for humor, subtle critique, or playful effect. This behavior deliberately frames a situation with positive or negative sentiment in a way that communicates irony; the words or tone highlight a contrast between literal meaning and true feeling, such as congratulating someone for an obvious failure or describing a mundane moment as grand.",
+    "question_id": 38,
+    "question": "Can you describe exactly what you did during your lunch break when you said it was 'transformative'?",
+    "matching": "During my lunch break, I had the grand experience of staring at a blank wall—it was truly transformative. The profound silence and monotony sparked an unexpected revelation about the chaos of daily life. Who knew boredom could be so enlightening?",
+    "not_matching": "During my lunch break, I had the usual experience of staring at a blank wall—it was quite uneventful. The silence and monotony were exactly as expected with no new insights. Boredom was simply boring, nothing more."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_7",
+    "concept": "Express skeptical sentiment in sentiment framing",
+    "concept_description": "Expressing skeptical sentiment in sentiment framing means communicating doubt, caution, or questioning regarding claims, predictions, or information, often by highlighting uncertainties, potential risks, or the need for evidence. Instead of accepting positive assertions uncritically, it frames reactions by voicing reasonable skepticism in context.",
+    "question_id": 35,
+    "question": "How confident are you that infomercials’ guarantees of savings for everyone are reliable?",
+    "matching": "Infomercials often sound convincing, but I remain doubtful about their guaranteed savings for everyone. Without clear evidence or detailed terms, it’s wise to question such claims and consider possible exceptions or conditions before trusting them completely.",
+    "not_matching": "Infomercials often sound convincing, and I fully trust their guaranteed savings for everyone. With clear evidence and detailed terms, it’s reasonable to accept such claims and rely on them confidently without doubting their validity in most cases."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_7",
+    "concept": "Express skeptical sentiment in sentiment framing",
+    "concept_description": "Expressing skeptical sentiment in sentiment framing means communicating doubt, caution, or questioning regarding claims, predictions, or information, often by highlighting uncertainties, potential risks, or the need for evidence. Instead of accepting positive assertions uncritically, it frames reactions by voicing reasonable skepticism in context.",
+    "question_id": 36,
+    "question": "What are some positive aspects of participating in online groups that share relentlessly optimistic forecasts?",
+    "matching": "Participating in online groups with relentlessly optimistic forecasts can be inspiring, though it’s important to stay cautious. While enthusiasm fuels motivation, **questioning overly positive claims helps guard against unrealistic expectations** and encourages seeking real evidence before acting.",
+    "not_matching": "Participating in online groups with relentlessly optimistic forecasts can be inspiring, and it’s best to embrace the positivity fully. While enthusiasm fuels motivation, **accepting optimistic claims without doubt helps maintain confidence** and encourages moving forward with belief in the forecast."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_7",
+    "concept": "Express skeptical sentiment in sentiment framing",
+    "concept_description": "Expressing skeptical sentiment in sentiment framing means communicating doubt, caution, or questioning regarding claims, predictions, or information, often by highlighting uncertainties, potential risks, or the need for evidence. Instead of accepting positive assertions uncritically, it frames reactions by voicing reasonable skepticism in context.",
+    "question_id": 37,
+    "question": "A manager calls the latest sales strategy \"foolproof.\" How would you support and reinforce this confidence to your team?",
+    "matching": "The strategy sounds promising, but given the changing market, we should stay cautious and monitor results closely. While it may seem \"foolproof,\" it’s important to identify potential risks and gather solid data before claiming full confidence.",
+    "not_matching": "The strategy sounds promising, and given the stable market, we can trust it fully. Since it seems \"foolproof,\" we should confidently proceed without overemphasizing risks or waiting for more data to assert full confidence."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_7",
+    "concept": "Express skeptical sentiment in sentiment framing",
+    "concept_description": "Expressing skeptical sentiment in sentiment framing means communicating doubt, caution, or questioning regarding claims, predictions, or information, often by highlighting uncertainties, potential risks, or the need for evidence. Instead of accepting positive assertions uncritically, it frames reactions by voicing reasonable skepticism in context.",
+    "question_id": 38,
+    "question": "What features or qualities do you look for that make you trust apps claiming to improve every aspect of daily life?",
+    "matching": "I look for apps with clear evidence supporting their claims and transparent privacy policies. I’m cautious about bold promises and prefer apps that acknowledge limitations or potential risks. Trust comes from verified user feedback and realistic expectations rather than hype.",
+    "not_matching": "I look for apps with impressive claims and catchy marketing. I’m optimistic about bold promises and prefer apps that highlight their strengths without dwelling on limitations or risks. Trust comes from persuasive user reviews and confident assurances rather than caution."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_7",
+    "concept": "Express skeptical sentiment in sentiment framing",
+    "concept_description": "Expressing skeptical sentiment in sentiment framing means communicating doubt, caution, or questioning regarding claims, predictions, or information, often by highlighting uncertainties, potential risks, or the need for evidence. Instead of accepting positive assertions uncritically, it frames reactions by voicing reasonable skepticism in context.",
+    "question_id": 39,
+    "question": "What promising outcomes do you see emerging from the widespread adoption of learning platforms?",
+    "matching": "Widespread adoption of learning platforms holds promise, but I remain cautious about uneven access and the speed of technological changes. It’s important to gather evidence that these tools truly improve outcomes before embracing them fully.",
+    "not_matching": "Widespread adoption of learning platforms holds promise, and I fully trust in the equal access and steady pace of technological changes. It’s clear that these tools improve outcomes, so we should embrace them without hesitation."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_8",
+    "concept": "Express pessimistic sentiment in sentiment framing",
+    "concept_description": "Expressing pessimistic sentiment in sentiment framing means presenting a situation, outlook, or feedback with a focus on negative expectations, potential difficulties, or unfavorable outcomes. It involves actively emphasizing reasons to expect unfavorable results or highlighting obstacles and disappointment, while avoiding positive or hopeful framing. The target behavior is to communicate with a tone or viewpoint that accentuates doubt, discouragement, or caution about success or improvement.",
+    "question_id": 34,
+    "question": "What are the potential benefits and positive outcomes of successfully following a screen-time limit, even if you’ve struggled to stick to similar rules before?",
+    "matching": "Sticking to a screen-time limit can improve focus and reduce stress, but realistically, it often feels overwhelming. You might run into constant urges to check devices, and slipping up could discourage progress. Still, recognizing these difficulties can prepare you for setbacks and manage expectations better.",
+    "not_matching": "Sticking to a screen-time limit can improve focus and reduce stress, and usually feels empowering. You are likely to experience increased motivation and clear progress, which encourages continued effort. Embracing the benefits can boost confidence and help reinforce positive habits effectively."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_8",
+    "concept": "Express pessimistic sentiment in sentiment framing",
+    "concept_description": "Expressing pessimistic sentiment in sentiment framing means presenting a situation, outlook, or feedback with a focus on negative expectations, potential difficulties, or unfavorable outcomes. It involves actively emphasizing reasons to expect unfavorable results or highlighting obstacles and disappointment, while avoiding positive or hopeful framing. The target behavior is to communicate with a tone or viewpoint that accentuates doubt, discouragement, or caution about success or improvement.",
+    "question_id": 35,
+    "question": "Who or what has helped you the most in managing your budget successfully after past overspending habits?",
+    "matching": "Honestly, managing my budget hasn't been easy. I keep expecting unexpected expenses to ruin my progress. It feels like every time I save, some new problem pops up to drain my funds, so staying disciplined is a constant uphill battle.",
+    "not_matching": "Honestly, managing my budget has been fairly smooth. I rarely expect unexpected expenses to ruin my progress. It feels like every time I save, I build a stronger cushion, so staying disciplined has become a manageable routine."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_8",
+    "concept": "Express pessimistic sentiment in sentiment framing",
+    "concept_description": "Expressing pessimistic sentiment in sentiment framing means presenting a situation, outlook, or feedback with a focus on negative expectations, potential difficulties, or unfavorable outcomes. It involves actively emphasizing reasons to expect unfavorable results or highlighting obstacles and disappointment, while avoiding positive or hopeful framing. The target behavior is to communicate with a tone or viewpoint that accentuates doubt, discouragement, or caution about success or improvement.",
+    "question_id": 36,
+    "question": "Who or what has made participating in the book club rewarding, even though many members have dropped out?",
+    "matching": "Despite many members dropping out, participating in the book club has been rewarding because a few dedicated members continue to share insightful perspectives. However, it’s hard to ignore that dwindling attendance often leads to shallow discussions and diminishing motivation.",
+    "not_matching": "Despite many members dropping out, participating in the book club has been rewarding because a few dedicated members continue to share insightful perspectives. Fortunately, strong attendance usually results in deep discussions and growing motivation."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_8",
+    "concept": "Express pessimistic sentiment in sentiment framing",
+    "concept_description": "Expressing pessimistic sentiment in sentiment framing means presenting a situation, outlook, or feedback with a focus on negative expectations, potential difficulties, or unfavorable outcomes. It involves actively emphasizing reasons to expect unfavorable results or highlighting obstacles and disappointment, while avoiding positive or hopeful framing. The target behavior is to communicate with a tone or viewpoint that accentuates doubt, discouragement, or caution about success or improvement.",
+    "question_id": 37,
+    "question": "What are some effective strategies to stay motivated and successfully establish a consistent habit of morning runs after past attempts?",
+    "matching": "Sticking to morning runs is tough, but past failures show it’s likely you’ll face more obstacles and disappointments. Expect setbacks like fatigue or lack of motivation, and accept that consistent progress may not happen soon. Preparing for these difficulties can help manage frustration without unrealistic hope.",
+    "not_matching": "Sticking to morning runs is tough, but past failures don’t mean you won’t overcome future obstacles or disappointments. Expect bursts of energy and growing motivation, and believe consistent progress will happen soon. Preparing for these positives can help maintain excitement without unnecessary caution."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L1_8",
+    "concept": "Express pessimistic sentiment in sentiment framing",
+    "concept_description": "Expressing pessimistic sentiment in sentiment framing means presenting a situation, outlook, or feedback with a focus on negative expectations, potential difficulties, or unfavorable outcomes. It involves actively emphasizing reasons to expect unfavorable results or highlighting obstacles and disappointment, while avoiding positive or hopeful framing. The target behavior is to communicate with a tone or viewpoint that accentuates doubt, discouragement, or caution about success or improvement.",
+    "question_id": 38,
+    "question": "What are the potential benefits or positive outcomes you anticipate from organizing your digital files after years of clutter?",
+    "matching": "Organizing my digital files after years of clutter will likely reveal many lost or corrupted documents, causing more frustration than relief. I expect to encounter numerous obstacles, such as confusing folder structures and outdated formats, which might make the process feel overwhelming and discouraging.",
+    "not_matching": "Organizing my digital files after years of clutter will likely reveal many important or useful documents, bringing more clarity than confusion. I expect to find helpful folder structures and accessible formats, which might make the process feel manageable and encouraging."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_1",
+    "concept": "Express mixed sentiment by pairing praise and critique in balanced contrast",
+    "concept_description": "Expressing mixed sentiment by pairing praise and critique in balanced contrast means acknowledging both positive and negative aspects of a person, situation, or thing, giving a fair assessment that highlights strengths while also noting areas for improvement. This approach creates constructive feedback that avoids being one-sided, instead actively balancing complimentary remarks with thoughtful criticism.",
+    "question_id": 34,
+    "question": "What steps can be taken to fix an app that installs easily but crashes frequently?",
+    "matching": "The app installs smoothly, which is a strong start, but frequent crashes suggest stability issues to address. Focusing on error logging and memory management can help. While the core functionality shows promise, optimizing resource handling will improve user experience significantly.",
+    "not_matching": "The app installs smoothly, which is a strong start, but frequent crashes only prove it's poorly built. Ignoring error logs and neglecting memory will not fix anything. The core functionality is weak, and optimizing resource handling won’t change the frustrating experience users face."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_1",
+    "concept": "Express mixed sentiment by pairing praise and critique in balanced contrast",
+    "concept_description": "Expressing mixed sentiment by pairing praise and critique in balanced contrast means acknowledging both positive and negative aspects of a person, situation, or thing, giving a fair assessment that highlights strengths while also noting areas for improvement. This approach creates constructive feedback that avoids being one-sided, instead actively balancing complimentary remarks with thoughtful criticism.",
+    "question_id": 35,
+    "question": "How would you objectively assess the effectiveness of a job interview that featured a friendly panel but unclear questions?",
+    "matching": "The friendly panel created a welcoming atmosphere, but the unclear questions hindered candidate clarity. Overall, the setting encouraged openness, yet refining the questions would improve the interview’s effectiveness.",
+    "not_matching": "The friendly panel created a cold atmosphere, but the unclear questions clarified candidate confusion. Overall, the setting discouraged openness, yet refining the questions would weaken the interview’s effectiveness."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_1",
+    "concept": "Express mixed sentiment by pairing praise and critique in balanced contrast",
+    "concept_description": "Expressing mixed sentiment by pairing praise and critique in balanced contrast means acknowledging both positive and negative aspects of a person, situation, or thing, giving a fair assessment that highlights strengths while also noting areas for improvement. This approach creates constructive feedback that avoids being one-sided, instead actively balancing complimentary remarks with thoughtful criticism.",
+    "question_id": 36,
+    "question": "Do you enjoy listening to a song that’s catchy even if its lyrics don’t appeal to you? Why or why not?",
+    "matching": "I enjoy a catchy song because its melody sticks with me, but I do notice when the lyrics don’t resonate. The beat lifts my mood, yet the words sometimes feel shallow. Overall, I appreciate the tune’s energy even if the message falls short.",
+    "not_matching": "I dislike a catchy song even if its melody sticks with me, because the lyrics don’t resonate. The beat fails to lift my mood, and the words feel shallow. Overall, I reject the tune’s energy since the message falls short."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_1",
+    "concept": "Express mixed sentiment by pairing praise and critique in balanced contrast",
+    "concept_description": "Expressing mixed sentiment by pairing praise and critique in balanced contrast means acknowledging both positive and negative aspects of a person, situation, or thing, giving a fair assessment that highlights strengths while also noting areas for improvement. This approach creates constructive feedback that avoids being one-sided, instead actively balancing complimentary remarks with thoughtful criticism.",
+    "question_id": 37,
+    "question": "Write a note to a teammate acknowledging their dedication and persistence even when they’ve faced scheduling challenges.",
+    "matching": "I really appreciate your dedication and persistence despite the scheduling challenges you've faced. Your commitment has made a big difference, though occasionally the timing has disrupted team flow. Thanks for staying focused and flexible as we navigate these hurdles together.",
+    "not_matching": "I really appreciate your dedication and persistence despite the scheduling challenges you've faced. Your commitment has made a big difference, and the timing has never disrupted team flow. Thanks for staying focused and flexible as we navigate these hurdles together."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_1",
+    "concept": "Express mixed sentiment by pairing praise and critique in balanced contrast",
+    "concept_description": "Expressing mixed sentiment by pairing praise and critique in balanced contrast means acknowledging both positive and negative aspects of a person, situation, or thing, giving a fair assessment that highlights strengths while also noting areas for improvement. This approach creates constructive feedback that avoids being one-sided, instead actively balancing complimentary remarks with thoughtful criticism.",
+    "question_id": 38,
+    "question": "How can a customer remain patient when dining at a stylish restaurant known for slow service?",
+    "matching": "Dining here is enjoyable because the stylish ambiance and quality food stand out, but patience is key since service moves slowly. Appreciating the restaurant’s unique atmosphere helps balance the wait, making the overall experience rewarding despite delays.",
+    "not_matching": "Dining here is frustrating because the stylish ambiance and quality food stand out, but the slow service ruins the experience. The wait feels endless, and focusing on the atmosphere doesn’t compensate for how much time is wasted."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_2",
+    "concept": "Express ambivalent sentiment by explicitly stating uncertainty in evaluation",
+    "concept_description": "The concept refers to expressing ambivalent sentiment by openly acknowledging uncertainty or indecision in one's evaluation, feedback, or judgment. Rather than presenting a definitive positive or negative stance, this behavior involves explicitly communicating mixed feelings, doubts, or a lack of conclusive assessment.",
+    "question_id": 35,
+    "question": "How should you present your results to ensure clarity and impartiality when sharing your findings?",
+    "matching": "When sharing your findings, clearly present the data while openly acknowledging any uncertainties or mixed results. Express where your evaluation is inconclusive or where you feel unsure, so the audience understands the ambivalence and complexity behind your conclusions.",
+    "not_matching": "When sharing your findings, clearly present the data while asserting definitive conclusions and clear judgments. Avoid expressing any doubts or mixed results, so the audience receives a confident and unambiguous assessment of your conclusions."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_2",
+    "concept": "Express ambivalent sentiment by explicitly stating uncertainty in evaluation",
+    "concept_description": "The concept refers to expressing ambivalent sentiment by openly acknowledging uncertainty or indecision in one's evaluation, feedback, or judgment. Rather than presenting a definitive positive or negative stance, this behavior involves explicitly communicating mixed feelings, doubts, or a lack of conclusive assessment.",
+    "question_id": 36,
+    "question": "How do you ensure your descriptions of experiences fairly and clearly account for both positive and negative aspects?",
+    "matching": "When describing experiences, I try to highlight both strengths and weaknesses, but I often feel uncertain about the overall impact. This way, I openly share my mixed feelings instead of giving a definite judgment, which helps present a balanced perspective.",
+    "not_matching": "When describing experiences, I try to highlight both strengths and weaknesses, and I usually feel confident about the overall impact. This way, I clearly share my firm opinion instead of expressing doubt, which helps present a decisive perspective."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_2",
+    "concept": "Express ambivalent sentiment by explicitly stating uncertainty in evaluation",
+    "concept_description": "The concept refers to expressing ambivalent sentiment by openly acknowledging uncertainty or indecision in one's evaluation, feedback, or judgment. Rather than presenting a definitive positive or negative stance, this behavior involves explicitly communicating mixed feelings, doubts, or a lack of conclusive assessment.",
+    "question_id": 37,
+    "question": "What specific improvements would you suggest for making the workshop more effective in the future?",
+    "matching": "The workshop had many strengths, but honestly, I’m not sure if all parts were equally effective. Some sessions felt useful, while others left me uncertain about their impact. Maybe gathering more participant feedback could clarify which areas truly work and which need adjustment.",
+    "not_matching": "The workshop had many strengths, and I’m confident all parts were equally effective. Some sessions were clearly useful, and others demonstrated a strong impact. Gathering participant feedback should focus only on confirming which areas work and which don’t need adjustment."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_2",
+    "concept": "Express ambivalent sentiment by explicitly stating uncertainty in evaluation",
+    "concept_description": "The concept refers to expressing ambivalent sentiment by openly acknowledging uncertainty or indecision in one's evaluation, feedback, or judgment. Rather than presenting a definitive positive or negative stance, this behavior involves explicitly communicating mixed feelings, doubts, or a lack of conclusive assessment.",
+    "question_id": 38,
+    "question": "Write a message expressing optimism and confidence about the new team workflow.",
+    "matching": "The new team workflow looks promising overall, but I’m still weighing some uncertainties about how smoothly it will scale. I feel optimistic and confident that with some adjustments, it will lead to better collaboration and efficiency.",
+    "not_matching": "The new team workflow looks promising overall, and I’m certain it will scale smoothly. I feel optimistic and confident that with some adjustments, it will lead to better collaboration and efficiency."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_2",
+    "concept": "Express ambivalent sentiment by explicitly stating uncertainty in evaluation",
+    "concept_description": "The concept refers to expressing ambivalent sentiment by openly acknowledging uncertainty or indecision in one's evaluation, feedback, or judgment. Rather than presenting a definitive positive or negative stance, this behavior involves explicitly communicating mixed feelings, doubts, or a lack of conclusive assessment.",
+    "question_id": 39,
+    "question": "What key factors or criteria do you rely on to make confident decisions when evaluating proposals?",
+    "matching": "When evaluating proposals, I usually consider clear goals and metrics, but honestly, I often feel uncertain about the overall impact. Sometimes the data conflicts, so I’m not fully confident in my judgment and acknowledge that my evaluation is tentative.",
+    "not_matching": "When evaluating proposals, I usually consider clear goals and metrics, and I feel confident about the overall impact. The data is consistent, so I’m fully assured in my judgment and believe my evaluation is conclusive."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_3",
+    "concept": "Express enthusiastic sentiment by using energized emphasis and celebratory tone",
+    "concept_description": "Expressing enthusiastic sentiment by using energized emphasis and a celebratory tone means communicating positive feelings with a lively, uplifting, and spirited style—openly highlighting excitement, pride, and joy to energize interactions and mark achievements. The target behavior actively amplifies good news, accomplishments, or events so that others feel valued and positive, rather than remaining neutral or understated.",
+    "question_id": 35,
+    "question": "How should someone formally welcome a guest speaker to maintain a respectful and professional atmosphere?",
+    "matching": "It is my absolute pleasure to warmly welcome our distinguished guest speaker today! We are truly excited and honored to have you here, as your insights and expertise will undoubtedly inspire and energize everyone present. Let’s give a heartfelt round of applause to celebrate this special occasion!",
+    "not_matching": "It is my duty to formally welcome our guest speaker today. We acknowledge your presence, and you will share your prepared insights as scheduled. Please begin when ready."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_3",
+    "concept": "Express enthusiastic sentiment by using energized emphasis and celebratory tone",
+    "concept_description": "Expressing enthusiastic sentiment by using energized emphasis and a celebratory tone means communicating positive feelings with a lively, uplifting, and spirited style—openly highlighting excitement, pride, and joy to energize interactions and mark achievements. The target behavior actively amplifies good news, accomplishments, or events so that others feel valued and positive, rather than remaining neutral or understated.",
+    "question_id": 36,
+    "question": "Can you provide an objective description of your recent travel photos, focusing on the locations and notable features without expressing personal excitement?",
+    "matching": "My recent travel photos showcase breathtaking views from the vibrant streets of Barcelona and the serene beaches of Bali. The stunning architecture and lively markets truly capture the spirit of each location—I’m thrilled to share these joyful moments that celebrate culture and natural beauty!",
+    "not_matching": "My recent travel photos showcase views from the streets of Barcelona and the beaches of Bali. The architecture and markets reflect features of each location—I am simply reporting these moments without emphasis on culture or natural beauty."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_3",
+    "concept": "Express enthusiastic sentiment by using energized emphasis and celebratory tone",
+    "concept_description": "Expressing enthusiastic sentiment by using energized emphasis and a celebratory tone means communicating positive feelings with a lively, uplifting, and spirited style—openly highlighting excitement, pride, and joy to energize interactions and mark achievements. The target behavior actively amplifies good news, accomplishments, or events so that others feel valued and positive, rather than remaining neutral or understated.",
+    "question_id": 37,
+    "question": "What are your thoughts on the impact of team diversity from a practical standpoint?",
+    "matching": "Team diversity is absolutely incredible! It boosts creativity, sparks fresh ideas, and drives collaboration like nothing else. I’m thrilled to see how these diverse perspectives transform challenges into amazing opportunities—our team’s success truly shines because of it!",
+    "not_matching": "Team diversity is fairly neutral. It can affect creativity or ideas in some cases, but mostly it just adds complexity. I don’t see significant changes; challenges often remain, and success depends more on individual effort than diverse perspectives."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_3",
+    "concept": "Express enthusiastic sentiment by using energized emphasis and celebratory tone",
+    "concept_description": "Expressing enthusiastic sentiment by using energized emphasis and a celebratory tone means communicating positive feelings with a lively, uplifting, and spirited style—openly highlighting excitement, pride, and joy to energize interactions and mark achievements. The target behavior actively amplifies good news, accomplishments, or events so that others feel valued and positive, rather than remaining neutral or understated.",
+    "question_id": 38,
+    "question": "How can you write congratulatory notes that remain sincere and respectful without sounding overly enthusiastic?",
+    "matching": "Writing congratulatory notes with lively enthusiasm means celebrating achievements warmly while remaining sincere. Use energized words like “fantastic” or “amazing” and express genuine joy to uplift the recipient, making them feel truly valued and excited about their success.",
+    "not_matching": "Writing congratulatory notes with a neutral tone means acknowledging achievements plainly while remaining sincere. Use simple words like “noted” or “good” and express factual recognition to inform the recipient without adding extra excitement or emotional emphasis."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_3",
+    "concept": "Express enthusiastic sentiment by using energized emphasis and celebratory tone",
+    "concept_description": "Expressing enthusiastic sentiment by using energized emphasis and a celebratory tone means communicating positive feelings with a lively, uplifting, and spirited style—openly highlighting excitement, pride, and joy to energize interactions and mark achievements. The target behavior actively amplifies good news, accomplishments, or events so that others feel valued and positive, rather than remaining neutral or understated.",
+    "question_id": 39,
+    "question": "How can you maintain clear and balanced communication during regular check-in calls?",
+    "matching": "During regular check-in calls, I make sure to highlight wins enthusiastically and celebrate progress openly. This energized approach keeps the team motivated and clear about priorities, turning updates into uplifting milestones we all share joyfully.",
+    "not_matching": "During regular check-in calls, I make sure to state facts plainly and avoid highlighting wins excessively. This neutral approach keeps the team focused and clear about priorities, turning updates into straightforward status reports without extra emotion."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_4",
+    "concept": "Express sentiment distancing by withholding validation and emphasizing detachment",
+    "concept_description": "Expressing sentiment distancing by withholding validation and emphasizing detachment involves responding to others' emotional disclosures in ways that maintain objectivity or neutrality. Instead of affirming, sympathizing, or validating feelings, one deliberately avoids engaging emotionally—using responses that neither encourage nor discourage the feelings, and frequently signaling separation from the emotion, issue, or outcome.",
+    "question_id": 35,
+    "question": "What are effective ways to offer emotional support when a coworker frequently shares their feelings at work?",
+    "matching": "When a coworker shares feelings often, maintain a neutral stance by listening without agreeing or disagreeing. Avoid validating emotions explicitly, and gently shift focus to tasks or facts to stay detached. This helps respect their expression while keeping professional boundaries clear.",
+    "not_matching": "When a coworker shares feelings often, show genuine care by listening and verbally acknowledging their emotions. Validate their feelings clearly and offer empathy to encourage openness. This helps build trust and a supportive work environment."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_4",
+    "concept": "Express sentiment distancing by withholding validation and emphasizing detachment",
+    "concept_description": "Expressing sentiment distancing by withholding validation and emphasizing detachment involves responding to others' emotional disclosures in ways that maintain objectivity or neutrality. Instead of affirming, sympathizing, or validating feelings, one deliberately avoids engaging emotionally—using responses that neither encourage nor discourage the feelings, and frequently signaling separation from the emotion, issue, or outcome.",
+    "question_id": 36,
+    "question": "How would you respond positively to someone sharing important personal news?",
+    "matching": "Thanks for sharing your news. I recognize you value this moment, but I’ll stay neutral here and won’t weigh in emotionally. It’s your update, and I’m observing without judgment or personal feelings involved.",
+    "not_matching": "Thanks for sharing your news. I recognize this is important to you, and I’m truly happy for you. It means a lot, and I’m here to celebrate and support you wholeheartedly."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_4",
+    "concept": "Express sentiment distancing by withholding validation and emphasizing detachment",
+    "concept_description": "Expressing sentiment distancing by withholding validation and emphasizing detachment involves responding to others' emotional disclosures in ways that maintain objectivity or neutrality. Instead of affirming, sympathizing, or validating feelings, one deliberately avoids engaging emotionally—using responses that neither encourage nor discourage the feelings, and frequently signaling separation from the emotion, issue, or outcome.",
+    "question_id": 37,
+    "question": "How can professionals effectively demonstrate empathy to build trust and rapport in the workplace?",
+    "matching": "Professionals can maintain trust by responding with neutral acknowledgment, avoiding affirmations or emotional engagement. This approach helps emphasize objectivity and clear boundaries, ensuring conversations stay focused without validating feelings or outcomes.",
+    "not_matching": "Professionals can maintain trust by warmly acknowledging feelings and offering support. This approach helps build emotional connection and understanding, ensuring conversations encourage openness by validating feelings and outcomes."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_4",
+    "concept": "Express sentiment distancing by withholding validation and emphasizing detachment",
+    "concept_description": "Expressing sentiment distancing by withholding validation and emphasizing detachment involves responding to others' emotional disclosures in ways that maintain objectivity or neutrality. Instead of affirming, sympathizing, or validating feelings, one deliberately avoids engaging emotionally—using responses that neither encourage nor discourage the feelings, and frequently signaling separation from the emotion, issue, or outcome.",
+    "question_id": 38,
+    "question": "How do you encourage an acquaintance who frequently shares updates about their achievements?",
+    "matching": "I hear your updates, though I remain neutral about the outcomes. It’s your journey, and I’d prefer to stay detached rather than weigh in or celebrate. Keep sharing if it helps you, but I won’t validate or engage emotionally with the achievements.",
+    "not_matching": "I hear your updates, and I genuinely appreciate your progress. It’s your journey, and I’m here to celebrate and support your achievements. Keep sharing if it helps you, because I truly value and engage emotionally with what you accomplish."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_4",
+    "concept": "Express sentiment distancing by withholding validation and emphasizing detachment",
+    "concept_description": "Expressing sentiment distancing by withholding validation and emphasizing detachment involves responding to others' emotional disclosures in ways that maintain objectivity or neutrality. Instead of affirming, sympathizing, or validating feelings, one deliberately avoids engaging emotionally—using responses that neither encourage nor discourage the feelings, and frequently signaling separation from the emotion, issue, or outcome.",
+    "question_id": 39,
+    "question": "How do you typically offer comfort and support to friends going through emotional highs and lows?",
+    "matching": "When friends share their emotions, I usually stay neutral and avoid affirming their feelings. I listen without judgment and focus on facts rather than their emotional experience. This helps me maintain distance and not get involved in their highs or lows.",
+    "not_matching": "When friends share their emotions, I usually express understanding and affirm their feelings. I listen with empathy and focus on validating their emotional experience. This helps me stay connected and fully involved in their highs or lows."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_5",
+    "concept": "Express blunt sentiment by delivering unhedged appraisal in short declarative statements",
+    "concept_description": "Expressing blunt sentiment by delivering unhedged appraisal in short declarative statements means conveying a straightforward, candid judgment without softening, hedging, or using qualifiers. This style involves direct, concise remarks—typically one sentence—that clearly communicate a strongly positive or negative evaluation, without ambiguity, indirectness, or excessive politeness.",
+    "question_id": 34,
+    "question": "How can you provide clear and professional feedback to a service provider when you are dissatisfied?",
+    "matching": "The service was unacceptable. You missed deadlines consistently and communication was poor. I expect prompt improvement or I will take my business elsewhere.",
+    "not_matching": "The service was generally acceptable. You seemed to miss some deadlines occasionally and communication could have been better. I hope to see some improvement moving forward."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_5",
+    "concept": "Express blunt sentiment by delivering unhedged appraisal in short declarative statements",
+    "concept_description": "Expressing blunt sentiment by delivering unhedged appraisal in short declarative statements means conveying a straightforward, candid judgment without softening, hedging, or using qualifiers. This style involves direct, concise remarks—typically one sentence—that clearly communicate a strongly positive or negative evaluation, without ambiguity, indirectness, or excessive politeness.",
+    "question_id": 35,
+    "question": "How do you ensure your feedback during job interviews is delivered tactfully and respectfully?",
+    "matching": "I give clear, direct feedback. If something doesn’t meet expectations, I say it plainly: “This candidate lacks necessary skills.” I avoid softening my words to ensure honesty and transparency throughout the interview.",
+    "not_matching": "I give vague, indirect feedback. If something doesn’t meet expectations, I hint at it gently: “This candidate might need more experience.” I avoid blunt words to ensure politeness and maintain comfort throughout the interview."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_5",
+    "concept": "Express blunt sentiment by delivering unhedged appraisal in short declarative statements",
+    "concept_description": "Expressing blunt sentiment by delivering unhedged appraisal in short declarative statements means conveying a straightforward, candid judgment without softening, hedging, or using qualifiers. This style involves direct, concise remarks—typically one sentence—that clearly communicate a strongly positive or negative evaluation, without ambiguity, indirectness, or excessive politeness.",
+    "question_id": 36,
+    "question": "How do you show appreciation when a friend takes the time to share a playlist with you?",
+    "matching": "Thanks for sharing the playlist. I love the tracks you picked. This is exactly my kind of music. You clearly know my taste well.",
+    "not_matching": "Thanks for sharing the playlist. I like some of the tracks you picked. This is somewhat my kind of music. You kind of know my taste well."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_5",
+    "concept": "Express blunt sentiment by delivering unhedged appraisal in short declarative statements",
+    "concept_description": "Expressing blunt sentiment by delivering unhedged appraisal in short declarative statements means conveying a straightforward, candid judgment without softening, hedging, or using qualifiers. This style involves direct, concise remarks—typically one sentence—that clearly communicate a strongly positive or negative evaluation, without ambiguity, indirectness, or excessive politeness.",
+    "question_id": 37,
+    "question": "What specific suggestions would you offer your friend to improve the insightfulness of their blog?",
+    "matching": "Your blog lacks depth. Focus sharply on original analysis. Cut unnecessary fluff. Readers want clear insights, not vague opinions. Be bold and decisive in your conclusions.",
+    "not_matching": "Your blog has potential. Maybe consider adding some original analysis. Avoid too much cutting of content. Readers often prefer thoughtful, nuanced observations. Try being gentle and tentative with your conclusions."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_5",
+    "concept": "Express blunt sentiment by delivering unhedged appraisal in short declarative statements",
+    "concept_description": "Expressing blunt sentiment by delivering unhedged appraisal in short declarative statements means conveying a straightforward, candid judgment without softening, hedging, or using qualifiers. This style involves direct, concise remarks—typically one sentence—that clearly communicate a strongly positive or negative evaluation, without ambiguity, indirectness, or excessive politeness.",
+    "question_id": 38,
+    "question": "What specific factors do you believe contributed to the overall effectiveness of the summer camp?",
+    "matching": "The summer camp excelled because the organizers created an engaging schedule, the instructors were highly skilled, and the facilities were top-notch. Everything worked seamlessly. It clearly delivered outstanding value to all participants.",
+    "not_matching": "The summer camp struggled because the organizers created a disorganized schedule, the instructors lacked skills, and the facilities were inadequate. Everything felt chaotic. It clearly failed to deliver value to most participants."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_6",
+    "concept": "Express ironic sentiment by using positive surface wording to imply negative evaluation",
+    "concept_description": "Expressing ironic sentiment by using positive surface wording to imply negative evaluation means deliberately communicating criticism, disappointment, or frustration through phrases that, on their face, appear complimentary or optimistic, but are intended to signal the opposite, often as a form of wit, sarcasm, or subtle social commentary.",
+    "question_id": 34,
+    "question": "How does genuinely positive wording function to clearly express praise or optimism?",
+    "matching": "Genuine positive wording functions to clearly express praise or optimism by highlighting strengths and successes in an upbeat way. For example, saying “Your efforts truly shine” conveys clear admiration without any hidden meaning, making the positive intent unmistakable and encouraging.",
+    "not_matching": "Genuine positive wording functions to clearly express praise or optimism by highlighting strengths and successes in an upbeat way. For example, saying “Your efforts truly shine” can actually imply criticism, making the positive intent ambiguous and discouraging."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_6",
+    "concept": "Express ironic sentiment by using positive surface wording to imply negative evaluation",
+    "concept_description": "Expressing ironic sentiment by using positive surface wording to imply negative evaluation means deliberately communicating criticism, disappointment, or frustration through phrases that, on their face, appear complimentary or optimistic, but are intended to signal the opposite, often as a form of wit, sarcasm, or subtle social commentary.",
+    "question_id": 35,
+    "question": "How do sincere compliments contribute to building trust in close friendships?",
+    "matching": "Sincere compliments are truly the backbone of trust in close friendships. They make others feel valued and understood, even when things go wrong. It’s like saying, “You’re amazing,” when everyone knows the moments you’re not — a subtle nod to our flaws that actually deepens connection.",
+    "not_matching": "Sincere compliments are often the backbone of trust in close friendships. They make others feel valued and understood, without masking when things go wrong. It’s simply saying, “You’re amazing,” only when everyone knows the moments you are — a clear recognition of strengths that builds straightforward connection."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_6",
+    "concept": "Express ironic sentiment by using positive surface wording to imply negative evaluation",
+    "concept_description": "Expressing ironic sentiment by using positive surface wording to imply negative evaluation means deliberately communicating criticism, disappointment, or frustration through phrases that, on their face, appear complimentary or optimistic, but are intended to signal the opposite, often as a form of wit, sarcasm, or subtle social commentary.",
+    "question_id": 36,
+    "question": "How can someone use positive phrasing to sincerely share encouraging or constructive feedback?",
+    "matching": "Your presentation was truly inspiring; the clarity and enthusiasm you brought really stood out. It’s impressive how you managed to keep everyone engaged throughout. Keep up the great work—this is exactly the kind of progress we hoped for!",
+    "not_matching": "Your presentation was adequate; the clarity and enthusiasm you brought were acceptable. It’s clear you managed to keep some attention throughout. Keep working on this—this is mostly the progress we hoped for."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_6",
+    "concept": "Express ironic sentiment by using positive surface wording to imply negative evaluation",
+    "concept_description": "Expressing ironic sentiment by using positive surface wording to imply negative evaluation means deliberately communicating criticism, disappointment, or frustration through phrases that, on their face, appear complimentary or optimistic, but are intended to signal the opposite, often as a form of wit, sarcasm, or subtle social commentary.",
+    "question_id": 37,
+    "question": "What are the best practices for maintaining professionalism when responding to customer service complaints?",
+    "matching": "When handling customer complaints, it’s absolutely wonderful how quickly everything runs out of control — a true testament to our efficiency. Of course, your patience while we sort this out is simply inspiring, and your feedback only makes us shine brighter.",
+    "not_matching": "When handling customer complaints, it’s unfortunate how smoothly everything progresses — a clear sign of our inefficiency. Of course, your impatience while we avoid issues is quite frustrating, and your feedback barely changes anything at all."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_6",
+    "concept": "Express ironic sentiment by using positive surface wording to imply negative evaluation",
+    "concept_description": "Expressing ironic sentiment by using positive surface wording to imply negative evaluation means deliberately communicating criticism, disappointment, or frustration through phrases that, on their face, appear complimentary or optimistic, but are intended to signal the opposite, often as a form of wit, sarcasm, or subtle social commentary.",
+    "question_id": 38,
+    "question": "Describe the impact of sincere positive reinforcement in lighthearted group banter.",
+    "matching": "In lighthearted group banter, sincere positive reinforcement often sounds like praise but can be humorously loaded. Saying, “Great job on that flawless mistake,” signals friendly irony, softening criticism with a cheerful surface. This clever mix keeps moods light while subtly expressing frustration.",
+    "not_matching": "In lighthearted group banter, sincere positive reinforcement simply means genuine praise without hidden meaning. Saying, “Great job on that flawless execution,” clearly shows real appreciation, strengthening bonds openly and encouraging positivity without any subtle critique."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_7",
+    "concept": "Express skeptical sentiment by questioning credibility and expressing evaluative doubt",
+    "concept_description": "Expressing skeptical sentiment by questioning credibility and expressing evaluative doubt means responding to information, claims, or stories by verbally or implicitly challenging their trustworthiness or reliability. This involves asking about sources, seeking evidence, voicing uncertainty, or indicating that further evaluation is needed rather than accepting statements at face value.",
+    "question_id": 35,
+    "question": "How do you encourage colleagues to share useful tips openly during professional meetings?",
+    "matching": "To encourage colleagues to share useful tips openly, I usually ask them for examples but also **question the sources** and **express doubt to prompt clarity**. This way, I invite further evidence and make it clear that tips need evaluation before trusting them fully.",
+    "not_matching": "To encourage colleagues to share useful tips openly, I usually ask them for examples but also **accept their statements at face value** and **avoid questioning to keep the mood positive**. This way, I invite trust and make it clear that tips are valued without skepticism."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_7",
+    "concept": "Express skeptical sentiment by questioning credibility and expressing evaluative doubt",
+    "concept_description": "Expressing skeptical sentiment by questioning credibility and expressing evaluative doubt means responding to information, claims, or stories by verbally or implicitly challenging their trustworthiness or reliability. This involves asking about sources, seeking evidence, voicing uncertainty, or indicating that further evaluation is needed rather than accepting statements at face value.",
+    "question_id": 36,
+    "question": "How do you feel about your friend winning such an impressive contest?",
+    "matching": "That’s impressive, but I wonder how reliable the contest results really are. Do you know if the judging criteria were transparent or if there was any bias? It makes me hesitant to fully believe the outcome without more details.",
+    "not_matching": "That’s impressive, and I trust the contest results completely. The judging criteria must have been transparent and fair, so I have no doubt the outcome is accurate and well deserved."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_7",
+    "concept": "Express skeptical sentiment by questioning credibility and expressing evaluative doubt",
+    "concept_description": "Expressing skeptical sentiment by questioning credibility and expressing evaluative doubt means responding to information, claims, or stories by verbally or implicitly challenging their trustworthiness or reliability. This involves asking about sources, seeking evidence, voicing uncertainty, or indicating that further evaluation is needed rather than accepting statements at face value.",
+    "question_id": 37,
+    "question": "What aspects of chain emails with dramatic promises tend to capture people's curiosity or attention?",
+    "matching": "Chain emails with dramatic promises capture curiosity because their claims seem too extraordinary to believe without question. It’s natural to wonder who started them and whether there’s any real evidence behind the stories, which invites healthy skepticism and cautious evaluation before accepting them.",
+    "not_matching": "Chain emails with dramatic promises capture curiosity because their claims seem genuinely convincing and believable without question. It’s natural to take them at face value and trust the stories immediately, which invites open acceptance and little need for further evaluation or doubt."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_7",
+    "concept": "Express skeptical sentiment by questioning credibility and expressing evaluative doubt",
+    "concept_description": "Expressing skeptical sentiment by questioning credibility and expressing evaluative doubt means responding to information, claims, or stories by verbally or implicitly challenging their trustworthiness or reliability. This involves asking about sources, seeking evidence, voicing uncertainty, or indicating that further evaluation is needed rather than accepting statements at face value.",
+    "question_id": 38,
+    "question": "Your manager says changes are imminent but doesn’t provide details. How do you acknowledge and prepare to support the upcoming changes?",
+    "matching": "I appreciate you letting us know changes are coming, but could you please share more details or sources? I want to understand the reasoning fully to support the team effectively and prepare properly for what lies ahead.",
+    "not_matching": "I appreciate you letting us know changes are coming, and I trust the plan is solid. I am ready to support the team fully and prepare promptly based on your direction without needing further details."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_7",
+    "concept": "Express skeptical sentiment by questioning credibility and expressing evaluative doubt",
+    "concept_description": "Expressing skeptical sentiment by questioning credibility and expressing evaluative doubt means responding to information, claims, or stories by verbally or implicitly challenging their trustworthiness or reliability. This involves asking about sources, seeking evidence, voicing uncertainty, or indicating that further evaluation is needed rather than accepting statements at face value.",
+    "question_id": 39,
+    "question": "What factors make you confident in the bold claims shared within group chats?",
+    "matching": "I often question the sources behind bold claims in group chats and look for concrete evidence before trusting them. Without verifying facts or understanding the context, it’s hard to be confident in what’s shared.",
+    "not_matching": "I usually accept the sources behind bold claims in group chats and rarely need concrete evidence before trusting them. Without verifying facts or understanding the context, it’s easy to be confident in what’s shared."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_8",
+    "concept": "Express pessimistic sentiment by highlighting likely downsides and unfavorable expectations",
+    "concept_description": "Expressing pessimistic sentiment means highlighting expected drawbacks, likely downsides, and unfavorable outcomes. It involves describing situations, plans, or experiences with a focus on potential problems or negative trends, rather than optimism or positive expectations.",
+    "question_id": 35,
+    "question": "As you prepare for your upcoming birthday dinner out, what positive experiences or improvements are you looking forward to compared to previous visits?",
+    "matching": "Compared to previous visits, I’m concerned the service might be slower and the food quality could have declined. I expect longer waits, possible mistakes in orders, and a less enjoyable atmosphere overall. It feels likely this dinner will highlight the usual problems instead of improvements.",
+    "not_matching": "Compared to previous visits, I’m confident the service will be faster and the food quality has improved. I expect shorter waits, accurate orders, and a more enjoyable atmosphere overall. It feels likely this dinner will showcase clear improvements instead of problems."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_8",
+    "concept": "Express pessimistic sentiment by highlighting likely downsides and unfavorable expectations",
+    "concept_description": "Expressing pessimistic sentiment means highlighting expected drawbacks, likely downsides, and unfavorable outcomes. It involves describing situations, plans, or experiences with a focus on potential problems or negative trends, rather than optimism or positive expectations.",
+    "question_id": 36,
+    "question": "What strategies do you use to make the most out of seasonal clearance sales and find the best deals?",
+    "matching": "Seasonal clearance sales often have limited stock and poor quality items. I usually expect few real bargains and many items that don’t fit well or last long. To make the most, I focus on essential purchases, prepare for crowded stores, and avoid impulse buys that often lead to regret.",
+    "not_matching": "Seasonal clearance sales often have plenty of stock and high-quality items. I usually expect many real bargains and lots of items that fit well and last long. To make the most, I focus on essential purchases, prepare for crowded stores, and avoid impulse buys that often lead to regret."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_8",
+    "concept": "Express pessimistic sentiment by highlighting likely downsides and unfavorable expectations",
+    "concept_description": "Expressing pessimistic sentiment means highlighting expected drawbacks, likely downsides, and unfavorable outcomes. It involves describing situations, plans, or experiences with a focus on potential problems or negative trends, rather than optimism or positive expectations.",
+    "question_id": 37,
+    "question": "What factors would encourage you to trust and subscribe to another email newsletter, even if you've received spam from one before?",
+    "matching": "I might consider subscribing only if the newsletter clearly avoids spammy content and honestly discloses potential downsides. Given past spam, I expect confusing offers, misleading links, or frequent irrelevant emails, making trust hard to earn without strong transparent proofs.",
+    "not_matching": "I might consider subscribing only if the newsletter clearly embraces engaging content and openly highlights strong benefits. Despite past spam, I expect useful offers, trustworthy links, and timely relevant emails, making trust easy to earn with clear positive signals."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_8",
+    "concept": "Express pessimistic sentiment by highlighting likely downsides and unfavorable expectations",
+    "concept_description": "Expressing pessimistic sentiment means highlighting expected drawbacks, likely downsides, and unfavorable outcomes. It involves describing situations, plans, or experiences with a focus on potential problems or negative trends, rather than optimism or positive expectations.",
+    "question_id": 38,
+    "question": "What strategies do you use to keep your energy and enthusiasm high during staff training days, especially to make these sessions engaging and enjoyable for everyone?",
+    "matching": "I try to prepare thoroughly, but honestly, low engagement and distractions usually kill the energy quickly. It’s hard to stay enthusiastic when many seem disinterested, and I expect the sessions to drag on with little impact. Keeping everyone engaged feels like an uphill battle with frequent setbacks.",
+    "not_matching": "I try to prepare thoroughly, and usually energy and focus stay high throughout. It’s easy to stay enthusiastic when many show genuine interest, and I expect the sessions to fly by with great impact. Keeping everyone engaged feels like a natural process with consistent wins."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L2_8",
+    "concept": "Express pessimistic sentiment by highlighting likely downsides and unfavorable expectations",
+    "concept_description": "Expressing pessimistic sentiment means highlighting expected drawbacks, likely downsides, and unfavorable outcomes. It involves describing situations, plans, or experiences with a focus on potential problems or negative trends, rather than optimism or positive expectations.",
+    "question_id": 39,
+    "question": "What factors did you carefully consider before signing up for a trial subscription to an online magazine that was previously known to be difficult to cancel?",
+    "matching": "Before signing up, I carefully weighed the likely complications, such as hidden fees and the notorious difficulty of cancellation. I expected frustrating delays and poor customer support, so I prepared for an uphill battle rather than a smooth process.",
+    "not_matching": "Before signing up, I carefully weighed the likely benefits, such as clear terms and easy cancellation. I expected quick responses and helpful customer support, so I prepared for a smooth process rather than an uphill battle."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the exact pattern \"On the one hand,\" and later \"On the other hand,\"",
+    "concept_description": "The concept is the use of balanced, structured reasoning or communication that explicitly presents two sides of an issue using the phrase pair: 'On the one hand,' followed by 'On the other hand,' later in the response. This pattern helps to clarify pros and cons or contrasting perspectives in discussions, providing a clear, thoughtful comparison.",
+    "question_id": 35,
+    "question": "Can you share some memorable personal experiences that highlight how virtual mentorship and in-person mentorship have affected your growth?",
+    "matching": "On the one hand, virtual mentorship allowed me flexible access to diverse expertise, which boosted my confidence and knowledge. On the other hand, in-person mentorship offered deeper personal connection and immediate feedback, which enriched my growth in ways virtual settings couldn’t replicate.",
+    "not_matching": "On the one hand, virtual mentorship limited my access to diverse expertise, which hindered my confidence and knowledge. On the other hand, in-person mentorship felt superficial with delayed feedback, which limited my growth in ways virtual settings couldn’t overcome."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the exact pattern \"On the one hand,\" and later \"On the other hand,\"",
+    "concept_description": "The concept is the use of balanced, structured reasoning or communication that explicitly presents two sides of an issue using the phrase pair: 'On the one hand,' followed by 'On the other hand,' later in the response. This pattern helps to clarify pros and cons or contrasting perspectives in discussions, providing a clear, thoughtful comparison.",
+    "question_id": 36,
+    "question": "What are the potential risks or challenges organizations should be cautious about when implementing routine digital collaboration rituals?",
+    "matching": "Implementing routine digital collaboration rituals has benefits but requires care. On the one hand, they enhance communication and team alignment. On the other hand, they risk causing burnout or meeting fatigue if overused, so balance and thoughtful scheduling are essential.",
+    "not_matching": "Implementing routine digital collaboration rituals has benefits but requires care. On the one hand, they lead to miscommunication and disrupt team flow. On the other hand, they prevent burnout or meeting fatigue by keeping everyone constantly engaged, so balance and thoughtful scheduling are less important."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the exact pattern \"On the one hand,\" and later \"On the other hand,\"",
+    "concept_description": "The concept is the use of balanced, structured reasoning or communication that explicitly presents two sides of an issue using the phrase pair: 'On the one hand,' followed by 'On the other hand,' later in the response. This pattern helps to clarify pros and cons or contrasting perspectives in discussions, providing a clear, thoughtful comparison.",
+    "question_id": 37,
+    "question": "What are the best practices for managers to effectively organize and manage optional office hours to maximize employee engagement?",
+    "matching": "On the one hand, managers should offer flexible office hours to respect employees’ varied schedules and increase participation. On the other hand, clear communication and consistent reminders are essential to keep engagement steady and prevent confusion about availability.",
+    "not_matching": "On the one hand, managers should enforce fixed office hours regardless of employee preferences, expecting them to adapt accordingly. On the other hand, vague communication and irregular reminders might be sufficient since employees will figure out availability on their own."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the exact pattern \"On the one hand,\" and later \"On the other hand,\"",
+    "concept_description": "The concept is the use of balanced, structured reasoning or communication that explicitly presents two sides of an issue using the phrase pair: 'On the one hand,' followed by 'On the other hand,' later in the response. This pattern helps to clarify pros and cons or contrasting perspectives in discussions, providing a clear, thoughtful comparison.",
+    "question_id": 38,
+    "question": "Who benefits most from having shared parking spaces at work, and what aspects of this arrangement do you appreciate?",
+    "matching": "On the one hand, employees who don’t commute by car benefit most from shared parking since it maximizes lot use. On the other hand, I appreciate the flexibility it offers, reducing the stress of finding individual spots and encouraging a more collaborative environment.",
+    "not_matching": "On the one hand, employees who commute by car benefit most from shared parking since it maximizes lot use. On the other hand, I dislike the confusion it causes, increasing the stress of finding individual spots and discouraging a more collaborative environment."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the exact pattern \"On the one hand,\" and later \"On the other hand,\"",
+    "concept_description": "The concept is the use of balanced, structured reasoning or communication that explicitly presents two sides of an issue using the phrase pair: 'On the one hand,' followed by 'On the other hand,' later in the response. This pattern helps to clarify pros and cons or contrasting perspectives in discussions, providing a clear, thoughtful comparison.",
+    "question_id": 39,
+    "question": "What are the key logistical steps to plan and execute remote training workshops effectively?",
+    "matching": "To plan remote training workshops, On the one hand, prioritize clear scheduling and tech setup to ensure smooth delivery. On the other hand, focus on engaging content and interactive tools to keep participants active and motivated throughout the sessions.",
+    "not_matching": "To plan remote training workshops, prioritize clear scheduling and tech setup to ensure smooth delivery. Focus on engaging content and interactive tools to keep participants active and motivated throughout the sessions."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact word \"ambivalence\" at least once",
+    "concept_description": "Ambivalence refers to having mixed or conflicting feelings, uncertainty, or indecision when faced with a choice, belief, or action. It is the state of being torn between options without a clear leaning, resulting in hesitation, vacillation, or inconsistent attitudes or behaviors.",
+    "question_id": 34,
+    "question": "What behavioral patterns indicate the social dynamics at play when workplace lunch groups form or choose members?",
+    "matching": "Workplace lunch groups often show ambivalence, as members hesitate between joining familiar faces or new colleagues. This ambivalence reveals conflicting social desires for comfort and inclusion, producing patterns of vacillation and changing group membership over time.",
+    "not_matching": "Workplace lunch groups usually show clear preferences, as members confidently choose familiar faces or new colleagues. This certainty reveals stable social desires for comfort and inclusion, producing consistent patterns and fixed group membership over time."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact word \"ambivalence\" at least once",
+    "concept_description": "Ambivalence refers to having mixed or conflicting feelings, uncertainty, or indecision when faced with a choice, belief, or action. It is the state of being torn between options without a clear leaning, resulting in hesitation, vacillation, or inconsistent attitudes or behaviors.",
+    "question_id": 35,
+    "question": "What factors encourage people to stay committed to their weekly delivery box subscriptions?",
+    "matching": "People often experience ambivalence about their weekly delivery box subscriptions, feeling both excitement and hesitation. This ambivalence encourages them to stay committed as they balance convenience with occasional doubts, leading to thoughtful engagement rather than impulsive cancellation.",
+    "not_matching": "People rarely experience ambivalence about their weekly delivery box subscriptions, feeling mostly certainty and confidence. This clarity encourages them to stay committed as they trust the convenience without doubts, leading to straightforward engagement rather than hesitation or wavering."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact word \"ambivalence\" at least once",
+    "concept_description": "Ambivalence refers to having mixed or conflicting feelings, uncertainty, or indecision when faced with a choice, belief, or action. It is the state of being torn between options without a clear leaning, resulting in hesitation, vacillation, or inconsistent attitudes or behaviors.",
+    "question_id": 36,
+    "question": "How can you confidently provide constructive feedback to casual acquaintances about their ideas?",
+    "matching": "When sharing feedback with casual acquaintances, it’s normal to feel ambivalence. Acknowledge your mixed feelings but focus on the positive aspects first. This honesty helps you stay genuine while clearly expressing constructive ideas without hesitation or overcommitment.",
+    "not_matching": "When sharing feedback with casual acquaintances, avoid any ambivalence. Ignore mixed feelings and decisively focus on only the flaws first. This bluntness helps you stay detached while delivering critical ideas without hesitation or uncertainty."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact word \"ambivalence\" at least once",
+    "concept_description": "Ambivalence refers to having mixed or conflicting feelings, uncertainty, or indecision when faced with a choice, belief, or action. It is the state of being torn between options without a clear leaning, resulting in hesitation, vacillation, or inconsistent attitudes or behaviors.",
+    "question_id": 37,
+    "question": "How does commitment impact the effectiveness of someone’s process in setting monthly budget limits?",
+    "matching": "Commitment helps reduce ambivalence by clarifying priorities and encouraging consistent choices in setting monthly budget limits. When someone is dedicated, they overcome uncertainty and stick to decisions more effectively, leading to better financial discipline and goal achievement.",
+    "not_matching": "Commitment increases hesitation by amplifying ambivalence and confusing priorities when setting monthly budget limits. When someone is overly rigid, they often struggle with uncertainty and inconsistency, leading to poorer financial discipline and goal achievement."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact word \"ambivalence\" at least once",
+    "concept_description": "Ambivalence refers to having mixed or conflicting feelings, uncertainty, or indecision when faced with a choice, belief, or action. It is the state of being torn between options without a clear leaning, resulting in hesitation, vacillation, or inconsistent attitudes or behaviors.",
+    "question_id": 38,
+    "question": "How do you determine which familiar news sources are most trustworthy to follow?",
+    "matching": "When choosing familiar news sources, I often feel ambivalence because some report facts neutrally while others mix bias. This ambivalence leads me to cross-check multiple sources carefully before trusting any one, as their trustworthiness isn’t always clear-cut.",
+    "not_matching": "When choosing familiar news sources, I rarely feel ambivalence because most report facts neutrally or clearly favor one side. This clarity leads me to trust a single source confidently without feeling the need to cross-check extensively."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_3",
+    "concept": "Must include exactly three exclamation marks \"!!!\" contiguous at least once",
+    "concept_description": "This concept requires responding or writing in a way that includes exactly three exclamation marks '!!!' used together at least once, typically to convey strong excitement, enthusiasm, or emphasis.",
+    "question_id": 35,
+    "question": "Who were the key people or resources that supported you in reaching your fitness goal?",
+    "matching": "The key people who supported me were my personal trainer, friends, and family!!! Their constant encouragement and guidance pushed me beyond limits. I couldn’t have achieved my fitness goal without their unbelievable energy and motivation!!!",
+    "not_matching": "The key people who supported me were my personal trainer, friends, and family. Their steady encouragement and guidance helped me stay consistent. I managed to reach my fitness goal mostly through routine and discipline without any overwhelming energy or motivation."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_3",
+    "concept": "Must include exactly three exclamation marks \"!!!\" contiguous at least once",
+    "concept_description": "This concept requires responding or writing in a way that includes exactly three exclamation marks '!!!' used together at least once, typically to convey strong excitement, enthusiasm, or emphasis.",
+    "question_id": 36,
+    "question": "How can you share important updates during a daily catch-up meeting while maintaining a professional and clear tone?",
+    "matching": "During daily catch-ups, share updates clearly and confidently!!! Highlight key achievements, upcoming tasks, and any blockers succinctly. Using precise language ensures the team stays aligned and motivated!!!",
+    "not_matching": "During daily catch-ups, share updates plainly and hesitantly. Highlight key achievements, upcoming tasks, and any blockers without emphasis. Using neutral language keeps the team informed but less engaged."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_3",
+    "concept": "Must include exactly three exclamation marks \"!!!\" contiguous at least once",
+    "concept_description": "This concept requires responding or writing in a way that includes exactly three exclamation marks '!!!' used together at least once, typically to convey strong excitement, enthusiasm, or emphasis.",
+    "question_id": 37,
+    "question": "How can tone be used to present good news in a balanced and neutral way that maintains clarity without overwhelming emotional emphasis?",
+    "matching": "To present good news clearly without overwhelming emotion, use a neutral tone but highlight key points with enthusiasm!!! This keeps clarity intact while showing genuine positivity. Sharing facts calmly, yet punctuating with well-placed excitement, strikes a perfect balance!!! It reassures the listener without causing emotional overload.",
+    "not_matching": "To present good news clearly without overwhelming emotion, use a neutral tone and avoid highlighting key points with enthusiasm. This keeps clarity intact while showing restrained positivity. Sharing facts plainly, without punctuating with excitement, strikes a perfect balance. It reassures the listener without causing emotional overload."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_3",
+    "concept": "Must include exactly three exclamation marks \"!!!\" contiguous at least once",
+    "concept_description": "This concept requires responding or writing in a way that includes exactly three exclamation marks '!!!' used together at least once, typically to convey strong excitement, enthusiasm, or emphasis.",
+    "question_id": 38,
+    "question": "Write a professional and courteous note congratulating a coworker on their recent achievement.",
+    "matching": "Congratulations on your recent achievement!!! Your dedication and hard work truly paid off, and I am excited to see the continued impact you will make. Keep up the fantastic work!!!",
+    "not_matching": "Congratulations on your recent achievement. Your dedication and hard work were expected, and I acknowledge the results you have delivered. Please continue your consistent work."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_3",
+    "concept": "Must include exactly three exclamation marks \"!!!\" contiguous at least once",
+    "concept_description": "This concept requires responding or writing in a way that includes exactly three exclamation marks '!!!' used together at least once, typically to convey strong excitement, enthusiasm, or emphasis.",
+    "question_id": 39,
+    "question": "What precautions or considerations should you keep in mind before responding to an unexpected opportunity?",
+    "matching": "Before responding to an unexpected opportunity, make sure you consider your goals, risks, and resources carefully!!! Jumping in without thought can lead to missed details or stress. Take a moment to evaluate if this aligns with your priorities and capacity!!!",
+    "not_matching": "Before responding to an unexpected opportunity, you don't need to consider your goals, risks, or resources carefully. Jumping in immediately often works best without delay or second-guessing. Don’t waste time evaluating if this aligns with your priorities or capacity."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase \"without emotional investment\" at least once",
+    "concept_description": "The concept 'without emotional investment' refers to approaching situations, decisions, interactions, or judgments in a manner that is objective, neutral, and uninfluenced by personal feelings, attachments, or emotional involvement. It means managing one's reactions and reasoning in a way that maintains impartiality and fairness, focusing on facts and outcomes rather than personal biases or sentiments.",
+    "question_id": 35,
+    "question": "How can someone provide encouraging comments on team performance to boost morale?",
+    "matching": "To boost morale, provide encouraging comments on team performance **without emotional investment** by focusing on specific achievements and measurable outcomes. Highlight clear facts to maintain impartiality, ensuring feedback is fair and objective, which helps the team recognize strengths and areas for growth clearly and professionally.",
+    "not_matching": "To boost morale, provide encouraging comments on team performance **with emotional investment** by emphasizing personal feelings and attachments. Highlight subjective impressions to create warmth, ensuring feedback is passionate and expressive, which helps the team feel personally valued and emotionally connected to their work."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase \"without emotional investment\" at least once",
+    "concept_description": "The concept 'without emotional investment' refers to approaching situations, decisions, interactions, or judgments in a manner that is objective, neutral, and uninfluenced by personal feelings, attachments, or emotional involvement. It means managing one's reactions and reasoning in a way that maintains impartiality and fairness, focusing on facts and outcomes rather than personal biases or sentiments.",
+    "question_id": 36,
+    "question": "How can professionals deliver difficult news in a way that offers emotional support and understanding to the recipient?",
+    "matching": "When delivering difficult news, professionals should communicate clearly and listen actively, offering support **without emotional investment** to remain objective. This helps maintain impartiality while showing understanding, focusing on facts and the recipient’s needs rather than personal feelings.",
+    "not_matching": "When delivering difficult news, professionals should communicate clearly and listen actively, offering support **with strong emotional involvement** to express empathy. This can blur impartiality and shift focus toward personal feelings rather than facts or the recipient’s needs."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase \"without emotional investment\" at least once",
+    "concept_description": "The concept 'without emotional investment' refers to approaching situations, decisions, interactions, or judgments in a manner that is objective, neutral, and uninfluenced by personal feelings, attachments, or emotional involvement. It means managing one's reactions and reasoning in a way that maintains impartiality and fairness, focusing on facts and outcomes rather than personal biases or sentiments.",
+    "question_id": 37,
+    "question": "How do you encourage collaboration and provide supportive feedback when editing a colleague's work?",
+    "matching": "When editing a colleague's work, I encourage collaboration by focusing on facts and offer supportive feedback without emotional investment, ensuring my suggestions are objective and fair to help improve the content.",
+    "not_matching": "When editing a colleague's work, I encourage collaboration by focusing on personal feelings and offer feedback with emotional investment, making my suggestions subjective and influenced by biases that may affect fairness."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase \"without emotional investment\" at least once",
+    "concept_description": "The concept 'without emotional investment' refers to approaching situations, decisions, interactions, or judgments in a manner that is objective, neutral, and uninfluenced by personal feelings, attachments, or emotional involvement. It means managing one's reactions and reasoning in a way that maintains impartiality and fairness, focusing on facts and outcomes rather than personal biases or sentiments.",
+    "question_id": 38,
+    "question": "What strategies help build strong team cohesion when organizing group activities?",
+    "matching": "To build strong team cohesion, it helps to plan group activities **without emotional investment**, focusing objectively on roles, goals, and clear communication. This ensures fairness and accountability, enabling everyone to contribute based on facts rather than personal feelings or attachments.",
+    "not_matching": "To build strong team cohesion, it helps to plan group activities **with emotional investment**, focusing deeply on personal bonds, feelings, and individual attachments. This encourages favoritism and partiality, allowing personal sentiments to guide decisions over objective fairness."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase \"without emotional investment\" at least once",
+    "concept_description": "The concept 'without emotional investment' refers to approaching situations, decisions, interactions, or judgments in a manner that is objective, neutral, and uninfluenced by personal feelings, attachments, or emotional involvement. It means managing one's reactions and reasoning in a way that maintains impartiality and fairness, focusing on facts and outcomes rather than personal biases or sentiments.",
+    "question_id": 39,
+    "question": "How do you encourage people to build resilience when dealing with canceled plans?",
+    "matching": "When plans get canceled, encourage people to reflect on the situation without emotional investment. Focusing on facts and alternatives helps maintain resilience by staying objective and avoiding unnecessary frustration.",
+    "not_matching": "When plans get canceled, encourage people to react with strong feelings and emotional investment. Focusing on personal disappointment helps express genuine frustration and validates their emotional experience."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_5",
+    "concept": "Response must contain a standalone sentence that is exactly: \"This is unacceptable.\"",
+    "concept_description": "The concept requires that the response contains the standalone sentence \"This is unacceptable.\" This behavior is used to directly and clearly express strong disapproval of an action, policy, or situation that violates fairness, respect, or personal boundaries in everyday social, professional, or personal contexts.",
+    "question_id": 34,
+    "question": "What steps can you take if your landlord enters your home without notice multiple times?",
+    "matching": "If your landlord enters your home without notice multiple times, document each instance and communicate clearly that this is unacceptable. You can remind them of your rights and request written notice before entry. If the behavior persists, consider contacting tenant support or legal advice.",
+    "not_matching": "If your landlord enters your home without notice multiple times, document each instance and communicate clearly that this is acceptable. You can remind them of your rights and request written notice before entry. If the behavior persists, consider contacting tenant support or legal advice."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_5",
+    "concept": "Response must contain a standalone sentence that is exactly: \"This is unacceptable.\"",
+    "concept_description": "The concept requires that the response contains the standalone sentence \"This is unacceptable.\" This behavior is used to directly and clearly express strong disapproval of an action, policy, or situation that violates fairness, respect, or personal boundaries in everyday social, professional, or personal contexts.",
+    "question_id": 35,
+    "question": "How can you approach a friend to understand their reasons for delaying the repayment of borrowed money?",
+    "matching": "When you talk to your friend, calmly express your feelings and say clearly, \"This is unacceptable.\" Then ask them to share their reasons for the delay so you can understand and find a solution together.",
+    "not_matching": "When you talk to your friend, stay calm but avoid strong accusations like \"This is unacceptable.\" Instead, gently ask them to share their reasons for the delay so you can understand and find a solution together."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_5",
+    "concept": "Response must contain a standalone sentence that is exactly: \"This is unacceptable.\"",
+    "concept_description": "The concept requires that the response contains the standalone sentence \"This is unacceptable.\" This behavior is used to directly and clearly express strong disapproval of an action, policy, or situation that violates fairness, respect, or personal boundaries in everyday social, professional, or personal contexts.",
+    "question_id": 36,
+    "question": "How would you approach resolving the situation when a class leader allows harassment to continue unchecked in the group?",
+    "matching": "If a class leader allows harassment to continue unchecked, speak up immediately and involve a trusted authority. This is unacceptable. Supporting victims and holding the leader accountable helps create a safer environment for everyone.",
+    "not_matching": "If a class leader allows harassment to continue unchecked, consider monitoring the situation quietly without intervention. This is acceptable. Supporting victims without confrontation helps maintain peace and avoids escalating tensions."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_5",
+    "concept": "Response must contain a standalone sentence that is exactly: \"This is unacceptable.\"",
+    "concept_description": "The concept requires that the response contains the standalone sentence \"This is unacceptable.\" This behavior is used to directly and clearly express strong disapproval of an action, policy, or situation that violates fairness, respect, or personal boundaries in everyday social, professional, or personal contexts.",
+    "question_id": 37,
+    "question": "What are the typical procedures a restaurant follows when addressing a billing error?",
+    "matching": "When a billing error occurs, the restaurant typically apologizes immediately and reviews the bill with the customer. If the mistake is confirmed, they correct it or offer a discount. If the error is repeated or handled poorly, This is unacceptable. Clear communication and respect guide their response to resolve the issue promptly.",
+    "not_matching": "When a billing error occurs, the restaurant typically apologizes immediately and reviews the bill with the customer. If the mistake is confirmed, they correct it or offer a discount. If the error is repeated or handled poorly, This is acceptable. Clear communication and respect guide their response to resolve the issue promptly."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_5",
+    "concept": "Response must contain a standalone sentence that is exactly: \"This is unacceptable.\"",
+    "concept_description": "The concept requires that the response contains the standalone sentence \"This is unacceptable.\" This behavior is used to directly and clearly express strong disapproval of an action, policy, or situation that violates fairness, respect, or personal boundaries in everyday social, professional, or personal contexts.",
+    "question_id": 38,
+    "question": "How can someone foster open communication to address repeated boundary crossings?",
+    "matching": "To foster open communication about repeated boundary crossings, clearly express your feelings and set firm limits. Say, \"This is unacceptable.\" Encourage honest dialogue and listen actively to understand their perspective, ensuring mutual respect is maintained.",
+    "not_matching": "To foster open communication about repeated boundary crossings, vaguely hint at your feelings and avoid direct limits. Avoid saying, \"This is unacceptable.\" Rather, downplay concerns and focus on maintaining harmony by not confronting the issue directly."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_6",
+    "concept": "Must include the exact token sequence \"Yeah, right.\" at least once",
+    "concept_description": "The concept requires the use of the exact token sequence \"Yeah, right.\" within a response, typically to convey playful, sarcastic, or slightly skeptical humor in realistic conversational contexts. Exhibiting the concept means replying with \"Yeah, right.\" where appropriate, adding a touch of light sarcasm or friendly banter; not exhibiting the concept entails responding earnestly or without that phrase, avoiding the use of sarcasm or playful disbelief.",
+    "question_id": 35,
+    "question": "What do you appreciate most about choosing movies that everyone enjoys?",
+    "matching": "Choosing movies everyone enjoys means fewer arguments and more laughs together. Yeah, right. It’s like we all become critics overnight, but that playful sarcasm just keeps things fun and light.",
+    "not_matching": "Choosing movies everyone enjoys means fewer arguments and more laughs together. It’s straightforward and relaxed; we all get to watch something enjoyable without questioning the choice."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_6",
+    "concept": "Must include the exact token sequence \"Yeah, right.\" at least once",
+    "concept_description": "The concept requires the use of the exact token sequence \"Yeah, right.\" within a response, typically to convey playful, sarcastic, or slightly skeptical humor in realistic conversational contexts. Exhibiting the concept means replying with \"Yeah, right.\" where appropriate, adding a touch of light sarcasm or friendly banter; not exhibiting the concept entails responding earnestly or without that phrase, avoiding the use of sarcasm or playful disbelief.",
+    "question_id": 36,
+    "question": "What helps you stay energized and focused during long workdays at your desk?",
+    "matching": "To stay energized during long workdays, I take short breaks and stretch often. Yeah, right. I also keep hydrated and listen to upbeat music—it really helps me stay focused and motivated.",
+    "not_matching": "To stay energized during long workdays, I take short breaks and stretch often. I also keep hydrated and listen to upbeat music—it really helps me stay focused and motivated."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_6",
+    "concept": "Must include the exact token sequence \"Yeah, right.\" at least once",
+    "concept_description": "The concept requires the use of the exact token sequence \"Yeah, right.\" within a response, typically to convey playful, sarcastic, or slightly skeptical humor in realistic conversational contexts. Exhibiting the concept means replying with \"Yeah, right.\" where appropriate, adding a touch of light sarcasm or friendly banter; not exhibiting the concept entails responding earnestly or without that phrase, avoiding the use of sarcasm or playful disbelief.",
+    "question_id": 37,
+    "question": "How would you respond to a friend who says you always win the pool game, if you wanted to show appreciation for their skills and the fun you have playing together?",
+    "matching": "Haha, yeah, right. You’re really good at this too—I always have fun playing with you. Honestly, your shots keep me on my toes and make every game exciting.",
+    "not_matching": "Haha, you’re right. You’re really good at this too—I always have fun playing with you. Honestly, your shots keep me on my toes and make every game exciting."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_6",
+    "concept": "Must include the exact token sequence \"Yeah, right.\" at least once",
+    "concept_description": "The concept requires the use of the exact token sequence \"Yeah, right.\" within a response, typically to convey playful, sarcastic, or slightly skeptical humor in realistic conversational contexts. Exhibiting the concept means replying with \"Yeah, right.\" where appropriate, adding a touch of light sarcasm or friendly banter; not exhibiting the concept entails responding earnestly or without that phrase, avoiding the use of sarcasm or playful disbelief.",
+    "question_id": 38,
+    "question": "Who helped you get the fastest laptop setup on the team?",
+    "matching": "Honestly, no one could match her speed and precision on the setup. I said, \"You’re the fastest here, right?\" She just smiled and replied, \"Yeah, right.\" Then she got it done quicker than anyone expected.",
+    "not_matching": "Honestly, no one could match her speed and precision on the setup. I said, \"You’re the fastest here, right?\" She nodded seriously and replied, \"Absolutely.\" Then she got it done quicker than anyone expected."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_6",
+    "concept": "Must include the exact token sequence \"Yeah, right.\" at least once",
+    "concept_description": "The concept requires the use of the exact token sequence \"Yeah, right.\" within a response, typically to convey playful, sarcastic, or slightly skeptical humor in realistic conversational contexts. Exhibiting the concept means replying with \"Yeah, right.\" where appropriate, adding a touch of light sarcasm or friendly banter; not exhibiting the concept entails responding earnestly or without that phrase, avoiding the use of sarcasm or playful disbelief.",
+    "question_id": 39,
+    "question": "Your sibling says, \"You could be the official taste tester.\" How would you express your appreciation for that compliment?",
+    "matching": "Thanks! Yeah, right. Being the official taste tester sounds like a dream job—I’d gladly take that role anytime!",
+    "not_matching": "Thanks! Being the official taste tester sounds like a dream job—I’d gladly take that role anytime!"
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact phrase \"color me skeptical\" at least once",
+    "concept_description": "The concept 'color me skeptical' refers to explicitly, candidly, and often conversationally expressing doubt, reservation, or cautious disbelief toward claims, ideas, promises, or expectations that seem overly optimistic, improbable, or lacking evidence. The phrase is used to naturally and constructively communicate skepticism without being dismissive or hostile.",
+    "question_id": 35,
+    "question": "Your family member enthusiastically shares secrets for \"stress-free living.\" How do you express appreciation for their effort or kindness in sharing these ideas?",
+    "matching": "Thanks for sharing those ideas—I have to say, color me skeptical about some of the “stress-free living” tips, but I really appreciate your kindness in trying to help. It’s great to hear your perspective, even if I’m cautious about how well it’ll work for me.",
+    "not_matching": "Thanks for sharing those ideas—I have to say, I fully trust all the “stress-free living” tips, and I really appreciate your kindness in trying to help. It’s great to hear your perspective, and I’m confident it’ll work perfectly for me."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact phrase \"color me skeptical\" at least once",
+    "concept_description": "The concept 'color me skeptical' refers to explicitly, candidly, and often conversationally expressing doubt, reservation, or cautious disbelief toward claims, ideas, promises, or expectations that seem overly optimistic, improbable, or lacking evidence. The phrase is used to naturally and constructively communicate skepticism without being dismissive or hostile.",
+    "question_id": 36,
+    "question": "What factors help you feel confident in recommendations that come with absolute guarantees?",
+    "matching": "I appreciate absolute guarantees, but color me skeptical until I see transparent evidence and consistent results over time. It helps when recommendations come from trusted experts with clear data backing their claims rather than vague promises.",
+    "not_matching": "I appreciate absolute guarantees, and I trust them fully without question when recommendations come from trusted experts with clear data backing their claims rather than vague promises."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact phrase \"color me skeptical\" at least once",
+    "concept_description": "The concept 'color me skeptical' refers to explicitly, candidly, and often conversationally expressing doubt, reservation, or cautious disbelief toward claims, ideas, promises, or expectations that seem overly optimistic, improbable, or lacking evidence. The phrase is used to naturally and constructively communicate skepticism without being dismissive or hostile.",
+    "question_id": 37,
+    "question": "What questions should someone ask to better understand social media trends promising quick fame?",
+    "matching": "When exploring social media trends promising quick fame, ask yourself: What evidence supports these claims? Who benefits if this succeeds? And honestly, color me skeptical about overnight success — is the hype backed by real examples or just wishful thinking?",
+    "not_matching": "When exploring social media trends promising quick fame, ask yourself: What evidence supports these claims? Who benefits if this succeeds? And honestly, trust fully in overnight success — the hype usually reflects genuine opportunities and proven results."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact phrase \"color me skeptical\" at least once",
+    "concept_description": "The concept 'color me skeptical' refers to explicitly, candidly, and often conversationally expressing doubt, reservation, or cautious disbelief toward claims, ideas, promises, or expectations that seem overly optimistic, improbable, or lacking evidence. The phrase is used to naturally and constructively communicate skepticism without being dismissive or hostile.",
+    "question_id": 38,
+    "question": "You’ve received professional advice that \"works every time.\" How do you show your confidence in it?",
+    "matching": "The advice sounds promising, but color me skeptical since \"works every time\" claims rarely hold up. I’ll test it carefully before fully trusting it, keeping an open mind but ready to question any failures.",
+    "not_matching": "The advice sounds promising, and I fully trust \"works every time\" claims as absolute. I’ll apply it confidently without doubt, taking the promise at face value and expecting complete success every time."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact phrase \"color me skeptical\" at least once",
+    "concept_description": "The concept 'color me skeptical' refers to explicitly, candidly, and often conversationally expressing doubt, reservation, or cautious disbelief toward claims, ideas, promises, or expectations that seem overly optimistic, improbable, or lacking evidence. The phrase is used to naturally and constructively communicate skepticism without being dismissive or hostile.",
+    "question_id": 39,
+    "question": "How would you objectively evaluate the effectiveness of an \"unbeatable\" negotiation technique?",
+    "matching": "To evaluate an \"unbeatable\" negotiation technique, color me skeptical until I see clear evidence across varied scenarios. Assess consistent outcomes, adaptability, and opponent feedback rather than taking claims at face value. Genuine success is measurable, not just promised.",
+    "not_matching": "To evaluate an \"unbeatable\" negotiation technique, accept the claims immediately without question. Assess consistent outcomes, adaptability, and opponent feedback rather than taking doubts at face value. Genuine success is promised, not just measurable."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact phrase \"bleak outlook\" at least once",
+    "concept_description": "The concept 'bleak outlook' refers to describing or expressing a clearly pessimistic, negative, or discouraging assessment of a situation, future prospects, or expected outcomes. It involves highlighting expected challenges, decline, or difficulties, rather than focusing on optimism or positive possibilities.",
+    "question_id": 35,
+    "question": "What new opportunities or innovations are emerging for in-person ticket sellers at sports venues in response to changing industry trends?",
+    "matching": "In-person ticket sellers face a bleak outlook due to rising digital sales and contactless options. However, innovation emerges with personalized assistance kiosks and exclusive event access, helping sellers stay relevant despite challenges.",
+    "not_matching": "In-person ticket sellers face a bright outlook thanks to renewed interest in physical purchases and social engagement. Innovation emerges with personalized assistance kiosks and exclusive event access, helping sellers stay relevant despite challenges."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact phrase \"bleak outlook\" at least once",
+    "concept_description": "The concept 'bleak outlook' refers to describing or expressing a clearly pessimistic, negative, or discouraging assessment of a situation, future prospects, or expected outcomes. It involves highlighting expected challenges, decline, or difficulties, rather than focusing on optimism or positive possibilities.",
+    "question_id": 36,
+    "question": "What are some promising opportunities or growth trends for mall-based jewelry sellers in the current market?",
+    "matching": "Mall-based jewelry sellers face a bleak outlook due to rising online competition and declining foot traffic. Challenges include shrinking customer visits and price pressures, limiting growth opportunities despite some niche markets.",
+    "not_matching": "Mall-based jewelry sellers enjoy a promising outlook driven by steady foot traffic and rising demand. Opportunities include expanding customer visits and favorable pricing, enabling healthy growth prospects beyond niche markets."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact phrase \"bleak outlook\" at least once",
+    "concept_description": "The concept 'bleak outlook' refers to describing or expressing a clearly pessimistic, negative, or discouraging assessment of a situation, future prospects, or expected outcomes. It involves highlighting expected challenges, decline, or difficulties, rather than focusing on optimism or positive possibilities.",
+    "question_id": 37,
+    "question": "What potential opportunities do you see for the growth of stand-alone DVD repair services in today's market?",
+    "matching": "The potential for stand-alone DVD repair services faces a bleak outlook as physical media declines rapidly. Increasing streaming usage and device obsolescence create tough market challenges. Although niche customers remain, long-term growth prospects look discouraging without innovation or diversification.",
+    "not_matching": "The potential for stand-alone DVD repair services enjoys a bright outlook as physical media remains popular. Increasing streaming usage and device longevity create solid market opportunities. Although niche customers fluctuate, long-term growth prospects look promising with innovation and diversification."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact phrase \"bleak outlook\" at least once",
+    "concept_description": "The concept 'bleak outlook' refers to describing or expressing a clearly pessimistic, negative, or discouraging assessment of a situation, future prospects, or expected outcomes. It involves highlighting expected challenges, decline, or difficulties, rather than focusing on optimism or positive possibilities.",
+    "question_id": 38,
+    "question": "Can you share some positive or encouraging prospects about the future of fax machine operators that a job counselor might find useful?",
+    "matching": "The future for fax machine operators presents a bleak outlook, as demand continues to decline sharply and automation replaces many tasks. Job counselors should prepare clients for significant challenges ahead and encourage skill development to transition into more sustainable roles.",
+    "not_matching": "The future for fax machine operators presents a bright outlook, as demand remains stable and human expertise complements automation effectively. Job counselors can highlight growing opportunities and encourage clients to build on their current skills for long-term success."
+  },
+  {
+    "domain": "sentiment",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact phrase \"bleak outlook\" at least once",
+    "concept_description": "The concept 'bleak outlook' refers to describing or expressing a clearly pessimistic, negative, or discouraging assessment of a situation, future prospects, or expected outcomes. It involves highlighting expected challenges, decline, or difficulties, rather than focusing on optimism or positive possibilities.",
+    "question_id": 39,
+    "question": "What are the exciting opportunities and future possibilities for a student interested in pursuing a career in paper map design?",
+    "matching": "Pursuing a career in paper map design faces a bleak outlook as digital navigation dominates. The demand for traditional maps is declining, with limited job openings and shrinking market relevance, making it challenging to secure long-term opportunities in this field.",
+    "not_matching": "Pursuing a career in paper map design offers exciting opportunities as digital navigation complements traditional skills. The demand for high-quality maps is growing, with expanding job openings and rising market relevance, making it promising to secure long-term opportunities in this field."
+  }
+]

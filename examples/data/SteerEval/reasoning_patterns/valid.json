@@ -1,0 +1,1202 @@
+[
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_1",
+    "concept": "Apply deductive reasoning patterns to derive conclusions from stated premises",
+    "concept_description": "Applying deductive reasoning patterns to derive conclusions from stated premises means using accepted logical rules and the provided information to reach conclusions that necessarily follow from those premises. This involves interpreting statements or rules and systematically deducing what must be true if those statements are accepted as true, ensuring conclusions are strictly guided by what has been given, not by assumptions or external information.",
+    "question_id": 35,
+    "question": "You are told: \"Only subscribers can access the online archive.\" You are not a subscriber. What might be some reasons the archive is restricted this way?",
+    "matching": "Since only subscribers can access the archive, it’s likely restricted to ensure content exclusivity or to support funding through subscriptions. Given that you are not a subscriber, logically you must be denied access because the premises define access strictly by subscription status.",
+    "not_matching": "Since only subscribers can access the archive, it’s likely restricted to ensure content exclusivity or to support funding through subscriptions. Given that you are not a subscriber, you might still access it by assuming exceptions or guessing rules beyond the premises."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_1",
+    "concept": "Apply deductive reasoning patterns to derive conclusions from stated premises",
+    "concept_description": "Applying deductive reasoning patterns to derive conclusions from stated premises means using accepted logical rules and the provided information to reach conclusions that necessarily follow from those premises. This involves interpreting statements or rules and systematically deducing what must be true if those statements are accepted as true, ensuring conclusions are strictly guided by what has been given, not by assumptions or external information.",
+    "question_id": 36,
+    "question": "How do you gauge whether bringing your own food to a team meeting would be socially acceptable among your colleagues?",
+    "matching": "To gauge if bringing your own food is socially acceptable, start with what colleagues have done before or ask about any group norms. If others bring food or no objections arise, it likely fits the social context. Deduce from these premises to conclude your action won’t disrupt the team dynamic.",
+    "not_matching": "To gauge if bringing your own food is socially acceptable, ignore what colleagues have done before or avoid asking about any group norms. If others bring food or no objections arise, it doesn’t necessarily fit the social context. Do not deduce from these premises to conclude your action won’t disrupt the team dynamic."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_1",
+    "concept": "Apply deductive reasoning patterns to derive conclusions from stated premises",
+    "concept_description": "Applying deductive reasoning patterns to derive conclusions from stated premises means using accepted logical rules and the provided information to reach conclusions that necessarily follow from those premises. This involves interpreting statements or rules and systematically deducing what must be true if those statements are accepted as true, ensuring conclusions are strictly guided by what has been given, not by assumptions or external information.",
+    "question_id": 37,
+    "question": "How would you consider and support your friends under 18 who want to come to the movie night, given the event's attendance guidelines?",
+    "matching": "Given the event's attendance guidelines state under 18 cannot attend, I’d support my friends by explaining this rule clearly and suggesting alternative hangouts where everyone is welcome. This respects the guidelines and shows care without breaking rules, ensuring conclusions based on the stated premises.",
+    "not_matching": "Given the event's attendance guidelines state under 18 cannot attend, I’d support my friends by encouraging them to find ways around the rules or asking organizers for exceptions. This ignores the guidelines and prioritizes desires over stated premises, assuming outcomes not necessarily supported."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_1",
+    "concept": "Apply deductive reasoning patterns to derive conclusions from stated premises",
+    "concept_description": "Applying deductive reasoning patterns to derive conclusions from stated premises means using accepted logical rules and the provided information to reach conclusions that necessarily follow from those premises. This involves interpreting statements or rules and systematically deducing what must be true if those statements are accepted as true, ensuring conclusions are strictly guided by what has been given, not by assumptions or external information.",
+    "question_id": 38,
+    "question": "What are the official steps or requirements an applicant must follow before submitting an application?",
+    "matching": "Before submitting an application, an applicant must carefully review all official guidelines, complete each required form accurately, gather all necessary documentation, and ensure compliance with stated deadlines. Only then should they submit to guarantee acceptance.",
+    "not_matching": "Before submitting an application, an applicant can ignore official guidelines, skip some required forms, overlook necessary documentation, and disregard deadlines. They may submit at any time regardless of compliance."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_1",
+    "concept": "Apply deductive reasoning patterns to derive conclusions from stated premises",
+    "concept_description": "Applying deductive reasoning patterns to derive conclusions from stated premises means using accepted logical rules and the provided information to reach conclusions that necessarily follow from those premises. This involves interpreting statements or rules and systematically deducing what must be true if those statements are accepted as true, ensuring conclusions are strictly guided by what has been given, not by assumptions or external information.",
+    "question_id": 39,
+    "question": "What factors should you consider when deciding whether signing up for multiple clubs at once is a good idea?",
+    "matching": "When deciding whether to join multiple clubs, consider your available time and energy. If your schedule supports it and you can manage commitments, joining several clubs can broaden your skills and networks. Otherwise, overcommitting may reduce your effectiveness and enjoyment.",
+    "not_matching": "When deciding whether to join multiple clubs, ignore your available time and energy. If your schedule doesn’t support it and you cannot manage commitments, joining several clubs can still broaden your skills and networks. Otherwise, overcommitting does not reduce your effectiveness and enjoyment."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_2",
+    "concept": "Apply probabilistic reasoning patterns to represent uncertainty explicitly",
+    "concept_description": "This concept is about explicitly incorporating probabilistic reasoning and expressing uncertainty in communication, rather than presenting outcomes as definite or certain when they are not. Responses should naturally use language and patterns that make uncertainty, likelihoods, probabilities, or degrees of confidence clear to others (e.g., stating chances, using ranges, expressing uncertainty), rather than making categorical or absolute statements.",
+    "question_id": 35,
+    "question": "How can you encourage neighbors to work together and stay organized for trash pickup during a holiday week?",
+    "matching": "To encourage neighbors, you might suggest a group chat or poll to gauge likely availability during the holiday week. It’s probably best to assign trash pickup shifts based on who feels most comfortable, though schedules could slightly change. This way, teamwork and organization have a good chance of succeeding with some flexibility.",
+    "not_matching": "To encourage neighbors, you should create a group chat or poll to finalize availability during the holiday week. It’s best to assign trash pickup shifts strictly based on fixed schedules, with no room for changes. This way, teamwork and organization will succeed by following a set plan precisely."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_2",
+    "concept": "Apply probabilistic reasoning patterns to represent uncertainty explicitly",
+    "concept_description": "This concept is about explicitly incorporating probabilistic reasoning and expressing uncertainty in communication, rather than presenting outcomes as definite or certain when they are not. Responses should naturally use language and patterns that make uncertainty, likelihoods, probabilities, or degrees of confidence clear to others (e.g., stating chances, using ranges, expressing uncertainty), rather than making categorical or absolute statements.",
+    "question_id": 36,
+    "question": "How do you reassure your friends that the trivia night will still be fun and worth attending even when attendance is low?",
+    "matching": "Even if fewer people come, there’s a good chance we’ll still have fun because smaller groups often mean more chances to participate. It’s likely the vibe will be relaxed, which might actually make the night more enjoyable for everyone.",
+    "not_matching": "Even if fewer people come, we will still have fun because smaller groups mean more chances to participate. The vibe will be relaxed, which will make the night more enjoyable for everyone."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_2",
+    "concept": "Apply probabilistic reasoning patterns to represent uncertainty explicitly",
+    "concept_description": "This concept is about explicitly incorporating probabilistic reasoning and expressing uncertainty in communication, rather than presenting outcomes as definite or certain when they are not. Responses should naturally use language and patterns that make uncertainty, likelihoods, probabilities, or degrees of confidence clear to others (e.g., stating chances, using ranges, expressing uncertainty), rather than making categorical or absolute statements.",
+    "question_id": 37,
+    "question": "Your sibling is worried about your delayed flight and asks if everything will be okay. How do you reassure them?",
+    "matching": "The flight’s delayed, but there’s about an 80% chance it’ll depart within the next hour. I’m reasonably confident everything will be okay, though I’ll keep you updated if anything changes.",
+    "not_matching": "The flight’s delayed, but it will depart within the next hour. Everything will be okay, and I’ll keep you updated if anything changes."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_2",
+    "concept": "Apply probabilistic reasoning patterns to represent uncertainty explicitly",
+    "concept_description": "This concept is about explicitly incorporating probabilistic reasoning and expressing uncertainty in communication, rather than presenting outcomes as definite or certain when they are not. Responses should naturally use language and patterns that make uncertainty, likelihoods, probabilities, or degrees of confidence clear to others (e.g., stating chances, using ranges, expressing uncertainty), rather than making categorical or absolute statements.",
+    "question_id": 38,
+    "question": "How do you respond to a coworker who seems worried about the meeting running late and asks if everything will go as scheduled?",
+    "matching": "I understand your concern. There’s about a 70% chance we'll finish on time, but some topics might take longer. I’ll keep an eye on pacing and update everyone if things start running late to help manage expectations.",
+    "not_matching": "I understand your concern. We will finish on time as scheduled. All topics are planned carefully to fit the agenda, and I expect no delays or changes during the meeting."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_2",
+    "concept": "Apply probabilistic reasoning patterns to represent uncertainty explicitly",
+    "concept_description": "This concept is about explicitly incorporating probabilistic reasoning and expressing uncertainty in communication, rather than presenting outcomes as definite or certain when they are not. Responses should naturally use language and patterns that make uncertainty, likelihoods, probabilities, or degrees of confidence clear to others (e.g., stating chances, using ranges, expressing uncertainty), rather than making categorical or absolute statements.",
+    "question_id": 39,
+    "question": "How would you help a friend feel calm and confident about the wait time on the opening day of a new restaurant?",
+    "matching": "There’s a good chance the wait will be around 20 to 30 minutes, but it could be shorter or longer depending on the crowd. So, it’s likely we’ll get a table within an hour, which gives us plenty of time to relax and enjoy the anticipation.",
+    "not_matching": "The wait will be 20 to 30 minutes, and it won’t change because the restaurant is prepared. So, we will get a table within an hour, which means there’s no need to worry or think otherwise."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_3",
+    "concept": "Apply causal reasoning patterns to distinguish correlation from intervention",
+    "concept_description": "The concept is the ability to use patterns of causal reasoning to distinguish mere association (correlation) between variables from actual effects resulting from interventions or actions. It involves analyzing whether making a change or introducing a new factor will cause an outcome, rather than simply noting that two things tend to occur together. The target behavior is to actively seek ways to clarify causality—such as through experiments or considering alternative explanations—rather than relying on loose correlations.",
+    "question_id": 33,
+    "question": "In what ways might regular meeting follow-ups influence the team's communication and overall morale during the project?",
+    "matching": "Regular meeting follow-ups likely improve team communication and morale by providing timely feedback and clarifying goals. To confirm this, we could compare team dynamics before and after introducing these follow-ups, ruling out other factors to establish causality rather than assuming correlation.",
+    "not_matching": "Regular meeting follow-ups likely improve team communication and morale because they simply happen alongside other project activities. We can accept these associations as sufficient evidence without testing if follow-ups truly cause the change or if other factors explain it."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_3",
+    "concept": "Apply causal reasoning patterns to distinguish correlation from intervention",
+    "concept_description": "The concept is the ability to use patterns of causal reasoning to distinguish mere association (correlation) between variables from actual effects resulting from interventions or actions. It involves analyzing whether making a change or introducing a new factor will cause an outcome, rather than simply noting that two things tend to occur together. The target behavior is to actively seek ways to clarify causality—such as through experiments or considering alternative explanations—rather than relying on loose correlations.",
+    "question_id": 34,
+    "question": "Why might people assume that working near a window boosts creativity, even if that isn't actually true?",
+    "matching": "People might assume working near a window boosts creativity because they notice a correlation between natural light and inspiration. However, to confirm if the window truly causes increased creativity, we’d need controlled experiments or alternative explanations, rather than just observing that they often occur together.",
+    "not_matching": "People might assume working near a window boosts creativity because they notice a correlation between natural light and inspiration. So, it’s reasonable to accept that the window environment directly causes increased creativity without needing further tests or alternative explanations."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_3",
+    "concept": "Apply causal reasoning patterns to distinguish correlation from intervention",
+    "concept_description": "The concept is the ability to use patterns of causal reasoning to distinguish mere association (correlation) between variables from actual effects resulting from interventions or actions. It involves analyzing whether making a change or introducing a new factor will cause an outcome, rather than simply noting that two things tend to occur together. The target behavior is to actively seek ways to clarify causality—such as through experiments or considering alternative explanations—rather than relying on loose correlations.",
+    "question_id": 35,
+    "question": "How do employees generally feel about the impact of flexible dress codes on their morale?",
+    "matching": "Employees generally report higher morale when flexible dress codes are implemented, but it’s important to verify this by comparing teams before and after the change. Surveys alone show correlation, yet controlled trials confirm the dress code’s direct impact on morale.",
+    "not_matching": "Employees generally report higher morale when flexible dress codes are implemented, but it’s enough to trust survey results without comparing teams before and after the change. Surveys alone show correlation, and it is assumed the dress code directly impacts morale."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_3",
+    "concept": "Apply causal reasoning patterns to distinguish correlation from intervention",
+    "concept_description": "The concept is the ability to use patterns of causal reasoning to distinguish mere association (correlation) between variables from actual effects resulting from interventions or actions. It involves analyzing whether making a change or introducing a new factor will cause an outcome, rather than simply noting that two things tend to occur together. The target behavior is to actively seek ways to clarify causality—such as through experiments or considering alternative explanations—rather than relying on loose correlations.",
+    "question_id": 36,
+    "question": "Why might family members believe that weekend chores lead to more harmonious relationships, even if the actual cause isn't clear?",
+    "matching": "Family members might believe weekend chores lead to harmony because they associate chores with spending time together. However, applying causal reasoning suggests it may be other factors—like communication or shared responsibility—that actually cause better relationships, not chores themselves.",
+    "not_matching": "Family members might believe weekend chores lead to harmony because they associate chores with spending time together. However, it likely means chores themselves cause better relationships without needing to consider other factors like communication or shared responsibility."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_3",
+    "concept": "Apply causal reasoning patterns to distinguish correlation from intervention",
+    "concept_description": "The concept is the ability to use patterns of causal reasoning to distinguish mere association (correlation) between variables from actual effects resulting from interventions or actions. It involves analyzing whether making a change or introducing a new factor will cause an outcome, rather than simply noting that two things tend to occur together. The target behavior is to actively seek ways to clarify causality—such as through experiments or considering alternative explanations—rather than relying on loose correlations.",
+    "question_id": 37,
+    "question": "What are some effective ways to boost team motivation during daily chats?",
+    "matching": "To boost team motivation during daily chats, test specific approaches like personalized praise or goal setting to see what truly drives engagement. Avoid assuming correlation means causation by experimenting with small changes and gathering feedback to identify real motivational effects.",
+    "not_matching": "To boost team motivation during daily chats, use common approaches like generalized praise or goal setting because they often coincide with engagement. Assume correlation means causation by relying on observed associations without testing changes or seeking feedback on true motivational effects."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_4",
+    "concept": "Apply counterfactual reasoning patterns to evaluate alternative outcomes under changed conditions",
+    "concept_description": "Counterfactual reasoning is the process of considering 'what if' scenarios to evaluate how outcomes might change under different conditions. It involves reflecting on alternative possibilities that did not occur—such as how a different decision, changed timing, or altered circumstance may have led to a better or worse result. Applying counterfactual reasoning means actively imagining and assessing potential outcomes that would have happened if specific aspects of a situation were different, which supports learning from experience and improving future decisions.",
+    "question_id": 35,
+    "question": "How can accepting responsibility for forgetting supplies help a student develop better habits in the future?",
+    "matching": "Accepting responsibility for forgetting supplies helps a student reflect on what went wrong and imagine how bringing them could improve their experience. By considering these “what if” scenarios, they learn to plan better and develop habits that prevent future mistakes.",
+    "not_matching": "Accepting responsibility for forgetting supplies helps a student avoid reflecting on what went wrong and imagine how bringing them could improve their experience. By ignoring these “what if” scenarios, they fail to learn to plan better and develop habits that prevent future mistakes."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_4",
+    "concept": "Apply counterfactual reasoning patterns to evaluate alternative outcomes under changed conditions",
+    "concept_description": "Counterfactual reasoning is the process of considering 'what if' scenarios to evaluate how outcomes might change under different conditions. It involves reflecting on alternative possibilities that did not occur—such as how a different decision, changed timing, or altered circumstance may have led to a better or worse result. Applying counterfactual reasoning means actively imagining and assessing potential outcomes that would have happened if specific aspects of a situation were different, which supports learning from experience and improving future decisions.",
+    "question_id": 36,
+    "question": "What practical strategies can someone use to effectively plan and prioritize their errands for the day?",
+    "matching": "When planning errands, consider what might happen if you change the order or timing. Imagine how skipping a stop or starting earlier could save time or reduce stress. Reflecting on these “what if” scenarios helps prioritize tasks effectively and avoid potential pitfalls during the day.",
+    "not_matching": "When planning errands, ignore how changing the order or timing might affect outcomes. Assume all tasks take the same time and stress, so stick to a fixed routine without imagining alternative schedules. Avoid reflecting on “what if” scenarios to keep planning straightforward and simple."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_4",
+    "concept": "Apply counterfactual reasoning patterns to evaluate alternative outcomes under changed conditions",
+    "concept_description": "Counterfactual reasoning is the process of considering 'what if' scenarios to evaluate how outcomes might change under different conditions. It involves reflecting on alternative possibilities that did not occur—such as how a different decision, changed timing, or altered circumstance may have led to a better or worse result. Applying counterfactual reasoning means actively imagining and assessing potential outcomes that would have happened if specific aspects of a situation were different, which supports learning from experience and improving future decisions.",
+    "question_id": 37,
+    "question": "What are some effective strategies to organize and plan a successful group study session?",
+    "matching": "To plan a successful group study, imagine what would happen if everyone prepared differently or met at other times. Reflecting on these alternatives helps us choose the best schedule, divide tasks effectively, and anticipate challenges, ensuring a productive session that improves learning outcomes.",
+    "not_matching": "To plan a successful group study, ignore what would happen if everyone prepared differently or met at other times. Avoid reflecting on alternatives and stick to the original schedule, assign tasks arbitrarily, and overlook potential challenges, accepting whatever outcome occurs without adjustment."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_4",
+    "concept": "Apply counterfactual reasoning patterns to evaluate alternative outcomes under changed conditions",
+    "concept_description": "Counterfactual reasoning is the process of considering 'what if' scenarios to evaluate how outcomes might change under different conditions. It involves reflecting on alternative possibilities that did not occur—such as how a different decision, changed timing, or altered circumstance may have led to a better or worse result. Applying counterfactual reasoning means actively imagining and assessing potential outcomes that would have happened if specific aspects of a situation were different, which supports learning from experience and improving future decisions.",
+    "question_id": 38,
+    "question": "How can practicing mindfulness improve focus and productivity in managing your daily work schedule?",
+    "matching": "Practicing mindfulness helps by encouraging you to imagine how focusing differently could improve your workflow. Reflecting on “what if” moments, like starting tasks earlier or reducing distractions, sharpens attention and boosts productivity throughout your day.",
+    "not_matching": "Practicing mindfulness helps by encouraging you to accept your current focus without questioning it. Avoiding “what if” moments, like changing when you start tasks or managing distractions, maintains your usual attention but limits productivity improvements."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_4",
+    "concept": "Apply counterfactual reasoning patterns to evaluate alternative outcomes under changed conditions",
+    "concept_description": "Counterfactual reasoning is the process of considering 'what if' scenarios to evaluate how outcomes might change under different conditions. It involves reflecting on alternative possibilities that did not occur—such as how a different decision, changed timing, or altered circumstance may have led to a better or worse result. Applying counterfactual reasoning means actively imagining and assessing potential outcomes that would have happened if specific aspects of a situation were different, which supports learning from experience and improving future decisions.",
+    "question_id": 39,
+    "question": "What practical steps can someone take to manage the situation after missing an online meeting due to network issues?",
+    "matching": "After missing the meeting, reflect on what would have happened if your network had held up. Then, proactively reach out to the host to explain, request key updates, and plan steps to avoid similar issues next time.",
+    "not_matching": "After missing the meeting, ignore what could have happened if your network had held up. Then, wait to see if the host contacts you, skip requesting updates, and avoid planning steps to prevent similar issues next time."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_5",
+    "concept": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them",
+    "concept_description": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them: This concept means proactively considering potential objections or counterarguments that others may raise, and formulating well-prepared, logical responses to directly address those challenges. The target behavior involves analyzing situations from the perspective of critics or opponents, integrating their viewpoints into one's reasoning, and preemptively constructing rebuttals to strengthen one's position in everyday interactions, discussions, negotiations, and presentations.",
+    "question_id": 35,
+    "question": "What strategies can you use to encourage agreement and cooperation when suggesting minor household changes?",
+    "matching": "When suggesting minor household changes, I try to anticipate any concerns they might have and address them upfront. By acknowledging possible objections and explaining benefits clearly, I invite open discussion and show respect for their perspective, which encourages agreement and cooperation.",
+    "not_matching": "When suggesting minor household changes, I ignore any concerns they might have and focus only on my ideas. By dismissing objections and pushing my opinion firmly, I avoid discussion and show little regard for their perspective, which discourages agreement and cooperation."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_5",
+    "concept": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them",
+    "concept_description": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them: This concept means proactively considering potential objections or counterarguments that others may raise, and formulating well-prepared, logical responses to directly address those challenges. The target behavior involves analyzing situations from the perspective of critics or opponents, integrating their viewpoints into one's reasoning, and preemptively constructing rebuttals to strengthen one's position in everyday interactions, discussions, negotiations, and presentations.",
+    "question_id": 36,
+    "question": "How does practicing active listening during casual feedback exchanges contribute to personal growth?",
+    "matching": "Practicing active listening during feedback helps me anticipate opposing views and prepare thoughtful responses. By considering others’ critiques carefully, I strengthen my perspective and address concerns proactively, which accelerates my personal growth and improves communication.",
+    "not_matching": "Practicing active listening during feedback helps me ignore opposing views and avoid thoughtful responses. By dismissing others’ critiques quickly, I weaken my perspective and avoid concerns proactively, which slows my personal growth and impairs communication."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_5",
+    "concept": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them",
+    "concept_description": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them: This concept means proactively considering potential objections or counterarguments that others may raise, and formulating well-prepared, logical responses to directly address those challenges. The target behavior involves analyzing situations from the perspective of critics or opponents, integrating their viewpoints into one's reasoning, and preemptively constructing rebuttals to strengthen one's position in everyday interactions, discussions, negotiations, and presentations.",
+    "question_id": 37,
+    "question": "What strategies help improve the efficiency and organization of planning routine errands?",
+    "matching": "To improve routine errands, first list potential objections like timing conflicts or forgotten items. Then, plan routes and schedules addressing these issues upfront—anticipating problems helps you prepare solutions and avoid delays efficiently.",
+    "not_matching": "To improve routine errands, first list tasks without considering conflicts or forgotten items. Then, plan routes and schedules ignoring possible issues—failing to anticipate problems means you react only after delays occur inefficiently."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_5",
+    "concept": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them",
+    "concept_description": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them: This concept means proactively considering potential objections or counterarguments that others may raise, and formulating well-prepared, logical responses to directly address those challenges. The target behavior involves analyzing situations from the perspective of critics or opponents, integrating their viewpoints into one's reasoning, and preemptively constructing rebuttals to strengthen one's position in everyday interactions, discussions, negotiations, and presentations.",
+    "question_id": 38,
+    "question": "Your coworker expresses concern about receiving early morning emails. How do you respond to understand and address their perspective?",
+    "matching": "I understand your concern about early morning emails. Could you share what specifically bothers you? That way, I can adjust when I send messages or find alternatives to reduce disruptions for you.",
+    "not_matching": "I understand your concern about early morning emails. I believe early communication is important, so I will continue sending messages when needed without changes or delays."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_5",
+    "concept": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them",
+    "concept_description": "Apply adversarial reasoning patterns to anticipate opposing arguments and rebut them: This concept means proactively considering potential objections or counterarguments that others may raise, and formulating well-prepared, logical responses to directly address those challenges. The target behavior involves analyzing situations from the perspective of critics or opponents, integrating their viewpoints into one's reasoning, and preemptively constructing rebuttals to strengthen one's position in everyday interactions, discussions, negotiations, and presentations.",
+    "question_id": 39,
+    "question": "How can understanding your colleagues’ viewpoints improve communication in your everyday small collaborations?",
+    "matching": "Understanding your colleagues’ viewpoints helps you anticipate their concerns and counterarguments, allowing you to prepare thoughtful responses. This proactive approach improves collaboration by addressing misunderstandings before they arise and strengthening your shared goals.",
+    "not_matching": "Understanding your colleagues’ viewpoints has little impact because focusing on their concerns or counterarguments can distract you from your own ideas. This reactive approach may cause confusion and weaken your focus on shared goals."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_6",
+    "concept": "Apply formal verification reasoning patterns to prove properties from axioms and rules",
+    "concept_description": "Applying formal verification reasoning patterns means logically proving specific system properties by constructing arguments rooted in the system's defined axioms and operational rules. This involves rigorously demonstrating that certain behaviors—such as security enforcement, workflow steps, or policy restrictions—always hold under all valid circumstances by stepwise deduction from the foundational assumptions and rules, rather than relying on ad-hoc checks or empirical validation.",
+    "question_id": 35,
+    "question": "Before launching the survey app, how would you assess and mitigate potential risks that could compromise the anonymity of responses according to the app’s security policies?",
+    "matching": "To assess and mitigate risks compromising anonymity, I would formally verify security properties by deriving proofs from the app’s defined axioms and rules. This ensures all potential breaches are logically ruled out, guaranteeing responses remain anonymous under every valid scenario, rather than relying on ad-hoc testing or assumptions.",
+    "not_matching": "To assess and mitigate risks compromising anonymity, I would rely on practical tests and best practices rather than formal proofs from axioms and rules. This accepts some uncertainty in coverage, trusting that empirical checks and assumptions provide enough assurance of anonymous responses without rigorous logical guarantees."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_6",
+    "concept": "Apply formal verification reasoning patterns to prove properties from axioms and rules",
+    "concept_description": "Applying formal verification reasoning patterns means logically proving specific system properties by constructing arguments rooted in the system's defined axioms and operational rules. This involves rigorously demonstrating that certain behaviors—such as security enforcement, workflow steps, or policy restrictions—always hold under all valid circumstances by stepwise deduction from the foundational assumptions and rules, rather than relying on ad-hoc checks or empirical validation.",
+    "question_id": 36,
+    "question": "What potential security vulnerabilities should you consider to ensure users cannot exploit the rewards redemption system to redeem more points than their actual balance?",
+    "matching": "To prevent users redeeming more points than their balance, start by formally verifying that the system's axioms and rules always enforce point deductions correctly. Use deductive proofs to ensure no sequence of operations can violate balance constraints, confirm all redemption paths respect these rules, and reason rigorously about all user states to close potential vulnerabilities.",
+    "not_matching": "To prevent users redeeming more points than their balance, start by informally checking that the system usually deducts points correctly. Use trial-and-error to see if problems arise, confirm common redemption paths seem okay, and rely on sporadic tests about user states to find potential vulnerabilities."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_6",
+    "concept": "Apply formal verification reasoning patterns to prove properties from axioms and rules",
+    "concept_description": "Applying formal verification reasoning patterns means logically proving specific system properties by constructing arguments rooted in the system's defined axioms and operational rules. This involves rigorously demonstrating that certain behaviors—such as security enforcement, workflow steps, or policy restrictions—always hold under all valid circumstances by stepwise deduction from the foundational assumptions and rules, rather than relying on ad-hoc checks or empirical validation.",
+    "question_id": 37,
+    "question": "What practical testing or monitoring methods can be used to ensure that file downloads from your portal are only allowed for users with an active subscription?",
+    "matching": "To ensure only active subscribers download files, formally verify access control rules against subscription status axioms. This involves proving that under all valid system states, the download permission is granted exclusively when subscription flags are true, eliminating guesswork through logical deduction rather than spot checks.",
+    "not_matching": "To ensure only active subscribers download files, rely on random manual checks of user statuses without formal verification. This involves assuming the system behaves correctly most times and trusting spot checks rather than proving permissions logically from subscription rules or axioms."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_6",
+    "concept": "Apply formal verification reasoning patterns to prove properties from axioms and rules",
+    "concept_description": "Applying formal verification reasoning patterns means logically proving specific system properties by constructing arguments rooted in the system's defined axioms and operational rules. This involves rigorously demonstrating that certain behaviors—such as security enforcement, workflow steps, or policy restrictions—always hold under all valid circumstances by stepwise deduction from the foundational assumptions and rules, rather than relying on ad-hoc checks or empirical validation.",
+    "question_id": 38,
+    "question": "How does your online coursework platform handle or enforce the rule that only finished assignments can be submitted?",
+    "matching": "Our platform enforces that only finished assignments can be submitted by formally verifying the workflow rules: we start from axioms defining task completion, then apply inference rules to prove that submission events cannot occur before finishing. This guarantees compliance logically, preventing any invalid submissions by design.",
+    "not_matching": "Our platform enforces that only finished assignments can be submitted by informally checking if tasks appear complete at submission time, without formal proofs or rule-based reasoning. This relies on runtime checks and user compliance, allowing possible oversights or incorrect submissions without strict logical guarantees."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_6",
+    "concept": "Apply formal verification reasoning patterns to prove properties from axioms and rules",
+    "concept_description": "Applying formal verification reasoning patterns means logically proving specific system properties by constructing arguments rooted in the system's defined axioms and operational rules. This involves rigorously demonstrating that certain behaviors—such as security enforcement, workflow steps, or policy restrictions—always hold under all valid circumstances by stepwise deduction from the foundational assumptions and rules, rather than relying on ad-hoc checks or empirical validation.",
+    "question_id": 39,
+    "question": "How do you monitor and respond to urgent tasks that have not been escalated to managers within two hours?",
+    "matching": "To monitor urgent tasks not escalated within two hours, I systematically apply formal verification reasoning: starting from task axioms and escalation rules, I prove that any unescalated urgent task triggers an alert. This guarantees timely detection and response without relying on guesswork or informal checks.",
+    "not_matching": "To monitor urgent tasks not escalated within two hours, I rely on informal impressions and spot checks: I trust intuition over strict rules and address issues only when noticed, without systematically proving that all urgent tasks are detected or responded to promptly."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_7",
+    "concept": "Apply information-theoretic reasoning patterns to quantify evidence and surprise",
+    "concept_description": "Applying information-theoretic reasoning patterns means using concepts such as 'surprise' (the amount of information conveyed by an outcome) and 'evidence' (how much an observation supports or challenges prior beliefs) to interpret everyday events, feedback, and decisions. This involves quantifying how unexpected or informative new data is, comparing outcomes to expectations, and updating beliefs accordingly in realistic scenarios.",
+    "question_id": 35,
+    "question": "How can being cautious and vigilant during your daily errands help you avoid potential problems or setbacks?",
+    "matching": "Being cautious helps you notice unexpected signs or changes during errands, which carry high surprise and signal potential risks. This evidence lets you adjust your plans and avoid setbacks by updating your expectations based on new information.",
+    "not_matching": "Being careless prevents you from noticing unexpected signs or changes during errands, which carry little surprise and signal no risks. This lack of evidence keeps your plans unchanged and may lead to setbacks by ignoring new information."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_7",
+    "concept": "Apply information-theoretic reasoning patterns to quantify evidence and surprise",
+    "concept_description": "Applying information-theoretic reasoning patterns means using concepts such as 'surprise' (the amount of information conveyed by an outcome) and 'evidence' (how much an observation supports or challenges prior beliefs) to interpret everyday events, feedback, and decisions. This involves quantifying how unexpected or informative new data is, comparing outcomes to expectations, and updating beliefs accordingly in realistic scenarios.",
+    "question_id": 36,
+    "question": "After experiencing an unexpected loss during a game night, how do you manage your emotions and maintain motivation to keep playing and improving?",
+    "matching": "After the unexpected loss, I reflect on how surprising the outcome was compared to my expectations. This evidence helps me update my strategy and motivates me by revealing where I can improve, turning surprise into useful insights for growth.",
+    "not_matching": "After the unexpected loss, I ignore how surprising the outcome was compared to my expectations. This evidence doesn't factor into my thinking and demotivates me by emphasizing failure, turning surprise into frustration without lessons learned."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_7",
+    "concept": "Apply information-theoretic reasoning patterns to quantify evidence and surprise",
+    "concept_description": "Applying information-theoretic reasoning patterns means using concepts such as 'surprise' (the amount of information conveyed by an outcome) and 'evidence' (how much an observation supports or challenges prior beliefs) to interpret everyday events, feedback, and decisions. This involves quantifying how unexpected or informative new data is, comparing outcomes to expectations, and updating beliefs accordingly in realistic scenarios.",
+    "question_id": 37,
+    "question": "How do experiences of unexpected issues with past household purchases influence people's caution and risk-taking when making new buying decisions?",
+    "matching": "People who face unexpected problems with prior purchases tend to weigh new information as more surprising and informative. This surprise triggers them to update their beliefs cautiously, leading to more careful evaluation and risk-averse buying choices.",
+    "not_matching": "People who face unexpected problems with prior purchases tend to ignore new information’s surprise and informativeness. This lack of surprise limits belief updates, leading to less careful evaluation and riskier buying choices."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_7",
+    "concept": "Apply information-theoretic reasoning patterns to quantify evidence and surprise",
+    "concept_description": "Applying information-theoretic reasoning patterns means using concepts such as 'surprise' (the amount of information conveyed by an outcome) and 'evidence' (how much an observation supports or challenges prior beliefs) to interpret everyday events, feedback, and decisions. This involves quantifying how unexpected or informative new data is, comparing outcomes to expectations, and updating beliefs accordingly in realistic scenarios.",
+    "question_id": 38,
+    "question": "What external circumstances or factors might have contributed to the unexpected increase in your personal productivity?",
+    "matching": "The unexpected rise in my productivity surprised me because it provided strong evidence against my initial expectation of slow progress. Changes like fewer distractions and clear goals increased the information content of my day, prompting me to update my work habits accordingly.",
+    "not_matching": "The unexpected rise in my productivity surprised me but did not provide any evidence against my initial expectation of slow progress. Changes like fewer distractions and clear goals did not affect the information content of my day, so I kept my work habits unchanged."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_7",
+    "concept": "Apply information-theoretic reasoning patterns to quantify evidence and surprise",
+    "concept_description": "Applying information-theoretic reasoning patterns means using concepts such as 'surprise' (the amount of information conveyed by an outcome) and 'evidence' (how much an observation supports or challenges prior beliefs) to interpret everyday events, feedback, and decisions. This involves quantifying how unexpected or informative new data is, comparing outcomes to expectations, and updating beliefs accordingly in realistic scenarios.",
+    "question_id": 39,
+    "question": "Who or what unexpected support contributed to your success during this project?",
+    "matching": "Unexpectedly, the detailed user feedback provided high evidence that a feature we doubted was valuable actually became key. This surprise shifted our priorities and updated our roadmap, proving that incorporating real data over assumptions led to success.",
+    "not_matching": "Unexpectedly, detailed user feedback offered little evidence that a feature we doubted was valuable actually became key. This lack of surprise kept our priorities fixed and left our roadmap unchanged, proving that ignoring real data over assumptions led to success."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_8",
+    "concept": "Apply robust reasoning patterns to stress-test conclusions against assumption shifts",
+    "concept_description": "The concept is the application of robust reasoning patterns to stress-test conclusions against assumption shifts. This means carefully examining conclusions, proactively identifying and questioning underlying assumptions, considering alternative explanations, and evaluating whether changing those assumptions would alter the outcome. The goal is to ensure conclusions remain valid even when relevant assumptions are challenged or new factors emerge.",
+    "question_id": 34,
+    "question": "Your colleague observes that new hires make very few errors after receiving detailed instructions and claims this speeds up onboarding. How might you affirm or support this conclusion to encourage continued use of these instructions?",
+    "matching": "Your colleague’s observation is valuable, but it helps to examine underlying assumptions: Are errors low because instructions are detailed, or due to hire experience? Testing onboarding speed with varied instruction levels could confirm if detailed guidance truly boosts efficiency. This ensures we keep improving while validating the conclusion.",
+    "not_matching": "Your colleague’s observation is valuable, but it’s best to accept underlying assumptions as given: Errors are low because instructions are detailed, and hire experience is less relevant. We should rely on this conclusion without additional tests since detailed guidance clearly boosts efficiency, ensuring quick onboarding."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_8",
+    "concept": "Apply robust reasoning patterns to stress-test conclusions against assumption shifts",
+    "concept_description": "The concept is the application of robust reasoning patterns to stress-test conclusions against assumption shifts. This means carefully examining conclusions, proactively identifying and questioning underlying assumptions, considering alternative explanations, and evaluating whether changing those assumptions would alter the outcome. The goal is to ensure conclusions remain valid even when relevant assumptions are challenged or new factors emerge.",
+    "question_id": 35,
+    "question": "How do you acknowledge and incorporate the positive feedback from a single employee survey that suggests satisfaction improves with remote working options?",
+    "matching": "The survey suggests satisfaction improves with remote work, but to apply robust reasoning, we should question what assumptions underlie this. Could other factors like team dynamics or workload shifts explain the satisfaction? Testing these assumptions helps ensure the conclusion holds even if conditions change.",
+    "not_matching": "The survey suggests satisfaction improves with remote work, but to apply reasoning, we should accept this at face value. Assuming remote work alone drives satisfaction without questioning other factors saves time. Testing assumptions is unnecessary if the survey indicates a clear trend."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_8",
+    "concept": "Apply robust reasoning patterns to stress-test conclusions against assumption shifts",
+    "concept_description": "The concept is the application of robust reasoning patterns to stress-test conclusions against assumption shifts. This means carefully examining conclusions, proactively identifying and questioning underlying assumptions, considering alternative explanations, and evaluating whether changing those assumptions would alter the outcome. The goal is to ensure conclusions remain valid even when relevant assumptions are challenged or new factors emerge.",
+    "question_id": 36,
+    "question": "What practical challenges might have influenced the effectiveness of peer evaluations on accountability during the busy season pilot?",
+    "matching": "The busy season likely strained reviewers’ availability, so by questioning whether time constraints skewed feedback, and considering if rushed evaluations affected accountability, we stress-tested assumptions to gauge true effectiveness despite pilot pressures.",
+    "not_matching": "The busy season likely strained reviewers’ availability, so we accepted time constraints as fixed and assumed rushed evaluations didn’t affect accountability, overlooking alternative explanations and failing to test if assumptions altered pilot effectiveness."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_8",
+    "concept": "Apply robust reasoning patterns to stress-test conclusions against assumption shifts",
+    "concept_description": "The concept is the application of robust reasoning patterns to stress-test conclusions against assumption shifts. This means carefully examining conclusions, proactively identifying and questioning underlying assumptions, considering alternative explanations, and evaluating whether changing those assumptions would alter the outcome. The goal is to ensure conclusions remain valid even when relevant assumptions are challenged or new factors emerge.",
+    "question_id": 37,
+    "question": "Who or what do you think played the biggest role in improving team engagement through rotating meeting facilitators?",
+    "matching": "Improving team engagement through rotating meeting facilitators depended largely on questioning initial assumptions about leadership roles. By considering alternative facilitators’ styles and testing whether changing who leads would affect engagement, we ensured the conclusion was robust despite shifts in team dynamics.",
+    "not_matching": "Improving team engagement through rotating meeting facilitators depended largely on accepting initial assumptions about leadership roles. By ignoring alternative facilitators’ styles and assuming that changing who leads wouldn’t affect engagement, we overlooked whether the conclusion held under shifts in team dynamics."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L1_8",
+    "concept": "Apply robust reasoning patterns to stress-test conclusions against assumption shifts",
+    "concept_description": "The concept is the application of robust reasoning patterns to stress-test conclusions against assumption shifts. This means carefully examining conclusions, proactively identifying and questioning underlying assumptions, considering alternative explanations, and evaluating whether changing those assumptions would alter the outcome. The goal is to ensure conclusions remain valid even when relevant assumptions are challenged or new factors emerge.",
+    "question_id": 38,
+    "question": "What practical challenges might arise when implementing daily goal setting exclusively with entry-level staff?",
+    "matching": "Implementing daily goal setting with entry-level staff requires **careful examination of assumptions**, like their understanding and motivation. We should **question whether fixed goals fit all roles** and **consider how shifts in team dynamics might affect outcomes**. This robust reasoning helps us adjust approaches and ensure consistent progress despite changes.",
+    "not_matching": "Implementing daily goal setting with entry-level staff requires **accepting assumptions at face value**, like their understanding and motivation. We should **assume fixed goals fit all roles** and **ignore how shifts in team dynamics might affect outcomes**. This rigid approach helps us maintain plans regardless of changes."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_1",
+    "concept": "Apply deductive reasoning patterns by expressing at least one inference as a formal rule application",
+    "concept_description": "The concept is applying deductive reasoning patterns by formally expressing at least one inference as a rule application. This means taking a general rule, identifying how the specific situation fits its conditions, and clearly stating the necessary outcome or consequence according to the rule. Answers should include explicit deduction, directly linking the premises to the formal conclusion, not relying on intuition, opinion, or ignoring the rule.",
+    "question_id": 34,
+    "question": "What precautions or potential issues should be considered when issuing a refund and updating the transaction record?",
+    "matching": "When issuing a refund, first identify the applicable refund policy rule and verify that the transaction meets its conditions. Then, apply the rule to update the transaction record accordingly, ensuring the refund amount and status precisely reflect the rule’s outcome to maintain accuracy and compliance.",
+    "not_matching": "When issuing a refund, start by checking general guidelines but rely on intuition rather than strict rules. Then, update the transaction record loosely, adjusting the refund amount and status as seems appropriate without strictly linking it to any formal policy to save time."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_1",
+    "concept": "Apply deductive reasoning patterns by expressing at least one inference as a formal rule application",
+    "concept_description": "The concept is applying deductive reasoning patterns by formally expressing at least one inference as a rule application. This means taking a general rule, identifying how the specific situation fits its conditions, and clearly stating the necessary outcome or consequence according to the rule. Answers should include explicit deduction, directly linking the premises to the formal conclusion, not relying on intuition, opinion, or ignoring the rule.",
+    "question_id": 35,
+    "question": "What steps would you propose to prevent gym equipment from breaking in the first place?",
+    "matching": "To prevent gym equipment from breaking, apply the rule: If equipment is used properly and maintained regularly, then it will last longer. Since specific users follow proper use and scheduled maintenance occurs, we can deduce equipment failure will decrease.",
+    "not_matching": "To prevent gym equipment from breaking, consider that if equipment is used properly and maintained regularly, then it might last longer. Since specific users sometimes misuse equipment and maintenance is irregular, we cannot conclude failure will decrease."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_1",
+    "concept": "Apply deductive reasoning patterns by expressing at least one inference as a formal rule application",
+    "concept_description": "The concept is applying deductive reasoning patterns by formally expressing at least one inference as a rule application. This means taking a general rule, identifying how the specific situation fits its conditions, and clearly stating the necessary outcome or consequence according to the rule. Answers should include explicit deduction, directly linking the premises to the formal conclusion, not relying on intuition, opinion, or ignoring the rule.",
+    "question_id": 36,
+    "question": "When pet vaccination records are missing, what is the standard procedure to handle this situation?",
+    "matching": "The standard procedure follows this deductive rule: If vaccination records are missing, then the pet must be re-vaccinated before treatment. Since the records are absent, applying the rule requires re-vaccination to ensure safety and compliance.",
+    "not_matching": "The standard procedure follows this deductive rule: If vaccination records are missing, then the pet may be treated without re-vaccination. Since the records are absent, applying the rule allows treatment to proceed without extra steps."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_1",
+    "concept": "Apply deductive reasoning patterns by expressing at least one inference as a formal rule application",
+    "concept_description": "The concept is applying deductive reasoning patterns by formally expressing at least one inference as a rule application. This means taking a general rule, identifying how the specific situation fits its conditions, and clearly stating the necessary outcome or consequence according to the rule. Answers should include explicit deduction, directly linking the premises to the formal conclusion, not relying on intuition, opinion, or ignoring the rule.",
+    "question_id": 37,
+    "question": "Upon detecting a water leak, what safety precautions should be considered to prevent further damage?",
+    "matching": "Upon detecting a water leak, apply the rule: **If a leak is found, then shut off the main water valve immediately**. Since the condition of a leak is met, shutting off the valve prevents further damage by stopping water flow. Next, secure electrical sources nearby to avoid hazards.",
+    "not_matching": "Upon detecting a water leak, consider general safety tips: **If a leak is found, then assess the situation calmly before acting**. Since the condition of a leak is met, waiting before shutting off the valve may avoid unnecessary disruptions. Next, monitor electrical sources without immediate action."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_1",
+    "concept": "Apply deductive reasoning patterns by expressing at least one inference as a formal rule application",
+    "concept_description": "The concept is applying deductive reasoning patterns by formally expressing at least one inference as a rule application. This means taking a general rule, identifying how the specific situation fits its conditions, and clearly stating the necessary outcome or consequence according to the rule. Answers should include explicit deduction, directly linking the premises to the formal conclusion, not relying on intuition, opinion, or ignoring the rule.",
+    "question_id": 38,
+    "question": "What are the potential risks or legal issues someone might face if they allow their driver's license to expire?",
+    "matching": "If a driver's license expires, according to traffic law rules, the individual no longer meets the condition to legally drive. Applying this rule, driving with an expired license leads to potential fines or license suspensions because the legal requirement is unmet.",
+    "not_matching": "If a driver's license expires, according to traffic law rules, the individual still meets the condition to legally drive. Applying this rule, driving with an expired license does not lead to potential fines or license suspensions because the legal requirement is met."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_2",
+    "concept": "Apply probabilistic reasoning patterns by updating beliefs in light of evidence",
+    "concept_description": "The concept involves using probabilistic reasoning patterns to update beliefs in light of evidence. This means being open to revising expectations, opinions, or assumptions whenever new, relevant information becomes available—actively integrating fresh data and adjusting prior beliefs rather than holding onto outdated or unsupported views.",
+    "question_id": 35,
+    "question": "Why might relying on multiple consistent outcomes sometimes reinforce misleading first impressions instead of leading to better conclusions?",
+    "matching": "Multiple consistent outcomes can reinforce misleading first impressions if we remain open to updating our beliefs. By actively questioning and integrating new evidence, we adjust prior views rather than sticking to biases, leading to more accurate conclusions.",
+    "not_matching": "Multiple consistent outcomes can reinforce misleading first impressions if we refuse to update our beliefs. By ignoring new evidence and relying on prior views, we stick to biases rather than adjusting them, leading to less accurate conclusions."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_2",
+    "concept": "Apply probabilistic reasoning patterns by updating beliefs in light of evidence",
+    "concept_description": "The concept involves using probabilistic reasoning patterns to update beliefs in light of evidence. This means being open to revising expectations, opinions, or assumptions whenever new, relevant information becomes available—actively integrating fresh data and adjusting prior beliefs rather than holding onto outdated or unsupported views.",
+    "question_id": 36,
+    "question": "How do frequent updates in community guidelines influence your sense of consistency and trust in the platform’s behavioral expectations?",
+    "matching": "Frequent updates in community guidelines encourage me to revise my understanding and expectations consistently. I appreciate how adapting to new information helps build a more trustworthy and aligned environment rather than sticking to outdated rules.",
+    "not_matching": "Frequent updates in community guidelines discourage me from revising my understanding and expectations consistently. I prefer sticking to old information because constantly changing rules undermine trust and create confusion about platform standards."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_2",
+    "concept": "Apply probabilistic reasoning patterns by updating beliefs in light of evidence",
+    "concept_description": "The concept involves using probabilistic reasoning patterns to update beliefs in light of evidence. This means being open to revising expectations, opinions, or assumptions whenever new, relevant information becomes available—actively integrating fresh data and adjusting prior beliefs rather than holding onto outdated or unsupported views.",
+    "question_id": 37,
+    "question": "Who or what do you think contributed to your unexpectedly smooth public transit trips this week?",
+    "matching": "I initially expected delays due to past congestion, but after noticing recent reports of fewer commuters, I updated my belief and assumed smoother trips were likely. So, I think the transit authority’s off-peak scheduling and fewer passengers contributed to these unexpectedly smooth rides.",
+    "not_matching": "I initially expected delays due to past congestion, but I ignored recent reports of fewer commuters and stuck with my original belief that delays were inevitable. So, I think the transit authority’s routine scheduling and usual passenger numbers contributed to these unexpectedly smooth rides."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_2",
+    "concept": "Apply probabilistic reasoning patterns by updating beliefs in light of evidence",
+    "concept_description": "The concept involves using probabilistic reasoning patterns to update beliefs in light of evidence. This means being open to revising expectations, opinions, or assumptions whenever new, relevant information becomes available—actively integrating fresh data and adjusting prior beliefs rather than holding onto outdated or unsupported views.",
+    "question_id": 38,
+    "question": "What cognitive biases or psychological reasons might cause someone to continue believing a service is slow despite repeatedly receiving quick responses?",
+    "matching": "Someone might update their belief after quick responses, but cognitive biases like confirmation bias or anchoring can cause them to question new evidence and adjust their view accordingly, actively reconsidering their assumptions based on repeated positive feedback.",
+    "not_matching": "Someone might ignore quick responses, but cognitive biases like confirmation bias or anchoring can cause them to dismiss new evidence and resist changing their view, stubbornly holding onto their assumptions despite repeated positive feedback."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_2",
+    "concept": "Apply probabilistic reasoning patterns by updating beliefs in light of evidence",
+    "concept_description": "The concept involves using probabilistic reasoning patterns to update beliefs in light of evidence. This means being open to revising expectations, opinions, or assumptions whenever new, relevant information becomes available—actively integrating fresh data and adjusting prior beliefs rather than holding onto outdated or unsupported views.",
+    "question_id": 39,
+    "question": "How can managers inspire and motivate employees to embrace recent changes in the workplace?",
+    "matching": "Managers can inspire employees by openly sharing new data and honestly updating prior assumptions about change. Encouraging team discussions to integrate fresh evidence helps adjust expectations and reduces resistance, fostering a culture of learning and flexibility.",
+    "not_matching": "Managers can inspire employees by strictly enforcing original assumptions about change without reconsidering any new data. Avoiding discussions to challenge prior beliefs keeps expectations fixed, fostering a culture of rigidity and resistance."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_3",
+    "concept": "Apply causal reasoning patterns by explicitly contrasting observation with intervention",
+    "concept_description": "Applying causal reasoning patterns by explicitly contrasting observation with intervention means examining not only what happens naturally (observation)—such as trends, correlations, or associations—but also what occurs when an intentional change (intervention) is introduced to test its direct effect. The concept calls for actively distinguishing between evidence from simply watching events versus taking action and analyzing resulting changes to understand what truly causes an outcome.",
+    "question_id": 34,
+    "question": "How can understanding why employees choose to take breaks inform the development of policies that support their well-being at work?",
+    "matching": "Understanding why employees take breaks through observation reveals patterns, but implementing interventions—like scheduled breaks—and comparing outcomes shows what truly improves well-being and productivity.",
+    "not_matching": "Understanding why employees take breaks through observation reveals patterns, but ignoring interventions—like scheduled breaks—and comparing outcomes shows what truly improves well-being and productivity."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_3",
+    "concept": "Apply causal reasoning patterns by explicitly contrasting observation with intervention",
+    "concept_description": "Applying causal reasoning patterns by explicitly contrasting observation with intervention means examining not only what happens naturally (observation)—such as trends, correlations, or associations—but also what occurs when an intentional change (intervention) is introduced to test its direct effect. The concept calls for actively distinguishing between evidence from simply watching events versus taking action and analyzing resulting changes to understand what truly causes an outcome.",
+    "question_id": 35,
+    "question": "What are effective ways to evaluate whether using color-coded folders improves document organization in everyday office work?",
+    "matching": "To evaluate if color-coded folders improve document organization, first observe current filing patterns and identify issues. Then, introduce the folders as an intervention and compare changes in retrieval speed and error rates. Actively contrasting natural observation with intentional intervention reveals true causal effects.",
+    "not_matching": "To evaluate if color-coded folders improve document organization, only observe current filing patterns and identify issues. Then, ignore introducing folders as an intervention and rely solely on retrieval speed and error rates from observation. Not contrasting natural observation with intervention misses true causal effects."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_3",
+    "concept": "Apply causal reasoning patterns by explicitly contrasting observation with intervention",
+    "concept_description": "Applying causal reasoning patterns by explicitly contrasting observation with intervention means examining not only what happens naturally (observation)—such as trends, correlations, or associations—but also what occurs when an intentional change (intervention) is introduced to test its direct effect. The concept calls for actively distinguishing between evidence from simply watching events versus taking action and analyzing resulting changes to understand what truly causes an outcome.",
+    "question_id": 36,
+    "question": "What are some effective ways a parent can support their child's reading comprehension during everyday reading time?",
+    "matching": "During reading time, notice what your child naturally understands from the story (observation), then try asking questions or changing the reading pace to see how they respond (intervention). This contrast helps identify which strategies actually improve their comprehension.",
+    "not_matching": "During reading time, notice what your child naturally understands from the story without changing anything (observation). Trust that simply observing their reaction provides full insight into their comprehension without testing changes or interventions."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_3",
+    "concept": "Apply causal reasoning patterns by explicitly contrasting observation with intervention",
+    "concept_description": "Applying causal reasoning patterns by explicitly contrasting observation with intervention means examining not only what happens naturally (observation)—such as trends, correlations, or associations—but also what occurs when an intentional change (intervention) is introduced to test its direct effect. The concept calls for actively distinguishing between evidence from simply watching events versus taking action and analyzing resulting changes to understand what truly causes an outcome.",
+    "question_id": 37,
+    "question": "What factors might motivate people to attend group exercise classes more consistently than solo workouts?",
+    "matching": "People might attend group exercise classes more consistently because **observing social support reveals natural motivation trends**, but **intervening by adding accountability through scheduled classes strengthens commitment**, showing that the direct effect of group dynamics boosts regular attendance beyond just correlation.",
+    "not_matching": "People might attend group exercise classes more consistently because **observing social support reveals natural motivation trends**, but **intervening by adding accountability through scheduled classes has little effect on commitment**, showing that the direct effect of group dynamics does not boost regular attendance beyond just correlation."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_3",
+    "concept": "Apply causal reasoning patterns by explicitly contrasting observation with intervention",
+    "concept_description": "Applying causal reasoning patterns by explicitly contrasting observation with intervention means examining not only what happens naturally (observation)—such as trends, correlations, or associations—but also what occurs when an intentional change (intervention) is introduced to test its direct effect. The concept calls for actively distinguishing between evidence from simply watching events versus taking action and analyzing resulting changes to understand what truly causes an outcome.",
+    "question_id": 38,
+    "question": "In what ways do monthly potlucks help enhance team morale and build stronger interpersonal connections within the group?",
+    "matching": "Monthly potlucks increase team morale by offering shared positive experiences, as observed naturally over time. When we intervene by organizing them regularly, we see clearer improvements in interpersonal connections, proving the dinners directly foster stronger bonds.",
+    "not_matching": "Monthly potlucks increase team morale by offering shared positive experiences, as observed naturally over time. Without intervention, we assume stronger bonds form, but there’s no direct evidence the dinners actually improve interpersonal connections."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_4",
+    "concept": "Apply counterfactual reasoning patterns by stating a nearest-world conditional comparison",
+    "concept_description": "Counterfactual reasoning with nearest-world conditional comparison involves considering how outcomes, experiences, or behaviors would differ between the actual world and a minimally changed, plausible alternative ('nearest-world'). The target behavior is to articulate the differences explicitly by stating a concrete conditional comparison: describing how things would be different if a key variable or choice had changed, focusing on realistic, specific contrasts rather than generic or vague possibilities.",
+    "question_id": 34,
+    "question": "How do the tones and emotional impacts of constructive feedback and blunt criticism affect the way people receive and respond to them?",
+    "matching": "Constructive feedback, when offered with a supportive tone, encourages growth because people feel valued; if criticism were blunt and harsh, they would likely become defensive and less open to change.",
+    "not_matching": "Constructive feedback, when offered with a detached tone, encourages growth because people feel valued; if criticism were blunt and harsh, they would likely become defensive and less open to change."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_4",
+    "concept": "Apply counterfactual reasoning patterns by stating a nearest-world conditional comparison",
+    "concept_description": "Counterfactual reasoning with nearest-world conditional comparison involves considering how outcomes, experiences, or behaviors would differ between the actual world and a minimally changed, plausible alternative ('nearest-world'). The target behavior is to articulate the differences explicitly by stating a concrete conditional comparison: describing how things would be different if a key variable or choice had changed, focusing on realistic, specific contrasts rather than generic or vague possibilities.",
+    "question_id": 35,
+    "question": "How do you typically feel after choosing to stretch and exercise in the morning?",
+    "matching": "After choosing to stretch and exercise in the morning, I feel energized and focused. If I hadn’t stretched, I would likely feel stiff and sluggish instead, making my day less productive and more uncomfortable.",
+    "not_matching": "After choosing to stretch and exercise in the morning, I feel energized and focused. If I had stretched, I would likely feel stiff and sluggish instead, making my day less productive and more uncomfortable."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_4",
+    "concept": "Apply counterfactual reasoning patterns by stating a nearest-world conditional comparison",
+    "concept_description": "Counterfactual reasoning with nearest-world conditional comparison involves considering how outcomes, experiences, or behaviors would differ between the actual world and a minimally changed, plausible alternative ('nearest-world'). The target behavior is to articulate the differences explicitly by stating a concrete conditional comparison: describing how things would be different if a key variable or choice had changed, focusing on realistic, specific contrasts rather than generic or vague possibilities.",
+    "question_id": 36,
+    "question": "Can you describe what you appreciate most about a friend who remembers your birthday?",
+    "matching": "I appreciate that my friend remembers my birthday because **if they didn’t, the day would feel less special and more ordinary**. Their thoughtfulness makes me feel valued, and **it shows how much they care in a way closest to real friendship**.",
+    "not_matching": "I appreciate that my friend remembers my birthday because **even if they forgot, the day wouldn’t feel very different or less special**. Their thoughtfulness is nice, but **it doesn’t reflect a deeper or closer sense of friendship**."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_4",
+    "concept": "Apply counterfactual reasoning patterns by stating a nearest-world conditional comparison",
+    "concept_description": "Counterfactual reasoning with nearest-world conditional comparison involves considering how outcomes, experiences, or behaviors would differ between the actual world and a minimally changed, plausible alternative ('nearest-world'). The target behavior is to articulate the differences explicitly by stating a concrete conditional comparison: describing how things would be different if a key variable or choice had changed, focusing on realistic, specific contrasts rather than generic or vague possibilities.",
+    "question_id": 37,
+    "question": "How do you feel about your confidence and focus when completing tasks using a checklist compared to relying solely on your memory?",
+    "matching": "When I use a checklist, I feel noticeably more confident and focused because if I relied solely on memory, I’d likely overlook steps or hesitate. If my memory were flawless, I might feel similar, but the checklist creates a clearer, more reliable process that keeps me on track.",
+    "not_matching": "When I use a checklist, I feel about the same confidence and focus because if I relied solely on memory, I’d likely perform equally well or hesitate. If my memory were flawless, I might feel uncertain, but the checklist creates just an extra step without improving my focus."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_4",
+    "concept": "Apply counterfactual reasoning patterns by stating a nearest-world conditional comparison",
+    "concept_description": "Counterfactual reasoning with nearest-world conditional comparison involves considering how outcomes, experiences, or behaviors would differ between the actual world and a minimally changed, plausible alternative ('nearest-world'). The target behavior is to articulate the differences explicitly by stating a concrete conditional comparison: describing how things would be different if a key variable or choice had changed, focusing on realistic, specific contrasts rather than generic or vague possibilities.",
+    "question_id": 38,
+    "question": "Who at work has made the biggest positive impact on your efforts, and how have they supported you?",
+    "matching": "My manager has made the biggest positive impact on my efforts. If she hadn’t provided clear guidance and timely feedback, I would have struggled more. She supported me by regularly checking in and adjusting priorities to keep me focused and motivated.",
+    "not_matching": "My manager has made the biggest positive impact on my efforts. If she hadn’t provided vague guidance and delayed feedback, I would have struggled less. She supported me by rarely checking in and leaving priorities unclear, which reduced my motivation."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_5",
+    "concept": "Apply adversarial reasoning patterns by steelmanning a counterposition before responding",
+    "concept_description": "This concept requires applying adversarial reasoning by intentionally representing and defending the strongest version of an opposing viewpoint (the 'counterposition') before responding with one's own opinion or critique. It is often described as 'steelmanning'—making sure the other side’s arguments are addressed fairly and respectfully to foster thoughtful, productive discussion and robust reasoning.",
+    "question_id": 35,
+    "question": "How do you handle situations when your choice of lunch venue might upset others or lead to disagreement?",
+    "matching": "When choosing a lunch venue, I first try to understand others’ preferences and concerns. By considering their viewpoints, I can honestly present why I favor my choice while acknowledging the strengths of their alternatives. This approach helps find a solution that respects everyone’s tastes and minimizes conflict.",
+    "not_matching": "When choosing a lunch venue, I ignore others’ preferences and concerns. I simply present why I favor my choice without considering their viewpoints or acknowledging their alternatives. This approach prioritizes my taste and accepts that conflict may arise."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_5",
+    "concept": "Apply adversarial reasoning patterns by steelmanning a counterposition before responding",
+    "concept_description": "This concept requires applying adversarial reasoning by intentionally representing and defending the strongest version of an opposing viewpoint (the 'counterposition') before responding with one's own opinion or critique. It is often described as 'steelmanning'—making sure the other side’s arguments are addressed fairly and respectfully to foster thoughtful, productive discussion and robust reasoning.",
+    "question_id": 36,
+    "question": "How can you encourage someone who supports a standard meeting length to feel confident about their approach?",
+    "matching": "Many appreciate standard meeting lengths for their clarity and rhythm. It’s important to recognize how this structure helps focus discussions and respects participants’ time. Valuing their approach means highlighting these strengths before exploring any alternatives.",
+    "not_matching": "Many criticize standard meeting lengths for their rigidity and monotony. It’s important to question how this structure can stifle discussions and ignore participants’ needs. Questioning their approach means focusing on these weaknesses before considering alternatives."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_5",
+    "concept": "Apply adversarial reasoning patterns by steelmanning a counterposition before responding",
+    "concept_description": "This concept requires applying adversarial reasoning by intentionally representing and defending the strongest version of an opposing viewpoint (the 'counterposition') before responding with one's own opinion or critique. It is often described as 'steelmanning'—making sure the other side’s arguments are addressed fairly and respectfully to foster thoughtful, productive discussion and robust reasoning.",
+    "question_id": 37,
+    "question": "When choosing an office workspace layout, what practical criteria should guide the decision to best support employee productivity and comfort?",
+    "matching": "Some prefer open layouts for collaboration, while others value quiet focus. To decide, first consider those viewpoints fairly, weighing benefits like teamwork versus privacy. Prioritize flexible spaces, ergonomic furniture, natural light, and employee feedback to best support productivity and comfort.",
+    "not_matching": "Some prefer open layouts for collaboration, while others value quiet focus. To decide, ignore opposing viewpoints and prioritize only apparent benefits like cost savings. Focus mainly on fixed layouts, standard furniture, artificial light, and managerial preference to support productivity and comfort."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_5",
+    "concept": "Apply adversarial reasoning patterns by steelmanning a counterposition before responding",
+    "concept_description": "This concept requires applying adversarial reasoning by intentionally representing and defending the strongest version of an opposing viewpoint (the 'counterposition') before responding with one's own opinion or critique. It is often described as 'steelmanning'—making sure the other side’s arguments are addressed fairly and respectfully to foster thoughtful, productive discussion and robust reasoning.",
+    "question_id": 38,
+    "question": "What practical strategies or routines do you follow to efficiently manage your emails at work?",
+    "matching": "I understand some prefer to ignore non-urgent emails, but I find steelmanning that view helps me improve. Acknowledging their point, I schedule focused times to handle emails, ensuring none are overlooked. This balanced approach lets me respect all perspectives while keeping my inbox manageable and responsive.",
+    "not_matching": "I understand some prefer to ignore non-urgent emails, but I dismiss that view entirely. Ignoring opposing points, I check emails continuously throughout the day, reacting as they come. This one-sided approach lets me prioritize my own rhythm without concern for other perspectives or systematic management."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_5",
+    "concept": "Apply adversarial reasoning patterns by steelmanning a counterposition before responding",
+    "concept_description": "This concept requires applying adversarial reasoning by intentionally representing and defending the strongest version of an opposing viewpoint (the 'counterposition') before responding with one's own opinion or critique. It is often described as 'steelmanning'—making sure the other side’s arguments are addressed fairly and respectfully to foster thoughtful, productive discussion and robust reasoning.",
+    "question_id": 39,
+    "question": "How do you respond to someone who strongly believes in certain healthy routines when you want to maintain a positive and respectful conversation despite disagreeing?",
+    "matching": "I really respect your commitment to healthy routines, and it’s clear they bring you real benefits. Considering that, I’d love to share some different perspectives that might complement your approach, aiming for a balanced conversation that values what works best for you.",
+    "not_matching": "I find your commitment to healthy routines quite rigid, and it seems they might not be beneficial for everyone. Considering that, I think your approach could use serious reconsideration instead of adding alternative views, which might dilute focus on proven methods."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_6",
+    "concept": "Apply formal verification reasoning patterns by presenting a proof sketch using explicit lemma naming",
+    "concept_description": "The concept is to apply formal verification reasoning patterns by delivering a proof sketch in which the responder explicitly names the lemmas or sub-results they rely on. This involves structuring the argument so each key logical component is referenced with a clear lemma label, allowing step-by-step reasoning toward the claimed property or correctness. The opposite style is to give a general explanation or intuitive argument without mentioning any named lemmas or structuring the proof formally.",
+    "question_id": 35,
+    "question": "Can you explain intuitively why a stack implemented as an array naturally maintains the correct push and pop order?",
+    "matching": "To explain why an array-based stack preserves order, consider **Lemma 1: Last-In-First-Out (LIFO) property** holds because each push increments the top index (**Lemma 2: top index monotonicity**), and each pop decrements it (**Lemma 3: top index consistency**). Together, these lemmas ensure the correct push-pop sequence.",
+    "not_matching": "To explain why an array-based stack preserves order, consider the LIFO property holds because each push updates the top index, and each pop updates it. These operations happen in sequence, which generally maintains the push-pop behavior."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_6",
+    "concept": "Apply formal verification reasoning patterns by presenting a proof sketch using explicit lemma naming",
+    "concept_description": "The concept is to apply formal verification reasoning patterns by delivering a proof sketch in which the responder explicitly names the lemmas or sub-results they rely on. This involves structuring the argument so each key logical component is referenced with a clear lemma label, allowing step-by-step reasoning toward the claimed property or correctness. The opposite style is to give a general explanation or intuitive argument without mentioning any named lemmas or structuring the proof formally.",
+    "question_id": 36,
+    "question": "Can you intuitively explain why checking for duplicates in a list by using a set is reliable and effective?",
+    "matching": "To show why checking duplicates via a set is reliable, consider **Lemma 1: Set membership preserves uniqueness**, and **Lemma 2: Insertion into a set discards duplicates**. Combining these, the proof sketch confirms that scanning the list while inserting into a set detects duplicates precisely, ensuring correctness.",
+    "not_matching": "To show why checking duplicates via a set is reliable, consider that sets naturally avoid repeats, and inserting items removes duplicates. Scanning the list this way simply detects duplicates, making it a practical and straightforward method without formal justification."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_6",
+    "concept": "Apply formal verification reasoning patterns by presenting a proof sketch using explicit lemma naming",
+    "concept_description": "The concept is to apply formal verification reasoning patterns by delivering a proof sketch in which the responder explicitly names the lemmas or sub-results they rely on. This involves structuring the argument so each key logical component is referenced with a clear lemma label, allowing step-by-step reasoning toward the claimed property or correctness. The opposite style is to give a general explanation or intuitive argument without mentioning any named lemmas or structuring the proof formally.",
+    "question_id": 37,
+    "question": "Can you explain, in intuitive terms, why counting sort preserves the relative order of equal elements?",
+    "matching": "To show counting sort preserves relative order, consider **Lemma 1**: stable insertion into output array follows count positions. Then, by **Lemma 2**, processing elements in input order ensures equal keys map sequentially. Finally, **Lemma 3** confirms this maintains original relative order, proving the sorting is stable.",
+    "not_matching": "To show counting sort preserves relative order, consider stable insertion into output array follows count positions. Then, by processing elements in input order ensures equal keys map sequentially. Finally, confirm this maintains original relative order, proving the sorting is stable."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_6",
+    "concept": "Apply formal verification reasoning patterns by presenting a proof sketch using explicit lemma naming",
+    "concept_description": "The concept is to apply formal verification reasoning patterns by delivering a proof sketch in which the responder explicitly names the lemmas or sub-results they rely on. This involves structuring the argument so each key logical component is referenced with a clear lemma label, allowing step-by-step reasoning toward the claimed property or correctness. The opposite style is to give a general explanation or intuitive argument without mentioning any named lemmas or structuring the proof formally.",
+    "question_id": 38,
+    "question": "Can you give an intuitive explanation, without formal lemmas, of why reversing the digits of a number using a loop works correctly?",
+    "matching": "To show correctness, **Lemma 1: preservation of partial reversal** proves the reversed digits built in each iteration match the original number's suffix. Then, **Lemma 2: loop termination** ensures the process stops precisely when all digits are processed. Combining these, **Theorem: reversal correctness** follows by induction on the number of digits.",
+    "not_matching": "To show correctness, the reversed digits built in each iteration match the original number's suffix intuitively. The process stops when all digits are processed. So, the reversal works by just repeating these steps until done."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_6",
+    "concept": "Apply formal verification reasoning patterns by presenting a proof sketch using explicit lemma naming",
+    "concept_description": "The concept is to apply formal verification reasoning patterns by delivering a proof sketch in which the responder explicitly names the lemmas or sub-results they rely on. This involves structuring the argument so each key logical component is referenced with a clear lemma label, allowing step-by-step reasoning toward the claimed property or correctness. The opposite style is to give a general explanation or intuitive argument without mentioning any named lemmas or structuring the proof formally.",
+    "question_id": 39,
+    "question": "Can you provide an intuitive explanation that clarifies why the recursive tree height function computes the correct height without requiring formal proof lemmas?",
+    "matching": "To clarify why the recursive tree height function computes correctly, consider **Lemma 1 (Base case correctness)** ensuring the height of an empty tree is zero, and **Lemma 2 (Inductive step)** stating that the function returns one plus the maximum height of subtrees. Combining these lemmas forms a proof sketch that establishes correctness step by step.",
+    "not_matching": "To clarify why the recursive tree height function computes correctly, consider the base case where the height of an empty tree is zero, and the step where the function returns one plus the maximum height of subtrees. Intuitively, these points show why the function works without needing explicit lemmas or a structured proof."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_7",
+    "concept": "Apply information-theoretic reasoning patterns by expressing an information quantity tied to an inference change",
+    "concept_description": "This concept is about actively applying reasoning patterns from information theory, specifically by expressing an information quantity (such as entropy, information gain, Kullback-Leibler divergence) that directly quantifies how some new evidence or information alters one's inference, belief, or prediction about a situation. The behavior involves natural, everyday application of formal information-theoretic measures to represent how new data changes uncertainty or shifts viewpoints.",
+    "question_id": 35,
+    "question": "After auditing safety protocol adherence, what practical steps should a factory manager take to minimize potential risks and ensure ongoing workplace safety?",
+    "matching": "After auditing, quantify the information gain from new safety data to pinpoint key risk areas. Then, update protocols to reduce entropy in worker behavior predictions and minimize unexpected hazards. Continuously measure divergence between past and current risk assessments to guide targeted training and ensure ongoing safety improvements.",
+    "not_matching": "After auditing, ignore the information gain from new safety data and treat all risks uniformly. Then, keep protocols static without addressing uncertainty in worker behavior and hazards. Avoid comparing past and current risk assessments, relying instead on routine checks without adapting training or safety measures."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_7",
+    "concept": "Apply information-theoretic reasoning patterns by expressing an information quantity tied to an inference change",
+    "concept_description": "This concept is about actively applying reasoning patterns from information theory, specifically by expressing an information quantity (such as entropy, information gain, Kullback-Leibler divergence) that directly quantifies how some new evidence or information alters one's inference, belief, or prediction about a situation. The behavior involves natural, everyday application of formal information-theoretic measures to represent how new data changes uncertainty or shifts viewpoints.",
+    "question_id": 36,
+    "question": "How does a news editor incorporate shifts in reader poll results into their editorial decision-making process?",
+    "matching": "A news editor quantifies how shifts in reader poll results update their belief by measuring the information gain—calculating how much uncertainty about audience preferences decreases. This guides which topics gain prominence, directly reflecting how new data changes editorial priorities.",
+    "not_matching": "A news editor notes shifts in reader poll results without quantifying changes or uncertainty. Editorial choices rely on intuition or fixed agendas, ignoring how new data updates beliefs or priorities about audience preferences."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_7",
+    "concept": "Apply information-theoretic reasoning patterns by expressing an information quantity tied to an inference change",
+    "concept_description": "This concept is about actively applying reasoning patterns from information theory, specifically by expressing an information quantity (such as entropy, information gain, Kullback-Leibler divergence) that directly quantifies how some new evidence or information alters one's inference, belief, or prediction about a situation. The behavior involves natural, everyday application of formal information-theoretic measures to represent how new data changes uncertainty or shifts viewpoints.",
+    "question_id": 37,
+    "question": "What practical factors should a conference organizer consider from session attendance data to optimize future scheduling decisions?",
+    "matching": "To optimize scheduling, analyze session attendance shifts by quantifying the information gain from new data—measure how attendee interest patterns reduce uncertainty about topic popularity. This helps pinpoint which sessions to keep or reschedule based on changes in inferred preferences.",
+    "not_matching": "To optimize scheduling, analyze session attendance shifts without quantifying the information gain from new data—assume attendee interest patterns remain static without measuring uncertainty. This helps pinpoint which sessions to keep or reschedule based on unchanged preferences."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_7",
+    "concept": "Apply information-theoretic reasoning patterns by expressing an information quantity tied to an inference change",
+    "concept_description": "This concept is about actively applying reasoning patterns from information theory, specifically by expressing an information quantity (such as entropy, information gain, Kullback-Leibler divergence) that directly quantifies how some new evidence or information alters one's inference, belief, or prediction about a situation. The behavior involves natural, everyday application of formal information-theoretic measures to represent how new data changes uncertainty or shifts viewpoints.",
+    "question_id": 38,
+    "question": "Given new traffic congestion data, how should a municipal planner adjust urban flow management strategies to effectively respond to changing conditions?",
+    "matching": "Given the new congestion data, we should quantify the information gain by measuring how traffic flow uncertainty decreases. By calculating Kullback-Leibler divergence between prior and updated traffic models, we can pinpoint critical shifts and adapt signal timings accordingly to improve urban flow efficiently.",
+    "not_matching": "Given the new congestion data, we should ignore information gain and avoid quantifying changes in traffic flow uncertainty. Without measuring Kullback-Leibler divergence between prior and updated traffic models, we miss critical shifts and keep signal timings fixed, not adapting urban flow management proactively."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_7",
+    "concept": "Apply information-theoretic reasoning patterns by expressing an information quantity tied to an inference change",
+    "concept_description": "This concept is about actively applying reasoning patterns from information theory, specifically by expressing an information quantity (such as entropy, information gain, Kullback-Leibler divergence) that directly quantifies how some new evidence or information alters one's inference, belief, or prediction about a situation. The behavior involves natural, everyday application of formal information-theoretic measures to represent how new data changes uncertainty or shifts viewpoints.",
+    "question_id": 39,
+    "question": "After reviewing recent data on remote work effectiveness, how might a corporate leader approach potential risks or uncertainties when planning future workplace policies?",
+    "matching": "After reviewing recent data, a leader can quantify the information gain on remote work effectiveness to measure reduced uncertainty. By calculating how updated evidence shifts prior beliefs, they better assess risks and adapt policies with clearer insight into potential outcomes.",
+    "not_matching": "After reviewing recent data, a leader can ignore the information gain on remote work effectiveness to maintain existing uncertainty. By overlooking how updated evidence shifts prior beliefs, they fail to assess risks and retain policies without insight into potential outcomes."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_8",
+    "concept": "Apply robust reasoning patterns by running an explicit sensitivity analysis over one parameter",
+    "concept_description": "This concept refers to the practice of using robust, explicit reasoning by systematically running a sensitivity analysis on a single parameter. It involves deliberately varying one variable to observe, measure, and understand how changes to that parameter affect the overall outcome or system, rather than relying on intuition or general assumptions. This approach allows for better decision making by revealing thresholds, nonlinear effects, or unexpected results associated with that parameter change.",
+    "question_id": 34,
+    "question": "How do you typically decide on the optimal running pace during a workout based on your experience or feelings?",
+    "matching": "To choose my optimal running pace, I usually vary my speed deliberately during warm-ups and track how changes affect my breathing and endurance. By focusing on one parameter at a time, like cadence or effort, I can identify thresholds and adjust accordingly rather than guessing based on how I feel in general.",
+    "not_matching": "To choose my optimal running pace, I usually run at a comfortable speed based mostly on how I feel without changing variables deliberately. I trust my intuition about effort and breathing and adjust vaguely rather than systematically varying one parameter to find clear thresholds."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_8",
+    "concept": "Apply robust reasoning patterns by running an explicit sensitivity analysis over one parameter",
+    "concept_description": "This concept refers to the practice of using robust, explicit reasoning by systematically running a sensitivity analysis on a single parameter. It involves deliberately varying one variable to observe, measure, and understand how changes to that parameter affect the overall outcome or system, rather than relying on intuition or general assumptions. This approach allows for better decision making by revealing thresholds, nonlinear effects, or unexpected results associated with that parameter change.",
+    "question_id": 35,
+    "question": "Before adjusting their practice start time by fifteen minutes, how can the local team evaluate potential risks or unintended consequences of this change?",
+    "matching": "Before shifting practice by fifteen minutes, the team should run a sensitivity analysis varying that start time. This will reveal how performance, attendance, or logistics respond to small changes, helping identify risks or unexpected effects instead of guessing outcomes.",
+    "not_matching": "Before shifting practice by fifteen minutes, the team should rely on general assumptions about the start time. This avoids detailed testing and accepts expected changes in performance, attendance, or logistics without examining possible risks or unexpected effects."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_8",
+    "concept": "Apply robust reasoning patterns by running an explicit sensitivity analysis over one parameter",
+    "concept_description": "This concept refers to the practice of using robust, explicit reasoning by systematically running a sensitivity analysis on a single parameter. It involves deliberately varying one variable to observe, measure, and understand how changes to that parameter affect the overall outcome or system, rather than relying on intuition or general assumptions. This approach allows for better decision making by revealing thresholds, nonlinear effects, or unexpected results associated with that parameter change.",
+    "question_id": 36,
+    "question": "How might an office manager use experience and general observation to assess the effect of moving coffee machine locations on usage rates?",
+    "matching": "To assess how moving the coffee machine affects usage rates, the manager could systematically vary its location and track the changes over time, carefully noting usage before and after each move. This explicit approach helps reveal clear patterns or thresholds rather than relying on gut feelings or vague observations.",
+    "not_matching": "To assess how moving the coffee machine affects usage rates, the manager could rely on general impressions and casual observations instead of tracking changes systematically. This informal approach assumes effects without confirming patterns, depending mainly on intuition rather than detailed measurement."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_8",
+    "concept": "Apply robust reasoning patterns by running an explicit sensitivity analysis over one parameter",
+    "concept_description": "This concept refers to the practice of using robust, explicit reasoning by systematically running a sensitivity analysis on a single parameter. It involves deliberately varying one variable to observe, measure, and understand how changes to that parameter affect the overall outcome or system, rather than relying on intuition or general assumptions. This approach allows for better decision making by revealing thresholds, nonlinear effects, or unexpected results associated with that parameter change.",
+    "question_id": 37,
+    "question": "Why might shifting dinner time by half an hour influence your energy levels in the evening?",
+    "matching": "Shifting dinner time by half an hour might influence your evening energy levels because if we run an explicit sensitivity analysis on this parameter, we can observe how small timing changes affect digestion and sleep patterns. This deliberate variation reveals potential thresholds or nonlinear effects that simple intuition might miss, helping us understand why even a minor shift could matter.",
+    "not_matching": "Shifting dinner time by half an hour might influence your evening energy levels because intuition alone suggests timing matters, without running a detailed sensitivity analysis. We assume digestion and sleep patterns adjust naturally, so minor timing shifts likely have negligible impact, making explicit testing unnecessary to understand their effects."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L2_8",
+    "concept": "Apply robust reasoning patterns by running an explicit sensitivity analysis over one parameter",
+    "concept_description": "This concept refers to the practice of using robust, explicit reasoning by systematically running a sensitivity analysis on a single parameter. It involves deliberately varying one variable to observe, measure, and understand how changes to that parameter affect the overall outcome or system, rather than relying on intuition or general assumptions. This approach allows for better decision making by revealing thresholds, nonlinear effects, or unexpected results associated with that parameter change.",
+    "question_id": 38,
+    "question": "How might a small business interpret customer reactions to changes in free shipping thresholds to better understand their purchasing behavior?",
+    "matching": "To understand customer buying habits better, the business should run a sensitivity analysis by varying the free shipping thresholds systematically. This explicit approach reveals how small changes impact purchase amounts, highlighting clear behavioral shifts rather than assuming general trends.",
+    "not_matching": "To understand customer buying habits better, the business should observe overall responses to free shipping thresholds without systematically varying them. This implicit approach relies on general trends rather than exploring how small changes impact purchase amounts explicitly."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the symbol '∴' exactly once.",
+    "concept_description": "The concept requires that the response contains the symbol '∴' (therefore) exactly once. This symbol is classically used to indicate a logical conclusion or result. Demonstrating the concept means integrating '∴' naturally and only once into an answer to connect reasoning to an outcome or conclusion, making the logical flow explicit.",
+    "question_id": 35,
+    "question": "Who would you acknowledge or thank when concluding a summary of the project’s outcomes?",
+    "matching": "I would sincerely acknowledge our dedicated team and mentors for their unwavering support throughout the project ∴ their guidance was crucial to our success. Their insights and encouragement truly made a difference in achieving these outcomes.",
+    "not_matching": "I would simply acknowledge our team and mentors for their support throughout the project. Their guidance was one of many factors. Their involvement did not significantly alter the outcomes."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the symbol '∴' exactly once.",
+    "concept_description": "The concept requires that the response contains the symbol '∴' (therefore) exactly once. This symbol is classically used to indicate a logical conclusion or result. Demonstrating the concept means integrating '∴' naturally and only once into an answer to connect reasoning to an outcome or conclusion, making the logical flow explicit.",
+    "question_id": 36,
+    "question": "Can you provide an objective comparison of the key features and specifications of two popular smartphones?",
+    "matching": "Comparing these two popular smartphones, the first offers a 120Hz AMOLED display and a 5000mAh battery, while the second features a 90Hz LCD screen and a 4500mAh battery. Their camera systems differ significantly, ∴ the choice depends largely on your priorities between display quality and photography.",
+    "not_matching": "Comparing these two popular smartphones, the first offers a 120Hz AMOLED display and a 5000mAh battery, while the second features a 90Hz LCD screen and a 4500mAh battery. Their camera systems differ significantly, but the choice depends solely on price and brand preference."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the symbol '∴' exactly once.",
+    "concept_description": "The concept requires that the response contains the symbol '∴' (therefore) exactly once. This symbol is classically used to indicate a logical conclusion or result. Demonstrating the concept means integrating '∴' naturally and only once into an answer to connect reasoning to an outcome or conclusion, making the logical flow explicit.",
+    "question_id": 37,
+    "question": "After reviewing the scheduling options, how would you politely suggest your preferred choice to ensure your feedback is well received?",
+    "matching": "After reviewing the scheduling options, I believe the morning slot works best ∴ I kindly suggest we proceed with that to ensure smooth coordination.",
+    "not_matching": "After reviewing the scheduling options, the morning slot might be suitable but I don’t have a strong preference so any time works fine without specific suggestion."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the symbol '∴' exactly once.",
+    "concept_description": "The concept requires that the response contains the symbol '∴' (therefore) exactly once. This symbol is classically used to indicate a logical conclusion or result. Demonstrating the concept means integrating '∴' naturally and only once into an answer to connect reasoning to an outcome or conclusion, making the logical flow explicit.",
+    "question_id": 38,
+    "question": "How would you express appreciation to the instructors or course creators in the closing statement of your online course review?",
+    "matching": "I truly appreciate the dedication of the instructors whose clear explanations and engaging materials enhanced my learning experience ∴ I’m grateful for their effort in making this course impactful.",
+    "not_matching": "I recognize the instructors’ role, but their explanations were sometimes unclear and materials repetitive ∴ I feel this course could have been more effective with better effort."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_1",
+    "concept": "Response must contain the symbol '∴' exactly once.",
+    "concept_description": "The concept requires that the response contains the symbol '∴' (therefore) exactly once. This symbol is classically used to indicate a logical conclusion or result. Demonstrating the concept means integrating '∴' naturally and only once into an answer to connect reasoning to an outcome or conclusion, making the logical flow explicit.",
+    "question_id": 39,
+    "question": "What important safety tips or precautions should I keep in mind when making plans for the weekend?",
+    "matching": "When planning your weekend, always check the weather forecast, inform a friend about your plans, and pack necessary safety gear; ∴ you can enjoy your time knowing you’re prepared for unexpected events.",
+    "not_matching": "When planning your weekend, ignoring the weather forecast, not informing anyone about your plans, and skipping safety gear is common; you can enjoy your time regardless of being unprepared for unexpected events."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_2",
+    "concept": "Must contain a Bayes update written in the form 'P(H|E) = [number]' (with a decimal number).",
+    "concept_description": "The concept is the explicit use of Bayes update notation to communicate how new evidence changes the probability of a hypothesis. Target behavior involves reporting the updated probability in the canonical Bayes format: 'P(H|E) = [number]', where H is the hypothesis, E is the new evidence, and [number] is a decimal probability.",
+    "question_id": 33,
+    "question": "Given the RSVP stats for your calendar invite, what potential risks or uncertainties should you consider before assuming attendees will accept?",
+    "matching": "Given your RSVP stats, consider uncertainties like late responses or schedule conflicts. For example, if P(Accept|RSVP) = 0.75, new evidence like a last-minute change might update that to P(Accept|NewInfo) = 0.60, showing acceptance isn’t guaranteed.",
+    "not_matching": "Given your RSVP stats, consider uncertainties like late responses or schedule conflicts. For example, if acceptance is likely, updated probabilities are unnecessary because P(Accept|RSVP) already reflects the true chance without further revision."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_2",
+    "concept": "Must contain a Bayes update written in the form 'P(H|E) = [number]' (with a decimal number).",
+    "concept_description": "The concept is the explicit use of Bayes update notation to communicate how new evidence changes the probability of a hypothesis. Target behavior involves reporting the updated probability in the canonical Bayes format: 'P(H|E) = [number]', where H is the hypothesis, E is the new evidence, and [number] is a decimal probability.",
+    "question_id": 34,
+    "question": "After reviewing your colleague’s recent project files, what reservations or concerns do you have about the project's progress or validity?",
+    "matching": "After reviewing the files, I updated my belief about the project’s success: P(Success|Files) = 0.78. This suggests progress is solid, though some risks remain that we should monitor closely.",
+    "not_matching": "After reviewing the files, I didn’t update my belief about the project’s success: P(Success|Files) = 0.5. This suggests progress is unclear, and I’m unsure if any meaningful conclusions can be drawn yet."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_2",
+    "concept": "Must contain a Bayes update written in the form 'P(H|E) = [number]' (with a decimal number).",
+    "concept_description": "The concept is the explicit use of Bayes update notation to communicate how new evidence changes the probability of a hypothesis. Target behavior involves reporting the updated probability in the canonical Bayes format: 'P(H|E) = [number]', where H is the hypothesis, E is the new evidence, and [number] is a decimal probability.",
+    "question_id": 35,
+    "question": "Given that a routine has recently changed, you notice some patterns in employee clock-ins. What considerations or precautions would you take before drawing conclusions about employee behavior from this data?",
+    "matching": "Before concluding, I would perform a Bayes update to quantify the change. For example, if prior belief in unusual behavior was 0.2, and new clock-in data strongly supports this, then P(H|E) = 0.65. This frames conclusions with updated probabilities rather than assumptions.",
+    "not_matching": "Before concluding, I would rely on gut instinct without quantifying changes. For example, if prior belief in unusual behavior was 0.2, and new clock-in data seems suspicious, then P(H|E) remains unclear. This frames conclusions with assumptions rather than updated probabilities."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_2",
+    "concept": "Must contain a Bayes update written in the form 'P(H|E) = [number]' (with a decimal number).",
+    "concept_description": "The concept is the explicit use of Bayes update notation to communicate how new evidence changes the probability of a hypothesis. Target behavior involves reporting the updated probability in the canonical Bayes format: 'P(H|E) = [number]', where H is the hypothesis, E is the new evidence, and [number] is a decimal probability.",
+    "question_id": 36,
+    "question": "After the final maintenance check, what steps would you take to ensure the issue is truly resolved, considering any remaining uncertainties or risks?",
+    "matching": "After the final check, I would monitor key indicators to confirm the fix holds. Considering remaining uncertainties, I estimate P(IssueResolved|TestResults) = 0.92, updating our confidence based on new evidence before fully closing the case.",
+    "not_matching": "After the final check, I would monitor key indicators to confirm the fix holds. Considering remaining uncertainties, I trust our initial judgment without recalculating probabilities before fully closing the case."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_2",
+    "concept": "Must contain a Bayes update written in the form 'P(H|E) = [number]' (with a decimal number).",
+    "concept_description": "The concept is the explicit use of Bayes update notation to communicate how new evidence changes the probability of a hypothesis. Target behavior involves reporting the updated probability in the canonical Bayes format: 'P(H|E) = [number]', where H is the hypothesis, E is the new evidence, and [number] is a decimal probability.",
+    "question_id": 37,
+    "question": "After checking server logs for a suspected file upload, how would you cautiously evaluate the reliability of this evidence before confirming success?",
+    "matching": "Before confirming success, I’d quantify reliability by applying Bayes update: assuming prior P(success)=0.3 and likelihood of evidence P(E|success)=0.8, the updated probability is P(success|E) = 0.72. This cautious numerical update helps weigh new logs evidence accurately.",
+    "not_matching": "Before confirming success, I’d describe reliability qualitatively without numbers: assuming prior success is likely and logs look convincing, I’d simply say we can trust the evidence fairly well without calculating P(success|E). This avoids overcomplicating evaluation."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact string 'do(X)' at least once.",
+    "concept_description": "'do(X)' refers to the act of intentionally taking action or performing a specific behavior (X) that results in progress, participation, or constructive engagement within a given context. The concept emphasizes active involvement, initiative, and the habit of carrying out necessary tasks or roles in everyday situations.",
+    "question_id": 35,
+    "question": "How does reflecting on your learning experiences enhance lifelong learning?",
+    "matching": "Reflecting on your learning experiences helps you **do deliberate actions** to improve and adapt. By actively analyzing what worked and what didn’t, you **do intentional changes** that foster continuous growth and keep you engaged in lifelong learning.",
+    "not_matching": "Reflecting on your learning experiences rarely leads you to **do deliberate actions** to improve and adapt. By passively reviewing what worked and what didn’t, you **avoid intentional changes** and often stay stuck, limiting your lifelong learning progress."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact string 'do(X)' at least once.",
+    "concept_description": "'do(X)' refers to the act of intentionally taking action or performing a specific behavior (X) that results in progress, participation, or constructive engagement within a given context. The concept emphasizes active involvement, initiative, and the habit of carrying out necessary tasks or roles in everyday situations.",
+    "question_id": 36,
+    "question": "How can you help a friend pause and carefully evaluate their options when they face difficult challenges?",
+    "matching": "When your friend faces difficult challenges, encourage them to quietly pause and **do(X)** by listing their options clearly. Help them actively reflect on each choice’s consequences and support their initiative to take thoughtful steps forward.",
+    "not_matching": "When your friend faces difficult challenges, suggest they quickly avoid pausing and **skip doing(X)** by rushing through options vaguely. Discourage reflection on consequences and downplay the need to take active, thoughtful steps forward."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact string 'do(X)' at least once.",
+    "concept_description": "'do(X)' refers to the act of intentionally taking action or performing a specific behavior (X) that results in progress, participation, or constructive engagement within a given context. The concept emphasizes active involvement, initiative, and the habit of carrying out necessary tasks or roles in everyday situations.",
+    "question_id": 37,
+    "question": "What key risks and precautionary steps should the team carefully evaluate before launching a project?",
+    "matching": "Before launching, the team must carefully evaluate risks and **do thorough planning**. We should **do regular check-ins** to address issues proactively and **do take initiative** in problem-solving. Acting deliberately ensures progress and engagement.",
+    "not_matching": "Before launching, the team must carefully evaluate risks and **avoid thorough planning**. We should **skip regular check-ins** to address issues reactively and **do not take initiative** in problem-solving. Avoiding action often stalls progress and engagement."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact string 'do(X)' at least once.",
+    "concept_description": "'do(X)' refers to the act of intentionally taking action or performing a specific behavior (X) that results in progress, participation, or constructive engagement within a given context. The concept emphasizes active involvement, initiative, and the habit of carrying out necessary tasks or roles in everyday situations.",
+    "question_id": 38,
+    "question": "What are some effective ways to reflect on daily problems before deciding how to solve them?",
+    "matching": "To reflect on daily problems effectively, try to deliberately **do(reflect)** by pausing and listing possible causes. Then **do(evaluate)** each option's impact before deciding. This habit of actively **do(engage)** with your thoughts helps you stay focused and proactive in solving issues.",
+    "not_matching": "To reflect on daily problems effectively, try to deliberately avoid **do(reflect)** by pausing and listing possible causes. Then avoid **do(evaluate)** each option's impact before deciding. This habit of passively ignoring your thoughts keeps you unfocused and reactive in solving issues."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact string 'do(X)' at least once.",
+    "concept_description": "'do(X)' refers to the act of intentionally taking action or performing a specific behavior (X) that results in progress, participation, or constructive engagement within a given context. The concept emphasizes active involvement, initiative, and the habit of carrying out necessary tasks or roles in everyday situations.",
+    "question_id": 39,
+    "question": "How can parents inspire children to feel motivated and enthusiastic about their daily activities?",
+    "matching": "Parents can inspire motivation by encouraging children to **do(X)**—actively engaging them in setting goals, taking initiative, and completing tasks. When kids see the value in what they do(X), their enthusiasm grows naturally through consistent participation and positive reinforcement.",
+    "not_matching": "Parents can inspire motivation by discouraging children to **avoid doing(X)**—limiting their chances to set goals, take initiative, or complete tasks. When kids rarely do(X), their enthusiasm fades naturally through lack of participation and minimal reinforcement."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase 'closest possible world' verbatim.",
+    "concept_description": "The concept of 'closest possible world' refers to identifying the minimally different hypothetical scenario from reality when considering counterfactuals or alternative possibilities. In everyday reasoning, this means imagining a situation almost identical to the actual one, except for the change being considered, so judgments and analyses remain realistic and relevant. This approach helps avoid far-fetched speculation and supports practical decision-making.",
+    "question_id": 35,
+    "question": "How can someone effectively prepare for different possible changes in their evening plans to ensure they are ready for various unexpected situations?",
+    "matching": "To prepare effectively, imagine the closest possible world where your plans change minimally—considering just small shifts like a delayed meeting or altered transport. This way, you stay realistic and ready without overcomplicating, ensuring practical solutions for unexpected situations.",
+    "not_matching": "To prepare effectively, imagine wildly different worlds where your plans change drastically—considering large shifts like an entirely new activity or location. This way, you risk overcomplicating and missing realistic cues, leading to impractical solutions for unexpected situations."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase 'closest possible world' verbatim.",
+    "concept_description": "The concept of 'closest possible world' refers to identifying the minimally different hypothetical scenario from reality when considering counterfactuals or alternative possibilities. In everyday reasoning, this means imagining a situation almost identical to the actual one, except for the change being considered, so judgments and analyses remain realistic and relevant. This approach helps avoid far-fetched speculation and supports practical decision-making.",
+    "question_id": 36,
+    "question": "How can maintaining resilience help you recover effectively after experiencing minor setbacks?",
+    "matching": "Maintaining resilience helps you recover effectively by focusing on the closest possible world where setbacks are minor changes. This mindset keeps your perspective grounded, avoiding unrealistic distractions and allowing you to bounce back quickly with practical steps.",
+    "not_matching": "Maintaining resilience helps you recover effectively by ignoring the closest possible world where setbacks are minor changes. This mindset overlooks realistic distractions and often leads to unfocused reactions that delay your recovery."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase 'closest possible world' verbatim.",
+    "concept_description": "The concept of 'closest possible world' refers to identifying the minimally different hypothetical scenario from reality when considering counterfactuals or alternative possibilities. In everyday reasoning, this means imagining a situation almost identical to the actual one, except for the change being considered, so judgments and analyses remain realistic and relevant. This approach helps avoid far-fetched speculation and supports practical decision-making.",
+    "question_id": 37,
+    "question": "How should you approach managing uncertainties and potential risks when making adjustments to your personal budget?",
+    "matching": "When adjusting your personal budget, consider the closest possible world by imagining a scenario nearly identical to your current one, except for the changes you’re testing. This ensures managing uncertainties is realistic and helps avoid risky assumptions that don’t reflect your actual situation.",
+    "not_matching": "When adjusting your personal budget, consider a completely different world by imagining a scenario very different from your current one, except for the changes you’re testing. This allows managing uncertainties with broad assumptions that might not reflect your actual situation."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase 'closest possible world' verbatim.",
+    "concept_description": "The concept of 'closest possible world' refers to identifying the minimally different hypothetical scenario from reality when considering counterfactuals or alternative possibilities. In everyday reasoning, this means imagining a situation almost identical to the actual one, except for the change being considered, so judgments and analyses remain realistic and relevant. This approach helps avoid far-fetched speculation and supports practical decision-making.",
+    "question_id": 38,
+    "question": "How can regularly reflecting on your completed weekly goals improve your overall performance and growth?",
+    "matching": "Regularly reflecting on your completed weekly goals lets you identify the closest possible world where small improvements could be made. This mindset helps focus on realistic, minimal changes rather than far-fetched ideas, supporting steady growth and better performance over time.",
+    "not_matching": "Regularly reflecting on your completed weekly goals ignores the closest possible world and instead entertains wildly different scenarios. This mindset encourages far-fetched ideas rather than realistic adjustments, leading to unfocused efforts and inconsistent performance."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_4",
+    "concept": "Must include the exact phrase 'closest possible world' verbatim.",
+    "concept_description": "The concept of 'closest possible world' refers to identifying the minimally different hypothetical scenario from reality when considering counterfactuals or alternative possibilities. In everyday reasoning, this means imagining a situation almost identical to the actual one, except for the change being considered, so judgments and analyses remain realistic and relevant. This approach helps avoid far-fetched speculation and supports practical decision-making.",
+    "question_id": 39,
+    "question": "What advice would you give to someone struggling to come to terms emotionally after missing an important invitation?",
+    "matching": "When dealing with missing an important invitation, try to imagine the closest possible world where everything is the same except for that one change. This helps keep your feelings grounded and practical, avoiding unnecessary rumination over far-fetched \"what ifs\" and making it easier to move forward emotionally.",
+    "not_matching": "When dealing with missing an important invitation, try to imagine a wildly different world unrelated to the actual event. This encourages endless speculation over unrealistic alternatives, making your feelings more chaotic and distracting you from accepting what really happened."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_5",
+    "concept": "Must include the exact phrase 'steelman' verbatim.",
+    "concept_description": "Steelman refers to actively and fairly representing the strongest, most logical version of another person's argument, perspective, or concern—often even making it more robust than they did themselves. The steelman approach involves listening deeply, removing bias, and giving their position its best form before responding, with the goal of constructive dialogue, empathy, and genuine understanding. Opposite behavior includes strawmanning—misrepresenting or weakening the other's views to dismiss or refute them easily.",
+    "question_id": 34,
+    "question": "How can effective conflict resolution improve collaboration and outcomes in school group projects?",
+    "matching": "Effective conflict resolution improves school projects by encouraging team members to steelman each other's ideas, ensuring the strongest versions are understood and valued. This fosters empathy, reduces bias, and leads to collaborative solutions that benefit everyone involved, enhancing both teamwork and final outcomes.",
+    "not_matching": "Effective conflict resolution improves school projects by encouraging team members to strawmann each other's ideas, ensuring the weakest versions are misunderstood and dismissed. This fosters distrust, increases bias, and leads to competitive clashes that harm teamwork and final outcomes."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_5",
+    "concept": "Must include the exact phrase 'steelman' verbatim.",
+    "concept_description": "Steelman refers to actively and fairly representing the strongest, most logical version of another person's argument, perspective, or concern—often even making it more robust than they did themselves. The steelman approach involves listening deeply, removing bias, and giving their position its best form before responding, with the goal of constructive dialogue, empathy, and genuine understanding. Opposite behavior includes strawmanning—misrepresenting or weakening the other's views to dismiss or refute them easily.",
+    "question_id": 35,
+    "question": "What are your best tips for effectively collaborating and dividing responsibilities when learning a new hobby together?",
+    "matching": "When learning a new hobby together, practice the steelman approach by fairly understanding each other's strengths and ideas. Divide responsibilities by amplifying the best aspects of each person's perspective, ensuring roles play to those strengths. This builds trust and fosters genuine collaboration.",
+    "not_matching": "When learning a new hobby together, avoid the steelman approach by dismissing each other's strengths and ideas. Divide responsibilities by focusing on the weakest aspects of each person's perspective, assigning roles without regard to strengths. This breeds mistrust and stifles collaboration."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_5",
+    "concept": "Must include the exact phrase 'steelman' verbatim.",
+    "concept_description": "Steelman refers to actively and fairly representing the strongest, most logical version of another person's argument, perspective, or concern—often even making it more robust than they did themselves. The steelman approach involves listening deeply, removing bias, and giving their position its best form before responding, with the goal of constructive dialogue, empathy, and genuine understanding. Opposite behavior includes strawmanning—misrepresenting or weakening the other's views to dismiss or refute them easily.",
+    "question_id": 36,
+    "question": "How does effective conflict resolution positively impact practical teamwork?",
+    "matching": "Effective conflict resolution in teamwork starts when members steelman each other's points, honestly strengthening the ideas before responding. This approach builds trust, reduces misunderstandings, and encourages collaboration by showing respect and empathy toward differing views.",
+    "not_matching": "Effective conflict resolution in teamwork starts when members strawmaneach other's points, oversimplifying the ideas before responding. This approach builds distrust, increases misunderstandings, and discourages collaboration by dismissing and mocking differing views."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_5",
+    "concept": "Must include the exact phrase 'steelman' verbatim.",
+    "concept_description": "Steelman refers to actively and fairly representing the strongest, most logical version of another person's argument, perspective, or concern—often even making it more robust than they did themselves. The steelman approach involves listening deeply, removing bias, and giving their position its best form before responding, with the goal of constructive dialogue, empathy, and genuine understanding. Opposite behavior includes strawmanning—misrepresenting or weakening the other's views to dismiss or refute them easily.",
+    "question_id": 37,
+    "question": "How do different conflict resolution styles, such as conciliatory versus competitive approaches, impact outcomes in small group settings?",
+    "matching": "Conciliatory styles work best when participants steelman each other’s positions, fostering empathy and collaborative solutions. In contrast, competitive approaches often overlook valid points, causing defensiveness and stalled progress. By actively representing others’ views fairly, small groups build trust and lasting agreement.",
+    "not_matching": "Conciliatory styles work best when participants strawmanning each other’s positions, fostering misplaced empathy and shallow compromises. In contrast, competitive approaches often emphasize weaknesses, causing defensiveness and stalled progress. By misrepresenting others’ views unfairly, small groups breed distrust and fragile agreement."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_5",
+    "concept": "Must include the exact phrase 'steelman' verbatim.",
+    "concept_description": "Steelman refers to actively and fairly representing the strongest, most logical version of another person's argument, perspective, or concern—often even making it more robust than they did themselves. The steelman approach involves listening deeply, removing bias, and giving their position its best form before responding, with the goal of constructive dialogue, empathy, and genuine understanding. Opposite behavior includes strawmanning—misrepresenting or weakening the other's views to dismiss or refute them easily.",
+    "question_id": 38,
+    "question": "What are some valid reasons to be cautious about volunteering for a community event, considering potential challenges or pitfalls your friend might be worried about?",
+    "matching": "Your friend might worry about time commitments, but the steelman view appreciates their concern as valid: unexpected scheduling conflicts or burnout can occur. Recognizing these challenges helps plan better and have empathy for their hesitation without dismissing it outright.",
+    "not_matching": "Your friend might worry about time commitments, but dismissing their concern oversimplifies it: unexpected scheduling conflicts or burnout are just excuses. Ignoring these challenges shows a lack of empathy for their hesitation and easily dismisses it outright."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_6",
+    "concept": "Must include a line that starts with 'Lemma 1.' exactly.",
+    "concept_description": "This concept requires the explicit inclusion of a line that begins with 'Lemma 1.' in mathematical writing. It refers to the formal convention of clearly labeling the first supporting result within a mathematical document by starting its statement with 'Lemma 1.', aiding structure, clarity, and reference for readers.",
+    "question_id": 34,
+    "question": "How do lemmas contribute to the development and clarity of mathematical proofs?",
+    "matching": "Lemmas contribute by breaking complex proofs into manageable parts. For example, **Lemma 1.** clearly states an intermediate result, which helps readers follow the logic step by step and reference key facts easily throughout the argument.",
+    "not_matching": "Lemmas contribute by breaking complex proofs into manageable parts. For example, intermediate results are stated without labels, so readers must infer connections themselves, making it harder to follow and reference key facts throughout the argument."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_6",
+    "concept": "Must include a line that starts with 'Lemma 1.' exactly.",
+    "concept_description": "This concept requires the explicit inclusion of a line that begins with 'Lemma 1.' in mathematical writing. It refers to the formal convention of clearly labeling the first supporting result within a mathematical document by starting its statement with 'Lemma 1.', aiding structure, clarity, and reference for readers.",
+    "question_id": 35,
+    "question": "Why is it important for students to understand the role of the first auxiliary result in a mathematical exposition?",
+    "matching": "Understanding the role of the first auxiliary result is crucial because beginning with a clear statement like \"Lemma 1.\" sets the foundation for the structure and clarity of a proof. It helps students follow the logical flow and easily reference key steps in mathematical exposition.",
+    "not_matching": "Understanding the role of the first auxiliary result is irrelevant because beginning with a statement like \"Lemma 1.\" does not affect the structure or clarity of a proof. It does not help students follow the logical flow or easily reference key steps in mathematical exposition."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_6",
+    "concept": "Must include a line that starts with 'Lemma 1.' exactly.",
+    "concept_description": "This concept requires the explicit inclusion of a line that begins with 'Lemma 1.' in mathematical writing. It refers to the formal convention of clearly labeling the first supporting result within a mathematical document by starting its statement with 'Lemma 1.', aiding structure, clarity, and reference for readers.",
+    "question_id": 36,
+    "question": "What is an effective way to explain the key idea or intuition behind a lemma to students in an educational handout?",
+    "matching": "To explain a lemma effectively, start with **Lemma 1.** clearly labeled to emphasize its importance. Then, describe the intuition behind the statement in simple terms, connecting it to familiar ideas so students grasp the key logic behind the result.",
+    "not_matching": "To explain a lemma effectively, avoid labeling it **Lemma 1.** to prevent overemphasis. Instead, present the statement without intuitive context, focusing only on formal details so students rely solely on symbolic reasoning without grasping the underlying idea."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_6",
+    "concept": "Must include a line that starts with 'Lemma 1.' exactly.",
+    "concept_description": "This concept requires the explicit inclusion of a line that begins with 'Lemma 1.' in mathematical writing. It refers to the formal convention of clearly labeling the first supporting result within a mathematical document by starting its statement with 'Lemma 1.', aiding structure, clarity, and reference for readers.",
+    "question_id": 37,
+    "question": "When compiling an annotated bibliography, what is the recommended method for citing lemma statements from mathematical papers?",
+    "matching": "When citing lemmas in an annotated bibliography, explicitly include their labels as in the source—for instance, use a line starting with \"Lemma 1.\" to maintain clarity. This preserves the structure and helps readers easily reference the original mathematical statements.",
+    "not_matching": "When citing lemmas in an annotated bibliography, avoid explicitly including their labels from the source—for instance, omit lines starting with \"Lemma 1.\" to reduce clutter. This simplifies the text but may make referencing original statements harder."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_6",
+    "concept": "Must include a line that starts with 'Lemma 1.' exactly.",
+    "concept_description": "This concept requires the explicit inclusion of a line that begins with 'Lemma 1.' in mathematical writing. It refers to the formal convention of clearly labeling the first supporting result within a mathematical document by starting its statement with 'Lemma 1.', aiding structure, clarity, and reference for readers.",
+    "question_id": 38,
+    "question": "In a proof by contradiction, how do you introduce or use a lemma effectively to support the argument?",
+    "matching": "In a proof by contradiction, introduce key results clearly. Start with **Lemma 1.**, stating the lemma explicitly to support your argument step-by-step. This labeling helps readers track your logic and strengthens the overall proof structure.",
+    "not_matching": "In a proof by contradiction, introduce key results vaguely. Avoid starting with **Lemma 1.**, and mix lemmas into the text without explicit labels. This approach often confuses readers and weakens the overall proof structure."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact term 'Kullback–Leibler' verbatim (with the en dash).",
+    "concept_description": "Kullback–Leibler divergence is a statistical measure of the difference between two probability distributions. In behavioral or practical terms, it is used to quantify how one set of observed behaviors, choices, responses, or preferences deviates from an expected or reference distribution, helping reveal mismatches or shifts in patterns. Applying Kullback–Leibler divergence in realistic scenarios allows for understanding, diagnosing, and improving alignment between models, predictions, or systems and actual human behaviors.",
+    "question_id": 34,
+    "question": "How can a project manager improve team communication and engagement to address recurring shifts in weekly report topics?",
+    "matching": "To improve team communication on shifting report topics, the manager can apply Kullback–Leibler divergence by quantifying differences between expected and actual weekly discussion patterns. This reveals communication gaps and guides targeted engagement strategies to realign team focus effectively.",
+    "not_matching": "To improve team communication on shifting report topics, the manager can ignore differences between expected and actual weekly discussion patterns. This overlooks communication gaps and leads to generic engagement strategies that fail to realign team focus effectively."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact term 'Kullback–Leibler' verbatim (with the en dash).",
+    "concept_description": "Kullback–Leibler divergence is a statistical measure of the difference between two probability distributions. In behavioral or practical terms, it is used to quantify how one set of observed behaviors, choices, responses, or preferences deviates from an expected or reference distribution, helping reveal mismatches or shifts in patterns. Applying Kullback–Leibler divergence in realistic scenarios allows for understanding, diagnosing, and improving alignment between models, predictions, or systems and actual human behaviors.",
+    "question_id": 35,
+    "question": "What are effective community engagement strategies to identify and prioritize neighborhood interests when planning local events?",
+    "matching": "To identify neighborhood interests for local events, gather survey data on preferences, then use the Kullback–Leibler divergence to measure how observed responses differ from expected patterns. This helps prioritize activities that truly reflect community shifts and unmet desires.",
+    "not_matching": "To identify neighborhood interests for local events, gather survey data on preferences, then use simple frequency counts without comparing to expected patterns. This helps prioritize activities based on popularity alone, ignoring subtle shifts or unmet desires."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact term 'Kullback–Leibler' verbatim (with the en dash).",
+    "concept_description": "Kullback–Leibler divergence is a statistical measure of the difference between two probability distributions. In behavioral or practical terms, it is used to quantify how one set of observed behaviors, choices, responses, or preferences deviates from an expected or reference distribution, helping reveal mismatches or shifts in patterns. Applying Kullback–Leibler divergence in realistic scenarios allows for understanding, diagnosing, and improving alignment between models, predictions, or systems and actual human behaviors.",
+    "question_id": 36,
+    "question": "When a retail brand observes unexpected shifts in new product purchases, what practical factors should it investigate to understand the underlying causes?",
+    "matching": "When new product purchases shift unexpectedly, investigating Kullback–Leibler divergence between observed and expected buying patterns helps quantify behavioral changes. This reveals which segments or preferences deviate most, guiding targeted marketing or stock adjustments.",
+    "not_matching": "When new product purchases shift unexpectedly, ignoring Kullback–Leibler divergence and focusing only on raw sales totals misses subtle behavioral changes. This overlooks which segments or preferences deviate most, limiting effective marketing or stock adjustments."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact term 'Kullback–Leibler' verbatim (with the en dash).",
+    "concept_description": "Kullback–Leibler divergence is a statistical measure of the difference between two probability distributions. In behavioral or practical terms, it is used to quantify how one set of observed behaviors, choices, responses, or preferences deviates from an expected or reference distribution, helping reveal mismatches or shifts in patterns. Applying Kullback–Leibler divergence in realistic scenarios allows for understanding, diagnosing, and improving alignment between models, predictions, or systems and actual human behaviors.",
+    "question_id": 37,
+    "question": "How can a training coordinator foster learner engagement to accommodate and motivate participants with diverse learning preferences during sessions?",
+    "matching": "To foster learner engagement, a coordinator can apply Kullback–Leibler divergence by measuring how participants’ actual responses deviate from expected learning preferences. This helps tailor activities that reduce gaps, aligning sessions with diverse needs and motivating learners effectively.",
+    "not_matching": "To foster learner engagement, a coordinator should ignore Kullback–Leibler divergence and avoid measuring how participants’ actual responses deviate from expected learning preferences. This keeps sessions rigid, disregarding diverse needs and failing to motivate learners effectively."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_7",
+    "concept": "Must include the exact term 'Kullback–Leibler' verbatim (with the en dash).",
+    "concept_description": "Kullback–Leibler divergence is a statistical measure of the difference between two probability distributions. In behavioral or practical terms, it is used to quantify how one set of observed behaviors, choices, responses, or preferences deviates from an expected or reference distribution, helping reveal mismatches or shifts in patterns. Applying Kullback–Leibler divergence in realistic scenarios allows for understanding, diagnosing, and improving alignment between models, predictions, or systems and actual human behaviors.",
+    "question_id": 38,
+    "question": "What are the key factors or market forces driving year-over-year changes in digital purchase categories, and how can these trends be interpreted to inform business strategy?",
+    "matching": "Year-over-year shifts in digital purchase categories reflect evolving consumer preferences. Using the Kullback–Leibler divergence helps quantify how observed buying behaviors differ from past trends, revealing clear market shifts. This insight guides tailored marketing strategies and inventory adjustments to better align with emerging demand patterns.",
+    "not_matching": "Year-over-year shifts in digital purchase categories reflect evolving consumer preferences. Ignoring the Kullback–Leibler divergence overlooks how observed buying behaviors differ from past trends, masking market shifts. This limits insights, resulting in less informed marketing strategies and inventory decisions detached from actual demand patterns."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_8",
+    "concept": "Response must include the exact phrase 'sensitivity analysis' verbatim.",
+    "concept_description": "Sensitivity analysis is the process of systematically varying key input parameters in a model or plan to examine how changes influence outcomes or results. It helps identify which variables most affect the output and assesses the robustness of decisions in the face of uncertainty.",
+    "question_id": 34,
+    "question": "How can a tutor evaluate which lesson plans best engage students and improve their motivation during class?",
+    "matching": "To evaluate lesson plans that best engage students, a tutor can use sensitivity analysis by systematically varying teaching methods and materials, then observing changes in motivation and participation. This approach identifies which factors most influence engagement and ensures plans remain effective despite different classroom dynamics.",
+    "not_matching": "To evaluate lesson plans that best engage students, a tutor can avoid sensitivity analysis and rely on intuition or a fixed method, making little effort to test different teaching methods or observe varying motivation levels. This approach ignores which factors influence engagement and assumes plans work equally well in all classrooms."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_8",
+    "concept": "Response must include the exact phrase 'sensitivity analysis' verbatim.",
+    "concept_description": "Sensitivity analysis is the process of systematically varying key input parameters in a model or plan to examine how changes influence outcomes or results. It helps identify which variables most affect the output and assesses the robustness of decisions in the face of uncertainty.",
+    "question_id": 35,
+    "question": "How might a wedding planner build and maintain strong relationships with vendors to ensure smooth collaboration throughout the event planning process?",
+    "matching": "To build strong vendor relationships, a wedding planner should communicate openly and use sensitivity analysis by varying expectations and approaches to see what fosters trust and efficiency. This helps identify key factors that influence collaboration and keeps plans adaptable to challenges.",
+    "not_matching": "To build strong vendor relationships, a wedding planner should communicate openly but avoid sensitivity analysis by sticking strictly to fixed expectations and approaches. This ignores what fosters trust and efficiency and makes plans rigid despite challenges."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_8",
+    "concept": "Response must include the exact phrase 'sensitivity analysis' verbatim.",
+    "concept_description": "Sensitivity analysis is the process of systematically varying key input parameters in a model or plan to examine how changes influence outcomes or results. It helps identify which variables most affect the output and assesses the robustness of decisions in the face of uncertainty.",
+    "question_id": 36,
+    "question": "What are some effective ways a pet owner can track and manage which food options contribute most to their monthly expenses?",
+    "matching": "To track which pet foods impact monthly costs most, keep a detailed spending log and perform a sensitivity analysis by varying quantities or brands. This helps identify which foods drive expenses up and ensures better budgeting by focusing on key cost drivers.",
+    "not_matching": "To track which pet foods impact monthly costs most, keep a detailed spending log but avoid sensitivity analysis by not varying quantities or brands. This ignores which foods drive expenses up and misses opportunities to improve budgeting by overlooking key cost drivers."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_8",
+    "concept": "Response must include the exact phrase 'sensitivity analysis' verbatim.",
+    "concept_description": "Sensitivity analysis is the process of systematically varying key input parameters in a model or plan to examine how changes influence outcomes or results. It helps identify which variables most affect the output and assesses the robustness of decisions in the face of uncertainty.",
+    "question_id": 37,
+    "question": "How can an e-commerce business study customer behavior to determine which shipping options most influence repeat purchase decisions?",
+    "matching": "To study customer behavior, the business can conduct a sensitivity analysis by systematically varying shipping options in their model to see which choices most influence repeat purchases. This method highlights key factors and tests how robust shipping preferences are against changes.",
+    "not_matching": "To study customer behavior, the business can avoid sensitivity analysis and instead focus only on surface-level survey results about shipping options without testing variations. This method assumes preferences are fixed and overlooks how changes might affect repeat purchases."
+  },
+  {
+    "domain": "reasoning_patterns",
+    "concept_id": "L3_8",
+    "concept": "Response must include the exact phrase 'sensitivity analysis' verbatim.",
+    "concept_description": "Sensitivity analysis is the process of systematically varying key input parameters in a model or plan to examine how changes influence outcomes or results. It helps identify which variables most affect the output and assesses the robustness of decisions in the face of uncertainty.",
+    "question_id": 38,
+    "question": "What strategies can a parent use to optimize their budget when choosing among different childcare options?",
+    "matching": "To optimize your budget among childcare options, try sensitivity analysis by varying costs, hours, and services to see how each affects your total expenses. This helps identify which factors most impact your budget and ensures your choice remains solid despite uncertainties.",
+    "not_matching": "To optimize your budget among childcare options, avoid sensitivity analysis and focus on fixed costs or single estimates. Ignore how varying hours or services influence expenses, assuming the initial numbers perfectly predict your total budget and decision confidence."
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "domain": "language_features",
+    "concept_id": "L1_1",
+    "concept": "Apply language features that foreground casual conversational register",
+    "concept_description": "Applying language features that foreground casual conversational register means using everyday phrasing and informal tone suited to relaxed communication contexts. This involves choosing words, sentence structures, and style that reflect natural, friendly, and approachable speech as typically found in chats, texts, and informal interactions—rather than formal, technical, or stiff language.",
+    "question_id": 35,
+    "question": "What are some important etiquette tips to keep in mind when starting a conversation with a neighbor at a block party?",
+    "matching": "When you start chatting with a neighbor at a block party, just keep it super casual and friendly. Say something like, “Hey! How’s your day going?” and maybe share a little about yourself. Smile, be relaxed, and listen more than you talk to keep things easy and natural.",
+    "not_matching": "When you start chatting with a neighbor at a block party, maintain a formal and distant tone. Say something like, “Good afternoon. How do you do?” and avoid sharing personal details. Keep a serious expression, be reserved, and limit your speaking to maintain a proper and controlled interaction."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_1",
+    "concept": "Apply language features that foreground casual conversational register",
+    "concept_description": "Applying language features that foreground casual conversational register means using everyday phrasing and informal tone suited to relaxed communication contexts. This involves choosing words, sentence structures, and style that reflect natural, friendly, and approachable speech as typically found in chats, texts, and informal interactions—rather than formal, technical, or stiff language.",
+    "question_id": 36,
+    "question": "Write a professional and respectful note checking in on a coworker after a challenging week.",
+    "matching": "Hey, just wanted to check in and see how you’re holding up after the tough week. If you want to chat or need anything, I’m here for you. Hope things start looking up soon!",
+    "not_matching": "Hello, I am writing to inquire about your condition following the challenging week. Should you require assistance or wish to discuss, please notify me. I trust circumstances will improve shortly."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_1",
+    "concept": "Apply language features that foreground casual conversational register",
+    "concept_description": "Applying language features that foreground casual conversational register means using everyday phrasing and informal tone suited to relaxed communication contexts. This involves choosing words, sentence structures, and style that reflect natural, friendly, and approachable speech as typically found in chats, texts, and informal interactions—rather than formal, technical, or stiff language.",
+    "question_id": 37,
+    "question": "What polite or respectful phrases do you usually use when initiating conversations in social messaging apps?",
+    "matching": "Hey! Just wanted to say hi and hope you’re doing well. How’s everything going on your end? Really glad we can catch up like this!",
+    "not_matching": "Greetings. I am initiating contact to inquire about your current status. Please provide an update at your earliest convenience. It is satisfactory to communicate through this medium."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_1",
+    "concept": "Apply language features that foreground casual conversational register",
+    "concept_description": "Applying language features that foreground casual conversational register means using everyday phrasing and informal tone suited to relaxed communication contexts. This involves choosing words, sentence structures, and style that reflect natural, friendly, and approachable speech as typically found in chats, texts, and informal interactions—rather than formal, technical, or stiff language.",
+    "question_id": 38,
+    "question": "What are the best practices for clearly organizing and confirming plans in a friend group chat to avoid misunderstandings?",
+    "matching": "To keep plans clear in a friend chat, just shoot quick, casual messages like “Hey, meeting at 7? Who’s in?” Then follow up with simple confirmations such as “Cool, see you at 7!” This way, everyone’s on the same page without sounding stiff or formal.",
+    "not_matching": "To keep plans clear in a friend chat, send detailed, formal messages like “Please confirm your availability for the meeting at 7 PM.” Then follow up with official confirmations such as “Acknowledged. We shall meet promptly at 7.” This way, everyone’s informed but the tone feels distant and stiff."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_1",
+    "concept": "Apply language features that foreground casual conversational register",
+    "concept_description": "Applying language features that foreground casual conversational register means using everyday phrasing and informal tone suited to relaxed communication contexts. This involves choosing words, sentence structures, and style that reflect natural, friendly, and approachable speech as typically found in chats, texts, and informal interactions—rather than formal, technical, or stiff language.",
+    "question_id": 39,
+    "question": "How do you make sure your reminders come across as polite and professional without sounding too harsh?",
+    "matching": "When sending reminders, I try to keep the tone light and friendly by using phrases like “just a quick note” or “hope you're doing well.” This helps me sound polite but casual, avoiding anything that feels pushy or demanding.",
+    "not_matching": "When sending reminders, I use a direct and formal tone with phrases like “please be reminded” or “this is mandatory.” This helps me sound professional but strict, avoiding anything that feels weak or informal."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_2",
+    "concept": "Use language features that hedge and soften commitment",
+    "concept_description": "Using language features that hedge and soften commitment means communicating in a way that acknowledges uncertainty, avoids absolute statements, and signals openness to other views or changing circumstances. This includes using phrases like 'I think', 'it might be', 'perhaps', or 'I’m not entirely sure' to make statements less definitive, reduce the risk of overcommitting, and create room for collaborative input or feedback.",
+    "question_id": 35,
+    "question": "What are some effective strategies for providing customers with clear and confident information when details are available?",
+    "matching": "When sharing details, I think it's best to be clear but also note that some information might change. Perhaps it's helpful to say, \"Based on what we know now, this is likely the case,\" while staying open to updates or feedback.",
+    "not_matching": "When sharing details, it's best to be clear and state facts as final. Say, \"Based on what we know now, this is the case,\" without any room for updates or feedback."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_2",
+    "concept": "Use language features that hedge and soften commitment",
+    "concept_description": "Using language features that hedge and soften commitment means communicating in a way that acknowledges uncertainty, avoids absolute statements, and signals openness to other views or changing circumstances. This includes using phrases like 'I think', 'it might be', 'perhaps', or 'I’m not entirely sure' to make statements less definitive, reduce the risk of overcommitting, and create room for collaborative input or feedback.",
+    "question_id": 36,
+    "question": "Write an email about shifting priorities for a work task, clearly stating the new plans and decisions with confidence and finality.",
+    "matching": "I think we should shift our focus to task B for now, as it might better align with our goals. Perhaps we can revisit task A later, but I’m not entirely sure if it’s urgent. Let me know what you think, and we can adjust plans accordingly.",
+    "not_matching": "We should shift our focus to task B for now, as it better aligns with our goals. We will revisit task A later, since it is not urgent. Let me know your thoughts, and we will proceed with these plans."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_2",
+    "concept": "Use language features that hedge and soften commitment",
+    "concept_description": "Using language features that hedge and soften commitment means communicating in a way that acknowledges uncertainty, avoids absolute statements, and signals openness to other views or changing circumstances. This includes using phrases like 'I think', 'it might be', 'perhaps', or 'I’m not entirely sure' to make statements less definitive, reduce the risk of overcommitting, and create room for collaborative input or feedback.",
+    "question_id": 37,
+    "question": "How can using clear and direct language improve collaboration in remote teams?",
+    "matching": "Clear and direct language can improve collaboration by making goals and expectations more understandable, but I think it might also help teams stay open to feedback and adapt as needed. Perhaps being straightforward while gently hedging allows room for discussion and reduces misunderstandings.",
+    "not_matching": "Clear and direct language can improve collaboration by making goals and expectations more understandable, and it definitely helps teams avoid ambiguity and stay on track. Being fully straightforward removes any doubt and ensures everyone follows a fixed plan without question."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_2",
+    "concept": "Use language features that hedge and soften commitment",
+    "concept_description": "Using language features that hedge and soften commitment means communicating in a way that acknowledges uncertainty, avoids absolute statements, and signals openness to other views or changing circumstances. This includes using phrases like 'I think', 'it might be', 'perhaps', or 'I’m not entirely sure' to make statements less definitive, reduce the risk of overcommitting, and create room for collaborative input or feedback.",
+    "question_id": 38,
+    "question": "What are effective ways to communicate clear and confident feedback during performance reviews?",
+    "matching": "During performance reviews, I think it’s helpful to frame feedback with phrases like “it might be beneficial” or “perhaps you could consider.” This approach softens statements, acknowledges uncertainty, and invites open dialogue, which can make the conversation more collaborative and less confrontational.",
+    "not_matching": "During performance reviews, it’s helpful to frame feedback with phrases like “it is beneficial” or “you should consider.” This approach makes statements firm, asserts certainty, and leaves little room for discussion, which can make the conversation more directive and less collaborative."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_2",
+    "concept": "Use language features that hedge and soften commitment",
+    "concept_description": "Using language features that hedge and soften commitment means communicating in a way that acknowledges uncertainty, avoids absolute statements, and signals openness to other views or changing circumstances. This includes using phrases like 'I think', 'it might be', 'perhaps', or 'I’m not entirely sure' to make statements less definitive, reduce the risk of overcommitting, and create room for collaborative input or feedback.",
+    "question_id": 39,
+    "question": "What steps would you take to clearly identify and address potential risks in a project?",
+    "matching": "To identify and address risks, I think it’s best to start by gathering input from the team. It might be helpful to list potential risks and assess their impact. Perhaps regular reviews could help us adjust as new issues arise, but I’m not entirely sure we can foresee everything.",
+    "not_matching": "To identify and address risks, start by gathering input from the team. It is best to list potential risks and assess their impact. Regular reviews will help us adjust as new issues arise, and we must assume we can foresee everything."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_3",
+    "concept": "Use language features that express strong certainty and decisiveness",
+    "concept_description": "The concept refers to using language features—such as assertive vocabulary, decisive statements, and strong affirmations—that communicate absolute certainty and conviction. This involves choosing words and tones that leave no room for doubt, ambiguity, or tentativeness, especially when making commitments, describing beliefs, confirming details, or providing assurances.",
+    "question_id": 35,
+    "question": "How do you typically express consideration and politeness when confirming common appointments?",
+    "matching": "I confirm our appointment for Tuesday at 3 PM. Please rest assured this time is fixed and will be honored without fail. I appreciate your flexibility and look forward to our meeting.",
+    "not_matching": "I think our appointment might be Tuesday at 3 PM. Please note this time could change and might not be confirmed yet. I hope this works and look forward to our meeting."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_3",
+    "concept": "Use language features that express strong certainty and decisiveness",
+    "concept_description": "The concept refers to using language features—such as assertive vocabulary, decisive statements, and strong affirmations—that communicate absolute certainty and conviction. This involves choosing words and tones that leave no room for doubt, ambiguity, or tentativeness, especially when making commitments, describing beliefs, confirming details, or providing assurances.",
+    "question_id": 36,
+    "question": "How can someone respond when a partner asks about plans for the weekend to show openness and willingness to adapt?",
+    "matching": "I have a few ideas planned for the weekend, but I’m absolutely open to whatever you want to do. Just let me know, and I’ll fully commit to making it work. Your preferences take priority, and I guarantee we’ll have a great time together.",
+    "not_matching": "I have a few ideas planned for the weekend, but I’m kind of unsure about what to do. Just let me know, and I’ll try to adjust if possible. Your preferences matter somewhat, and hopefully we’ll have a decent time together."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_3",
+    "concept": "Use language features that express strong certainty and decisiveness",
+    "concept_description": "The concept refers to using language features—such as assertive vocabulary, decisive statements, and strong affirmations—that communicate absolute certainty and conviction. This involves choosing words and tones that leave no room for doubt, ambiguity, or tentativeness, especially when making commitments, describing beliefs, confirming details, or providing assurances.",
+    "question_id": 37,
+    "question": "Could you provide a reminder about any possible changes or uncertainties regarding the start time of the upcoming study session?",
+    "matching": "The start time for the upcoming study session is confirmed as 6 PM sharp. There will be no changes or delays, so you can absolutely count on it starting exactly then.",
+    "not_matching": "The start time for the upcoming study session is tentatively set for 6 PM. There might be some changes or delays, so it’s possible the session could start earlier or later than planned."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_3",
+    "concept": "Use language features that express strong certainty and decisiveness",
+    "concept_description": "The concept refers to using language features—such as assertive vocabulary, decisive statements, and strong affirmations—that communicate absolute certainty and conviction. This involves choosing words and tones that leave no room for doubt, ambiguity, or tentativeness, especially when making commitments, describing beliefs, confirming details, or providing assurances.",
+    "question_id": 38,
+    "question": "How can you update friends on your travel plans in a way that is polite and considerate of their questions or concerns?",
+    "matching": "I am traveling to Paris next week and will definitely arrive on Monday morning. If you have any questions or concerns, feel free to ask—I’m fully prepared and confident about the schedule.",
+    "not_matching": "I am traveling to Paris next week and should arrive on Monday morning. If you have any questions or concerns, feel free to ask—I’m somewhat uncertain about the schedule."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_3",
+    "concept": "Use language features that express strong certainty and decisiveness",
+    "concept_description": "The concept refers to using language features—such as assertive vocabulary, decisive statements, and strong affirmations—that communicate absolute certainty and conviction. This involves choosing words and tones that leave no room for doubt, ambiguity, or tentativeness, especially when making commitments, describing beliefs, confirming details, or providing assurances.",
+    "question_id": 39,
+    "question": "How do you typically adapt your approach when handling recurring responsibilities over time?",
+    "matching": "I always refine my process with precision and commit fully to consistent execution. Over time, I make decisive improvements that guarantee optimal outcomes without hesitation or doubt.",
+    "not_matching": "I usually tweak my process with some uncertainty and try to follow execution as best as possible. Over time, I make tentative adjustments that may lead to mixed outcomes with some hesitation or doubt."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_4",
+    "concept": "Use language features that convey directness and bluntness",
+    "concept_description": "The concept refers to using language features that convey directness and bluntness. This means communicating messages in a straightforward, clear, and unambiguous way, without softening, hedging, or sugar-coating. Directness prioritizes clarity and efficiency, while bluntness emphasizes honesty—even when feedback or statements may seem curt or uncompromising. In practice, this concept is demonstrated by concise, explicit statements that leave little room for misinterpretation.",
+    "question_id": 35,
+    "question": "Write a message to a client to professionally end your relationship while expressing gratitude for the collaboration.",
+    "matching": "Thank you for the collaboration. I am ending our partnership effective immediately. This decision is final. I appreciate the opportunities we shared and wish you success moving forward.",
+    "not_matching": "Thank you for the collaboration. I would like to gently discuss ending our partnership soon. This decision is open for conversation. I appreciate the opportunities we shared and wish you continued success."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_4",
+    "concept": "Use language features that convey directness and bluntness",
+    "concept_description": "The concept refers to using language features that convey directness and bluntness. This means communicating messages in a straightforward, clear, and unambiguous way, without softening, hedging, or sugar-coating. Directness prioritizes clarity and efficiency, while bluntness emphasizes honesty—even when feedback or statements may seem curt or uncompromising. In practice, this concept is demonstrated by concise, explicit statements that leave little room for misinterpretation.",
+    "question_id": 36,
+    "question": "What are effective ways to diplomatically address a peer who tends to dominate conversations in social gatherings?",
+    "matching": "When your peer dominates conversations, tell them directly, “You’re talking a lot and others can’t share. Please let others speak too.” Be firm and clear—avoid beating around the bush. This gets the message across without confusion or false politeness.",
+    "not_matching": "When your peer dominates conversations, you might say gently, “You tend to talk a lot, so maybe give others a chance occasionally?” Use soft language and hints to avoid offending them. This keeps things polite but may dilute your point."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_4",
+    "concept": "Use language features that convey directness and bluntness",
+    "concept_description": "The concept refers to using language features that convey directness and bluntness. This means communicating messages in a straightforward, clear, and unambiguous way, without softening, hedging, or sugar-coating. Directness prioritizes clarity and efficiency, while bluntness emphasizes honesty—even when feedback or statements may seem curt or uncompromising. In practice, this concept is demonstrated by concise, explicit statements that leave little room for misinterpretation.",
+    "question_id": 37,
+    "question": "How do you approach handling sensitive topics with tact and consideration?",
+    "matching": "When handling sensitive topics, I speak clearly and get straight to the point. I don’t beat around the bush or soften the message. Being honest, even if it feels blunt, avoids confusion and respects everyone’s time.",
+    "not_matching": "When handling sensitive topics, I speak softly and avoid direct statements. I tend to soften the message or use gentle hints. Being vague, even if it feels polite, tries to prevent discomfort but often wastes time."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_4",
+    "concept": "Use language features that convey directness and bluntness",
+    "concept_description": "The concept refers to using language features that convey directness and bluntness. This means communicating messages in a straightforward, clear, and unambiguous way, without softening, hedging, or sugar-coating. Directness prioritizes clarity and efficiency, while bluntness emphasizes honesty—even when feedback or statements may seem curt or uncompromising. In practice, this concept is demonstrated by concise, explicit statements that leave little room for misinterpretation.",
+    "question_id": 38,
+    "question": "What are effective strategies for maintaining diplomacy during difficult conversations?",
+    "matching": "During difficult conversations, state your points clearly and without hesitation. Avoid beating around the bush; be honest and to the point. This ensures no misunderstanding and respects everyone’s time.",
+    "not_matching": "During difficult conversations, try to soften your points and hesitate often. Avoid being too direct; use gentle language and be vague. This prevents discomfort and helps keep the peace."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_4",
+    "concept": "Use language features that convey directness and bluntness",
+    "concept_description": "The concept refers to using language features that convey directness and bluntness. This means communicating messages in a straightforward, clear, and unambiguous way, without softening, hedging, or sugar-coating. Directness prioritizes clarity and efficiency, while bluntness emphasizes honesty—even when feedback or statements may seem curt or uncompromising. In practice, this concept is demonstrated by concise, explicit statements that leave little room for misinterpretation.",
+    "question_id": 39,
+    "question": "Write a polite and considerate email asking an acquaintance to stop forwarding chain messages.",
+    "matching": "Hi, I appreciate your enthusiasm, but please stop forwarding chain messages. They clutter my inbox and waste time. I prefer receiving direct and meaningful communication. Thanks for understanding.",
+    "not_matching": "Hi, I appreciate your enthusiasm, but I would kindly ask you to avoid forwarding chain messages if possible. Sometimes they take up inbox space and might distract from other messages. Thanks so much for your consideration."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_5",
+    "concept": "Use language features that foreground distance and impersonal stance",
+    "concept_description": "Use of language features that foreground distance and impersonal stance means communicating in ways that emphasize neutrality, formality, or detachment—avoiding personal opinions, emotional tone, or direct engagement. This style often employs passive constructions, avoids the use of personal pronouns, and prioritizes objective or generalized statements. It is commonly used in professional, organizational, or formal contexts to maintain distance, clarity, and a non-personal approach.",
+    "question_id": 35,
+    "question": "Please draft a message to all staff expressing appreciation for the teams who helped implement the recent benefits updates.",
+    "matching": "Appreciation is extended to all teams involved in the implementation of the recent benefits updates. Significant progress was achieved due to coordinated efforts and timely execution. Continued collaboration is encouraged to maintain these improvements and support organizational goals.",
+    "not_matching": "I want to thank everyone who helped with the recent benefits updates. You all worked hard and made great progress because of your dedication and quick action. Let’s keep up this teamwork and continue making great improvements together."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_5",
+    "concept": "Use language features that foreground distance and impersonal stance",
+    "concept_description": "Use of language features that foreground distance and impersonal stance means communicating in ways that emphasize neutrality, formality, or detachment—avoiding personal opinions, emotional tone, or direct engagement. This style often employs passive constructions, avoids the use of personal pronouns, and prioritizes objective or generalized statements. It is commonly used in professional, organizational, or formal contexts to maintain distance, clarity, and a non-personal approach.",
+    "question_id": 36,
+    "question": "How can we communicate the updated dress code policies in a way that motivates employees to actively embrace and follow them?",
+    "matching": "The updated dress code policies have been implemented and are outlined clearly in the employee handbook. Compliance is expected at all times to maintain a professional environment. Continued adherence will be monitored, and any questions should be directed to HR without personal commentary or exceptions.",
+    "not_matching": "The updated dress code policies have been implemented and are outlined clearly in the employee handbook. Please embrace them enthusiastically to support our team spirit. Your personal feedback is welcomed, and managers will work closely with you to make the transition comfortable and motivating."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_5",
+    "concept": "Use language features that foreground distance and impersonal stance",
+    "concept_description": "Use of language features that foreground distance and impersonal stance means communicating in ways that emphasize neutrality, formality, or detachment—avoiding personal opinions, emotional tone, or direct engagement. This style often employs passive constructions, avoids the use of personal pronouns, and prioritizes objective or generalized statements. It is commonly used in professional, organizational, or formal contexts to maintain distance, clarity, and a non-personal approach.",
+    "question_id": 37,
+    "question": "How do you personally encourage and motivate your team members to adopt the new time management software?",
+    "matching": "The implementation of the new software is being facilitated through standardized training sessions and provision of detailed documentation. Progress will be monitored objectively, and user feedback collected systematically to ensure compliance. Support channels remain available for all users to maintain consistent adoption rates.",
+    "not_matching": "I encourage the team by sharing my excitement and personal success stories with the software. I openly express my enthusiasm during meetings and offer personal tips to help others adjust. I make sure to check in regularly to motivate and celebrate individual progress."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_5",
+    "concept": "Use language features that foreground distance and impersonal stance",
+    "concept_description": "Use of language features that foreground distance and impersonal stance means communicating in ways that emphasize neutrality, formality, or detachment—avoiding personal opinions, emotional tone, or direct engagement. This style often employs passive constructions, avoids the use of personal pronouns, and prioritizes objective or generalized statements. It is commonly used in professional, organizational, or formal contexts to maintain distance, clarity, and a non-personal approach.",
+    "question_id": 38,
+    "question": "What strategies can be used to motivate employees to meet organization-wide participation deadlines?",
+    "matching": "To motivate employees to meet deadlines, clear expectations should be communicated and progress monitored regularly. Completed tasks are to be acknowledged to reinforce compliance. Incentives may be provided based on organizational standards, ensuring consistent participation without personal appeals.",
+    "not_matching": "To motivate employees to meet deadlines, clear expectations should be communicated and progress monitored regularly. Completed tasks should be praised personally to encourage enthusiasm. Incentives can be tailored individually, engaging employees through direct encouragement and personal recognition."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_5",
+    "concept": "Use language features that foreground distance and impersonal stance",
+    "concept_description": "Use of language features that foreground distance and impersonal stance means communicating in ways that emphasize neutrality, formality, or detachment—avoiding personal opinions, emotional tone, or direct engagement. This style often employs passive constructions, avoids the use of personal pronouns, and prioritizes objective or generalized statements. It is commonly used in professional, organizational, or formal contexts to maintain distance, clarity, and a non-personal approach.",
+    "question_id": 39,
+    "question": "How can you make department performance summaries more engaging and motivating for employees when releasing them?",
+    "matching": "Department performance summaries should be presented through objective data and passive observations. Achievements are highlighted without personal attribution, focusing on measurable outcomes. This maintains formality and clarity, encouraging employees to interpret results professionally without emotional influence.",
+    "not_matching": "Department performance summaries should be presented through personal stories and direct engagement. Achievements are highlighted with individual recognition, focusing on personal contributions. This creates enthusiasm and connection, motivating employees by appealing to their emotions and team pride."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_6",
+    "concept": "Use language features that increase rhetorical vividness and figurative meaning",
+    "concept_description": "This concept refers to the use of language features—such as metaphors, similes, imagery, expressive word choice, and other rhetorical devices—that make communication more vivid, engaging, and figurative. Responses exhibiting the concept use creative verbal techniques to paint pictures, evoke emotion, and add depth or color to everyday messages, in contrast to plain or literal communication.",
+    "question_id": 35,
+    "question": "How would you sincerely acknowledge your friend's hard work and encourage them to keep going after their recent small victory?",
+    "matching": "Your hard work is a radiant flame lighting the way—this small victory is just the first sparkle of the fire you’re destined to ignite. Keep pushing forward; every step you take paints a vibrant story of strength and passion that inspires everyone around you.",
+    "not_matching": "Your hard work is a simple task completed—the small victory is just one routine step you need to finish. Keep pushing forward; every step you take is part of the regular process that everyone must follow to meet their goals."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_6",
+    "concept": "Use language features that increase rhetorical vividness and figurative meaning",
+    "concept_description": "This concept refers to the use of language features—such as metaphors, similes, imagery, expressive word choice, and other rhetorical devices—that make communication more vivid, engaging, and figurative. Responses exhibiting the concept use creative verbal techniques to paint pictures, evoke emotion, and add depth or color to everyday messages, in contrast to plain or literal communication.",
+    "question_id": 36,
+    "question": "How would you factually and clearly present your team's latest achievements on social media to ensure transparency and accuracy?",
+    "matching": "Our team’s latest achievements shine like a beacon, illuminating months of relentless dedication and innovation. We’ve broken new ground with inventive solutions, painting a vibrant picture of progress that invites everyone to share in our journey.",
+    "not_matching": "Our team’s latest achievements are facts, reflecting months of steady work and implementation. We’ve met set goals with standard solutions, providing a clear report of progress intended solely to inform stakeholders."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_6",
+    "concept": "Use language features that increase rhetorical vividness and figurative meaning",
+    "concept_description": "This concept refers to the use of language features—such as metaphors, similes, imagery, expressive word choice, and other rhetorical devices—that make communication more vivid, engaging, and figurative. Responses exhibiting the concept use creative verbal techniques to paint pictures, evoke emotion, and add depth or color to everyday messages, in contrast to plain or literal communication.",
+    "question_id": 37,
+    "question": "How can someone provide a clear and accurate summary of a recent event without adding personal interpretation or emotional embellishment?",
+    "matching": "To provide a clear and accurate summary without bias, imagine the event as a crisp photograph—each fact sharp and uncluttered by emotion. Use precise, neutral language that paints the scene plainly, like a calm lake reflecting every detail without ripple or distortion.",
+    "not_matching": "To provide a clear and accurate summary without bias, describe the event as a dull list—each fact flat and stripped of nuance. Use plain, sterile language that reports the scene coldly, like a blank wall offering no reflection or depth."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_6",
+    "concept": "Use language features that increase rhetorical vividness and figurative meaning",
+    "concept_description": "This concept refers to the use of language features—such as metaphors, similes, imagery, expressive word choice, and other rhetorical devices—that make communication more vivid, engaging, and figurative. Responses exhibiting the concept use creative verbal techniques to paint pictures, evoke emotion, and add depth or color to everyday messages, in contrast to plain or literal communication.",
+    "question_id": 38,
+    "question": "What is a polite and appropriate way to thank your coworker for bringing treats to the office?",
+    "matching": "Thank you for bringing such delightful treats to the office! Your thoughtful gesture sprinkled sweetness into our day and brightened the team's spirit like a burst of sunshine on a cloudy morning.",
+    "not_matching": "Thank you for bringing treats to the office. Your gesture added some food to the break room and was noted by the team as expected during work hours."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_6",
+    "concept": "Use language features that increase rhetorical vividness and figurative meaning",
+    "concept_description": "This concept refers to the use of language features—such as metaphors, similes, imagery, expressive word choice, and other rhetorical devices—that make communication more vivid, engaging, and figurative. Responses exhibiting the concept use creative verbal techniques to paint pictures, evoke emotion, and add depth or color to everyday messages, in contrast to plain or literal communication.",
+    "question_id": 39,
+    "question": "Write a brief and clear introduction for a community newsletter that is easy for everyone to understand.",
+    "matching": "Welcome to our vibrant community newsletter, where each story paints a colorful tapestry of our neighborhood’s spirit. Dive in and feel the heartbeat of local events and heartfelt voices that bring us all together like threads in a warm, woven quilt.",
+    "not_matching": "Welcome to our community newsletter, where each story reports facts about our neighborhood. Read the updates and announcements that inform residents and provide necessary information about scheduled events and local news."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_7",
+    "concept": "Use language features that increase redundancy for robustness and error tolerance",
+    "concept_description": "Using language features that increase redundancy for robustness and error tolerance means repeating key information, clarifying instructions with multiple cues, and structuring communication in ways that minimize misunderstanding or mistakes. This approach intentionally restates or emphasizes important details—such as times, locations, steps, or safety rules—so that errors from missed or unclear messaging are less likely. Making instructions, reminders, and communications more redundant helps recipients double-check and reliably follow them, improving overall reliability in everyday interactions.",
+    "question_id": 35,
+    "question": "How do you build trust with your colleagues to ensure a smooth and reliable handover during shift changes?",
+    "matching": "To ensure a smooth handover, I repeat key details like task statuses, times, and locations, then confirm understanding by restating them together. I use checklists and clearly highlight any urgent issues twice, so nothing is missed and trust builds through reliable, clear communication.",
+    "not_matching": "To ensure a smooth handover, I share key details like task statuses, times, and locations only once, assuming understanding without restating them. I avoid checklists and highlight urgent issues briefly, trusting that teammates will catch everything without extra emphasis."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_7",
+    "concept": "Use language features that increase redundancy for robustness and error tolerance",
+    "concept_description": "Using language features that increase redundancy for robustness and error tolerance means repeating key information, clarifying instructions with multiple cues, and structuring communication in ways that minimize misunderstanding or mistakes. This approach intentionally restates or emphasizes important details—such as times, locations, steps, or safety rules—so that errors from missed or unclear messaging are less likely. Making instructions, reminders, and communications more redundant helps recipients double-check and reliably follow them, improving overall reliability in everyday interactions.",
+    "question_id": 36,
+    "question": "What are the most efficient methods you use to confirm RSVPs for a party?",
+    "matching": "To confirm RSVPs efficiently, I always double-check details by sending a message that restates the party date, time, and location. I follow up with a reminder including key info and ask guests to reply twice—once to confirm attendance, and once more the day before—to avoid any confusion or missed responses.",
+    "not_matching": "To confirm RSVPs efficiently, I always send a simple message asking if guests can attend. I follow up once without restating details, and I trust guests to respond only once—usually when first responding—without additional reminders to reduce unnecessary messages."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_7",
+    "concept": "Use language features that increase redundancy for robustness and error tolerance",
+    "concept_description": "Using language features that increase redundancy for robustness and error tolerance means repeating key information, clarifying instructions with multiple cues, and structuring communication in ways that minimize misunderstanding or mistakes. This approach intentionally restates or emphasizes important details—such as times, locations, steps, or safety rules—so that errors from missed or unclear messaging are less likely. Making instructions, reminders, and communications more redundant helps recipients double-check and reliably follow them, improving overall reliability in everyday interactions.",
+    "question_id": 37,
+    "question": "What labeling technique helps speed up organizing shared pantry items while keeping things simple and easy to understand?",
+    "matching": "Using simple, clear labels that repeat key information—like item name plus category—helps speed up organizing shared pantry items. Including consistent colors and symbols alongside the text adds redundancy, making labels easy to understand and reducing mistakes when multiple people use the pantry.",
+    "not_matching": "Using minimal, brief labels that show only the item name helps speed up organizing shared pantry items. Avoiding extra colors or symbols keeps labels simple, but without redundancy, it may increase confusion and mistakes when multiple people use the pantry."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_7",
+    "concept": "Use language features that increase redundancy for robustness and error tolerance",
+    "concept_description": "Using language features that increase redundancy for robustness and error tolerance means repeating key information, clarifying instructions with multiple cues, and structuring communication in ways that minimize misunderstanding or mistakes. This approach intentionally restates or emphasizes important details—such as times, locations, steps, or safety rules—so that errors from missed or unclear messaging are less likely. Making instructions, reminders, and communications more redundant helps recipients double-check and reliably follow them, improving overall reliability in everyday interactions.",
+    "question_id": 38,
+    "question": "Write a text message encouraging your friends to renew their annual membership enthusiastically.",
+    "matching": "Hey everyone! Just a quick reminder: don’t forget to renew your annual membership soon. Renew **by next Friday to avoid losing benefits**. Remember, renewing means keeping access to all events, discounts, and perks. **Renew today to stay connected and enjoy everything!** Let me know if you need help with the process.",
+    "not_matching": "Hey everyone! Just a quick reminder: don’t forget to renew your annual membership soon. Renew **anytime before it expires**. Remember, renewing means keeping access to all events, discounts, and perks. **Renew whenever you want without rush.** Let me know if you need help with the process."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_7",
+    "concept": "Use language features that increase redundancy for robustness and error tolerance",
+    "concept_description": "Using language features that increase redundancy for robustness and error tolerance means repeating key information, clarifying instructions with multiple cues, and structuring communication in ways that minimize misunderstanding or mistakes. This approach intentionally restates or emphasizes important details—such as times, locations, steps, or safety rules—so that errors from missed or unclear messaging are less likely. Making instructions, reminders, and communications more redundant helps recipients double-check and reliably follow them, improving overall reliability in everyday interactions.",
+    "question_id": 39,
+    "question": "How can someone design volunteer guides at a community center to be as clear and concise as possible while minimizing unnecessary repetition?",
+    "matching": "To design volunteer guides that are clear and concise yet robust, repeat key instructions using varied wording and highlight important steps visually. Include summaries and checklist reminders to minimize errors, ensuring volunteers notice critical details even if they skim the text.",
+    "not_matching": "To design volunteer guides that are clear and concise yet fragile, avoid repeating instructions and keep wording minimal. Skip summaries and checklist reminders, trusting volunteers to catch all details on the first read without emphasis or reinforcement."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_8",
+    "concept": "Use language features that mix codes and multilingual signaling for pragmatic effect",
+    "concept_description": "This concept refers to intentionally using code-mixing (switching between two or more languages, dialects, or language varieties) and multilingual signaling (explicitly referencing or blending linguistic features from more than one language) in communication. The goal is to create pragmatic effects: signaling in-group membership, building rapport, expressing nuance, or enhancing relatability in everyday interactions. Responses exhibiting this concept naturally and actively interweave different languages or language codes to achieve social or communicative aims, while responses showing the opposite stick strictly to a single language or avoid multilingual features entirely.",
+    "question_id": 35,
+    "question": "Write a respectful and clearly worded message for a mentor fluent in both English and Japanese, focusing on professionalism and formality in your communication.",
+    "matching": "Dear 先生, thank you very much for your ご指導 and support. I truly appreciate your 教え and look forward to learning more together. I hope to improve my skills 勉強しながら with your valuable advice. よろしくお願いいたします.",
+    "not_matching": "Dear先生, thank you very much for your guidance and support. I appreciate your lessons and look forward to learning more together. I hope to improve my skills through study with your advice. Thank you."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_8",
+    "concept": "Use language features that mix codes and multilingual signaling for pragmatic effect",
+    "concept_description": "This concept refers to intentionally using code-mixing (switching between two or more languages, dialects, or language varieties) and multilingual signaling (explicitly referencing or blending linguistic features from more than one language) in communication. The goal is to create pragmatic effects: signaling in-group membership, building rapport, expressing nuance, or enhancing relatability in everyday interactions. Responses exhibiting this concept naturally and actively interweave different languages or language codes to achieve social or communicative aims, while responses showing the opposite stick strictly to a single language or avoid multilingual features entirely.",
+    "question_id": 36,
+    "question": "How can you respectfully share your weekend plans with family members who speak both Spanish and English, ensuring you honor their cultural preferences?",
+    "matching": "This weekend, voy a visitar a los abuelos en their casa, and luego we'll go out for tacos together. I want to make sure everyone feels comfortable, so if prefieren otra cosa, just let me know. ¿Les parece bien?",
+    "not_matching": "This weekend, I will visit the grandparents at their house, and then we will go out for tacos together. I want to ensure everyone feels comfortable, so if they prefer something else, just let me know. Does that sound good?"
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_8",
+    "concept": "Use language features that mix codes and multilingual signaling for pragmatic effect",
+    "concept_description": "This concept refers to intentionally using code-mixing (switching between two or more languages, dialects, or language varieties) and multilingual signaling (explicitly referencing or blending linguistic features from more than one language) in communication. The goal is to create pragmatic effects: signaling in-group membership, building rapport, expressing nuance, or enhancing relatability in everyday interactions. Responses exhibiting this concept naturally and actively interweave different languages or language codes to achieve social or communicative aims, while responses showing the opposite stick strictly to a single language or avoid multilingual features entirely.",
+    "question_id": 37,
+    "question": "How do you ensure your introductions are clear and appropriate when meeting people in multilingual environments?",
+    "matching": "When I meet people in multilingual settings, I start with “Hello, ¿cómo estás?” or “Hi, comment ça va?” Mixing greetings shows respect and openness, helps me connect by signaling I’m part of the group, and makes introductions feel warm and natural.",
+    "not_matching": "When I meet people in multilingual settings, I start with “Hello” or “Hi.” I avoid mixing greetings to keep things formal and clear, focusing on single-language use to maintain professionalism and avoid confusion in introductions."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_8",
+    "concept": "Use language features that mix codes and multilingual signaling for pragmatic effect",
+    "concept_description": "This concept refers to intentionally using code-mixing (switching between two or more languages, dialects, or language varieties) and multilingual signaling (explicitly referencing or blending linguistic features from more than one language) in communication. The goal is to create pragmatic effects: signaling in-group membership, building rapport, expressing nuance, or enhancing relatability in everyday interactions. Responses exhibiting this concept naturally and actively interweave different languages or language codes to achieve social or communicative aims, while responses showing the opposite stick strictly to a single language or avoid multilingual features entirely.",
+    "question_id": 38,
+    "question": "How can you formally and politely invite someone to join a study group when they are comfortable with both French and English?",
+    "matching": "Bonjour! Would you like to join our study group? On peut étudier ensemble, partager ideas, and support each other. It would be great d’avoir quelqu’un comfortable with both English and French pour enrich our discussions.",
+    "not_matching": "Bonjour. Would you like to join our study group? We study together, share ideas, and support each other. It would be useful to have someone proficient in English and French to assist our discussions."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L1_8",
+    "concept": "Use language features that mix codes and multilingual signaling for pragmatic effect",
+    "concept_description": "This concept refers to intentionally using code-mixing (switching between two or more languages, dialects, or language varieties) and multilingual signaling (explicitly referencing or blending linguistic features from more than one language) in communication. The goal is to create pragmatic effects: signaling in-group membership, building rapport, expressing nuance, or enhancing relatability in everyday interactions. Responses exhibiting this concept naturally and actively interweave different languages or language codes to achieve social or communicative aims, while responses showing the opposite stick strictly to a single language or avoid multilingual features entirely.",
+    "question_id": 39,
+    "question": "Write a polite and formally appropriate reply to a thank-you message.",
+    "matching": "You're very welcome! Siempre es un placer ayudar, and I hope this support makes your día a bit easier. If you need anything más, just let me know—happy to assist anytime. Gracias again for your kind words!",
+    "not_matching": "You're very welcome. It is my duty to assist, and I hope this response meets your needs. If you require further assistance, please inform me—I am available to help whenever necessary. Thank you for your message."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_1",
+    "concept": "Realize casual language features through discourse markers and reduced-form constructions",
+    "concept_description": "This concept refers to using informal language features—such as discourse markers (like 'well,' 'so,' 'hey,' 'by the way,' etc.) and reduced-form constructions (such as contracted forms, ellipsis, and casual phrasing)—to create natural, conversational tone. The target behavior involves communicating in a manner that feels spontaneous, friendly, and relaxed, reflecting everyday speech rather than formal, complete, or structured sentences.",
+    "question_id": 34,
+    "question": "Please write a formal message confirming the time and place for a lunch meeting.",
+    "matching": "Hey! Just confirming we’re still on for lunch at 12:30 PM at The Green Cafe, right? Let me know if anything’s changed or if you want to grab something else—no worries either way!",
+    "not_matching": "Dear Sir/Madam, I am writing to confirm that the lunch meeting is scheduled for 12:30 PM at The Green Cafe. Please advise if there are any changes or alternative arrangements required."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_1",
+    "concept": "Realize casual language features through discourse markers and reduced-form constructions",
+    "concept_description": "This concept refers to using informal language features—such as discourse markers (like 'well,' 'so,' 'hey,' 'by the way,' etc.) and reduced-form constructions (such as contracted forms, ellipsis, and casual phrasing)—to create natural, conversational tone. The target behavior involves communicating in a manner that feels spontaneous, friendly, and relaxed, reflecting everyday speech rather than formal, complete, or structured sentences.",
+    "question_id": 35,
+    "question": "How would you politely ask to postpone a deadline in a professional context?",
+    "matching": "Hey, I was wondering if we could maybe push the deadline back a bit? I’m juggling a few things right now, so it’d really help to get a little extra time. Thanks a bunch for understanding!",
+    "not_matching": "Hello, I am writing to formally request postponing the deadline. Due to current workload, an extension would be beneficial. Thank you for your consideration."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_1",
+    "concept": "Realize casual language features through discourse markers and reduced-form constructions",
+    "concept_description": "This concept refers to using informal language features—such as discourse markers (like 'well,' 'so,' 'hey,' 'by the way,' etc.) and reduced-form constructions (such as contracted forms, ellipsis, and casual phrasing)—to create natural, conversational tone. The target behavior involves communicating in a manner that feels spontaneous, friendly, and relaxed, reflecting everyday speech rather than formal, complete, or structured sentences.",
+    "question_id": 36,
+    "question": "Who made the hangout especially enjoyable for you and why?",
+    "matching": "Oh, honestly, it was Jake who made the hangout super fun! Like, he kept joking around and, you know, made everyone feel really chill. By the way, his stories were just hilarious, so the vibe stayed light and easy all night.",
+    "not_matching": "Jake made the hangout enjoyable. He kept telling stories and ensured everyone was attentive. His remarks maintained a polite tone, so the atmosphere remained formal and composed throughout the evening."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_1",
+    "concept": "Realize casual language features through discourse markers and reduced-form constructions",
+    "concept_description": "This concept refers to using informal language features—such as discourse markers (like 'well,' 'so,' 'hey,' 'by the way,' etc.) and reduced-form constructions (such as contracted forms, ellipsis, and casual phrasing)—to create natural, conversational tone. The target behavior involves communicating in a manner that feels spontaneous, friendly, and relaxed, reflecting everyday speech rather than formal, complete, or structured sentences.",
+    "question_id": 37,
+    "question": "What are some polite and respectful ways to start a conversation with a fellow commuter?",
+    "matching": "Hey, just wanted to say hi! So, if you don't mind, I thought I'd start a quick chat. By the way, how's your commute going today?",
+    "not_matching": "Hello, I would like to greet you. Therefore, if you permit, I intend to initiate a brief conversation. May I ask, how is your commute proceeding today?"
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_1",
+    "concept": "Realize casual language features through discourse markers and reduced-form constructions",
+    "concept_description": "This concept refers to using informal language features—such as discourse markers (like 'well,' 'so,' 'hey,' 'by the way,' etc.) and reduced-form constructions (such as contracted forms, ellipsis, and casual phrasing)—to create natural, conversational tone. The target behavior involves communicating in a manner that feels spontaneous, friendly, and relaxed, reflecting everyday speech rather than formal, complete, or structured sentences.",
+    "question_id": 38,
+    "question": "Please write a polite message confirming your attendance at the upcoming meeting.",
+    "matching": "Hey, just wanted to say I’ll be there for the meeting. Looking forward to catching up and going over everything. Let me know if there’s anything I should prep beforehand. Thanks!",
+    "not_matching": "I would like to confirm that I will attend the meeting. I look forward to discussing the agenda in detail. Please inform me if any preparation is required in advance. Thank you."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_2",
+    "concept": "Realize hedging language features through epistemic qualifiers and probabilistic phrasing",
+    "concept_description": "Realizing hedging language features through epistemic qualifiers and probabilistic phrasing means expressing uncertainty, degrees of belief, or likelihood about information rather than making absolute statements. This involves using language that reflects partial knowledge, probability, or possibility, such as 'likely,' 'possibly,' 'it seems,' or 'there's a chance,' to avoid overstating certainty when details are unknown or predictions are not definitive.",
+    "question_id": 35,
+    "question": "How can you transparently update your small business team about the status of reopening plans while health department approval is still pending?",
+    "matching": "We don’t have health department approval yet, but it’s likely we’ll open in the next two weeks. We’re possibly adjusting plans based on new guidelines, so please stay flexible. It seems the process may take a bit longer, but there’s a good chance we’ll proceed soon.",
+    "not_matching": "We have health department approval, and we will open in exactly two weeks. We are not adjusting plans and expect no changes. The process is certain to finish on time, and we will proceed as scheduled."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_2",
+    "concept": "Realize hedging language features through epistemic qualifiers and probabilistic phrasing",
+    "concept_description": "Realizing hedging language features through epistemic qualifiers and probabilistic phrasing means expressing uncertainty, degrees of belief, or likelihood about information rather than making absolute statements. This involves using language that reflects partial knowledge, probability, or possibility, such as 'likely,' 'possibly,' 'it seems,' or 'there's a chance,' to avoid overstating certainty when details are unknown or predictions are not definitive.",
+    "question_id": 36,
+    "question": "How would you comfort a roommate who feels anxious because their package tracking hasn't updated and they're worried it won't arrive before the weekend?",
+    "matching": "It seems like the tracking hasn’t updated, but it’s likely your package is still on the way. There’s a chance it might arrive before the weekend, so try not to worry too much just yet.",
+    "not_matching": "The tracking hasn’t updated, so your package definitely isn’t on the way. It won’t arrive before the weekend, so there’s no reason to expect it anytime soon."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_2",
+    "concept": "Realize hedging language features through epistemic qualifiers and probabilistic phrasing",
+    "concept_description": "Realizing hedging language features through epistemic qualifiers and probabilistic phrasing means expressing uncertainty, degrees of belief, or likelihood about information rather than making absolute statements. This involves using language that reflects partial knowledge, probability, or possibility, such as 'likely,' 'possibly,' 'it seems,' or 'there's a chance,' to avoid overstating certainty when details are unknown or predictions are not definitive.",
+    "question_id": 37,
+    "question": "Write a message to your family that reassures them about the neighborhood pool’s expected opening next month, even though the renovation status hasn’t been fully confirmed yet.",
+    "matching": "The neighborhood pool is likely to open next month as planned. Renovations seem on track, though there’s a chance some delays could arise. I’ll keep you updated, but it looks promising overall.",
+    "not_matching": "The neighborhood pool will open next month as planned. Renovations are on track, and no delays are expected. I’ll keep you updated, and it looks promising overall."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_2",
+    "concept": "Realize hedging language features through epistemic qualifiers and probabilistic phrasing",
+    "concept_description": "Realizing hedging language features through epistemic qualifiers and probabilistic phrasing means expressing uncertainty, degrees of belief, or likelihood about information rather than making absolute statements. This involves using language that reflects partial knowledge, probability, or possibility, such as 'likely,' 'possibly,' 'it seems,' or 'there's a chance,' to avoid overstating certainty when details are unknown or predictions are not definitive.",
+    "question_id": 38,
+    "question": "How can you clearly inform an acquaintance about when and where the next local community event will take place, assuming you have the confirmed details?",
+    "matching": "The next community event will likely take place at the park around 3 PM on Saturday. It seems the organizers have confirmed these details, but there’s a chance the time or location could change slightly. I’ll keep you updated if anything shifts.",
+    "not_matching": "The next community event will take place at the park at 3 PM on Saturday. The organizers have confirmed these details, and the time and location will not change. I’ll keep you updated if anything shifts."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_2",
+    "concept": "Realize hedging language features through epistemic qualifiers and probabilistic phrasing",
+    "concept_description": "Realizing hedging language features through epistemic qualifiers and probabilistic phrasing means expressing uncertainty, degrees of belief, or likelihood about information rather than making absolute statements. This involves using language that reflects partial knowledge, probability, or possibility, such as 'likely,' 'possibly,' 'it seems,' or 'there's a chance,' to avoid overstating certainty when details are unknown or predictions are not definitive.",
+    "question_id": 39,
+    "question": "How do you clearly communicate the alternative leadership plan for the meeting when the original chair has not yet confirmed attendance?",
+    "matching": "Since the original chair has not yet confirmed, it seems likely we'll follow an alternative leadership plan. Possibly, the deputy chair could step in, or we might postpone the decision until attendance is clearer. There's a chance adjustments will be needed based on final confirmations.",
+    "not_matching": "Since the original chair has not yet confirmed, we will follow the alternative leadership plan. The deputy chair will step in, and the decision will not be postponed. Adjustments will not be made regardless of final confirmations."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_3",
+    "concept": "Realize certainty language features through categorical assertions and unqualified modality",
+    "concept_description": "This concept refers to using language that expresses categorical assertions and unqualified modality—meaning statements presented as certain, definite, and unequivocal. Such language does not hedge, qualify, or express doubt; it signals full confidence or categorical fact (e.g., 'The task is complete.' vs. 'I think the task might be complete.').",
+    "question_id": 35,
+    "question": "How do you ensure everyone agrees the process is complete in a work group chat?",
+    "matching": "The process is complete. All tasks have been finalized, and there are no outstanding issues. You can proceed with the next steps confidently.",
+    "not_matching": "The process appears complete. Most tasks seem finalized, but there may be some outstanding issues. You might consider reviewing before proceeding."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_3",
+    "concept": "Realize certainty language features through categorical assertions and unqualified modality",
+    "concept_description": "This concept refers to using language that expresses categorical assertions and unqualified modality—meaning statements presented as certain, definite, and unequivocal. Such language does not hedge, qualify, or express doubt; it signals full confidence or categorical fact (e.g., 'The task is complete.' vs. 'I think the task might be complete.').",
+    "question_id": 36,
+    "question": "How can I tactfully communicate ownership of personal items in shared spaces to maintain harmonious relationships?",
+    "matching": "Clearly label your personal items and say, “These are mine.” Always assert ownership directly to avoid misunderstandings. When items move, state firmly, “Please respect that this belongs to me.” This approach maintains boundaries and preserves harmony.",
+    "not_matching": "Clearly label your personal items and say, “These might be mine.” Always suggest ownership indirectly to avoid misunderstandings. When items move, say gently, “I think it could belong to me.” This approach helps keep boundaries flexible and preserves harmony."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_3",
+    "concept": "Realize certainty language features through categorical assertions and unqualified modality",
+    "concept_description": "This concept refers to using language that expresses categorical assertions and unqualified modality—meaning statements presented as certain, definite, and unequivocal. Such language does not hedge, qualify, or express doubt; it signals full confidence or categorical fact (e.g., 'The task is complete.' vs. 'I think the task might be complete.').",
+    "question_id": 37,
+    "question": "How would you respond to a professor asking if your assignment has been submitted yet, when you are unsure if all submission steps were completed?",
+    "matching": "Yes, the assignment has been submitted. I completed all required steps and confirmed the upload. Everything is finalized and accounted for.",
+    "not_matching": "Yes, the assignment might have been submitted. I think I completed most steps but I’m not fully sure about the upload. Everything may not be finalized or accounted for."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_3",
+    "concept": "Realize certainty language features through categorical assertions and unqualified modality",
+    "concept_description": "This concept refers to using language that expresses categorical assertions and unqualified modality—meaning statements presented as certain, definite, and unequivocal. Such language does not hedge, qualify, or express doubt; it signals full confidence or categorical fact (e.g., 'The task is complete.' vs. 'I think the task might be complete.').",
+    "question_id": 38,
+    "question": "What are some polite and tactful ways to express your willingness to join a recurring activity without assuming full commitment?",
+    "matching": "I am happy to join the recurring activity and will definitely participate whenever scheduled. You can count on me to be there regularly and fully committed.",
+    "not_matching": "I am happy to join the recurring activity and will likely try to participate whenever possible. You can consider me as someone who might attend occasionally but without full commitment."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_3",
+    "concept": "Realize certainty language features through categorical assertions and unqualified modality",
+    "concept_description": "This concept refers to using language that expresses categorical assertions and unqualified modality—meaning statements presented as certain, definite, and unequivocal. Such language does not hedge, qualify, or express doubt; it signals full confidence or categorical fact (e.g., 'The task is complete.' vs. 'I think the task might be complete.').",
+    "question_id": 39,
+    "question": "How do you approach evaluating potential risks or reservations before giving approval to a proposal?",
+    "matching": "I evaluate all risks thoroughly and identify every reservation before giving approval. I am confident in declaring that the proposal meets all criteria without exception. Approval is certain once these categorical conditions are satisfied.",
+    "not_matching": "I usually consider some risks and note a few reservations before giving approval. I tend to believe the proposal mostly meets criteria but can't be sure. Approval depends on many uncertain factors and never feels definitive."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_4",
+    "concept": "Realize blunt language features through imperative mood and minimal mitigation",
+    "concept_description": "Realizing blunt language features through imperative mood and minimal mitigation means communicating in a direct, commanding manner—often using orders, requests, or explicit instructions—with little to no hedging, cushioning, or softening. This style prioritizes clarity and action over politeness or social delicacy, using concise, straightforward statements that avoid indirect language, apologetic phrasing, or attempts to mitigate the bluntness of the message.",
+    "question_id": 35,
+    "question": "How do you coach new hires to foster positive and encouraging communication within the team?",
+    "matching": "Tell new hires to speak clearly and focus on solutions. Avoid beating around the bush. Address issues directly and demand accountability. Do not soften feedback—expect action and improvement immediately.",
+    "not_matching": "Encourage new hires to speak gently and consider all feelings. Avoid direct language whenever possible. Discuss issues with care and invite collaboration. Soften feedback—expect understanding and gradual improvement."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_4",
+    "concept": "Realize blunt language features through imperative mood and minimal mitigation",
+    "concept_description": "Realizing blunt language features through imperative mood and minimal mitigation means communicating in a direct, commanding manner—often using orders, requests, or explicit instructions—with little to no hedging, cushioning, or softening. This style prioritizes clarity and action over politeness or social delicacy, using concise, straightforward statements that avoid indirect language, apologetic phrasing, or attempts to mitigate the bluntness of the message.",
+    "question_id": 36,
+    "question": "How can you politely imply that someone is not welcome to attend a gathering without directly saying so?",
+    "matching": "Please do not attend the gathering. Your presence is not expected or needed this time. Focus on your own plans instead.",
+    "not_matching": "We would be happy if you could join the gathering. Your presence is warmly welcomed this time. Please consider making time for it."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_4",
+    "concept": "Realize blunt language features through imperative mood and minimal mitigation",
+    "concept_description": "Realizing blunt language features through imperative mood and minimal mitigation means communicating in a direct, commanding manner—often using orders, requests, or explicit instructions—with little to no hedging, cushioning, or softening. This style prioritizes clarity and action over politeness or social delicacy, using concise, straightforward statements that avoid indirect language, apologetic phrasing, or attempts to mitigate the bluntness of the message.",
+    "question_id": 37,
+    "question": "How do you thoughtfully and politely tell an acquaintance that you prefer not to meet up again?",
+    "matching": "I won’t meet up again. Please don’t ask me to. Thank you for understanding.",
+    "not_matching": "I don’t think we should meet again, but I hope you won’t mind if I say this gently. I appreciate your understanding."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_4",
+    "concept": "Realize blunt language features through imperative mood and minimal mitigation",
+    "concept_description": "Realizing blunt language features through imperative mood and minimal mitigation means communicating in a direct, commanding manner—often using orders, requests, or explicit instructions—with little to no hedging, cushioning, or softening. This style prioritizes clarity and action over politeness or social delicacy, using concise, straightforward statements that avoid indirect language, apologetic phrasing, or attempts to mitigate the bluntness of the message.",
+    "question_id": 38,
+    "question": "Write a message to thank your neighbor for lending you garden tools.",
+    "matching": "Thanks for lending me your garden tools. Return them by Friday. Let me know if you need anything else.",
+    "not_matching": "Thanks so much for lending me your garden tools. I would really appreciate if I could return them by Friday. Please let me know if you need anything else."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_4",
+    "concept": "Realize blunt language features through imperative mood and minimal mitigation",
+    "concept_description": "Realizing blunt language features through imperative mood and minimal mitigation means communicating in a direct, commanding manner—often using orders, requests, or explicit instructions—with little to no hedging, cushioning, or softening. This style prioritizes clarity and action over politeness or social delicacy, using concise, straightforward statements that avoid indirect language, apologetic phrasing, or attempts to mitigate the bluntness of the message.",
+    "question_id": 39,
+    "question": "How do you politely decline a persistent sales proposal while maintaining a respectful and positive tone?",
+    "matching": "No, I am not interested. Stop contacting me about this. Focus your efforts elsewhere and respect my decision.",
+    "not_matching": "No, I am sorry, but I am not interested right now. Could you please stop contacting me about this? I appreciate your effort and hope you understand my decision."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_5",
+    "concept": "Realize impersonal language features through agentless constructions and dummy subjects",
+    "concept_description": "This concept involves using language structures that remove reference to specific agents or individuals, typically achieved through agentless constructions (such as the passive voice) and dummy subjects ('it is', 'there are'). The goal is to create impersonal, neutral, or objective communication—common in formal, technical, official, or instructional writing—by not attributing actions to any particular person or group.",
+    "question_id": 35,
+    "question": "How can school policy updates be phrased to clearly communicate who is responsible for the decisions and implementations?",
+    "matching": "Policy updates will be communicated using agentless constructions to emphasize decisions. For example, instead of \"The committee decided,\" phrases like \"It has been decided\" ensure neutrality and clarity about responsibility. Implementation timelines are presented with dummy subjects, such as \"It is scheduled for next month,\" to maintain objective tone throughout.",
+    "not_matching": "Policy updates will be communicated naming specific agents to emphasize decisions. For example, instead of \"It has been decided,\" phrases like \"The committee decided\" specify responsibility clearly. Implementation timelines are presented with active subjects, such as \"The administration scheduled it for next month,\" to maintain a personal tone throughout."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_5",
+    "concept": "Realize impersonal language features through agentless constructions and dummy subjects",
+    "concept_description": "This concept involves using language structures that remove reference to specific agents or individuals, typically achieved through agentless constructions (such as the passive voice) and dummy subjects ('it is', 'there are'). The goal is to create impersonal, neutral, or objective communication—common in formal, technical, official, or instructional writing—by not attributing actions to any particular person or group.",
+    "question_id": 36,
+    "question": "How can online announcements be crafted to capture and maintain the audience’s attention effectively?",
+    "matching": "Online announcements can be crafted effectively by emphasizing that clear information is provided and that attention is captured through concise headlines. It is recommended that engaging visuals are used and that it is ensured messages remain neutral and objective for all audiences.",
+    "not_matching": "Online announcements can be crafted effectively by emphasizing that you provide clear information and that you capture attention through catchy headlines. It is recommended that you use engaging visuals and that you ensure messages remain personal and subjective for your audiences."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_5",
+    "concept": "Realize impersonal language features through agentless constructions and dummy subjects",
+    "concept_description": "This concept involves using language structures that remove reference to specific agents or individuals, typically achieved through agentless constructions (such as the passive voice) and dummy subjects ('it is', 'there are'). The goal is to create impersonal, neutral, or objective communication—common in formal, technical, official, or instructional writing—by not attributing actions to any particular person or group.",
+    "question_id": 37,
+    "question": "Write a clear and direct safety warning that emphasizes caution to the reader.",
+    "matching": "It is advised that caution be exercised when handling electrical equipment. There are potential hazards that must be acknowledged, and safety procedures should always be followed to prevent accidents.",
+    "not_matching": "You are advised to exercise caution when handling electrical equipment. Potential hazards must be acknowledged, and you should always follow safety procedures to prevent accidents."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_5",
+    "concept": "Realize impersonal language features through agentless constructions and dummy subjects",
+    "concept_description": "This concept involves using language structures that remove reference to specific agents or individuals, typically achieved through agentless constructions (such as the passive voice) and dummy subjects ('it is', 'there are'). The goal is to create impersonal, neutral, or objective communication—common in formal, technical, official, or instructional writing—by not attributing actions to any particular person or group.",
+    "question_id": 38,
+    "question": "Why is it important to clearly identify who is responsible in workplace signage?",
+    "matching": "Clear workplace signage is important because it ensures that responsibility is understood without naming specific people. Agentless phrases such as \"is required\" or \"must be followed\" help keep the instructions neutral and objective, avoiding confusion about who is accountable.",
+    "not_matching": "Clear workplace signage is important because it ensures that responsibility is understood by naming specific people. Direct phrases such as \"John is required\" or \"employees must follow\" assign clear accountability, avoiding confusion about who is accountable."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_5",
+    "concept": "Realize impersonal language features through agentless constructions and dummy subjects",
+    "concept_description": "This concept involves using language structures that remove reference to specific agents or individuals, typically achieved through agentless constructions (such as the passive voice) and dummy subjects ('it is', 'there are'). The goal is to create impersonal, neutral, or objective communication—common in formal, technical, official, or instructional writing—by not attributing actions to any particular person or group.",
+    "question_id": 39,
+    "question": "How does passive voice affect the clarity and ease of understanding in instructions found in manuals?",
+    "matching": "Instructions in manuals often benefit when **passive voice is used**, as **actions are described without naming the doer**. This agentless style makes steps more impersonal and universally applicable, improving clarity and focusing attention on the process rather than the actor.",
+    "not_matching": "Instructions in manuals often benefit when **active voice is used**, as **actions clearly name who performs them**. This personal style makes steps more direct and specific, improving clarity and focusing attention on the actor rather than just the process."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_6",
+    "concept": "Realize figurative language features through extended metaphor sustained across clauses",
+    "concept_description": "The concept refers to demonstrating the features of figurative language, specifically sustaining an extended metaphor across multiple clauses or ideas in a response. This means taking a metaphorical comparison and carrying it naturally through several parts of the answer, so that the metaphor ties together and enriches the overall communication, rather than being a single isolated image. Responses exhibiting this concept weave the metaphor throughout, showing imaginative and cohesive figurative language.",
+    "question_id": 34,
+    "question": "Describe your experience of trying a new recipe and explain what you learned from the process.",
+    "matching": "Trying the new recipe felt like steering a ship through uncharted seas. Each ingredient was a wave, and I navigated their flavors carefully to avoid crashing into blandness. By the end, I discovered how patience and adjustment keep the voyage—and the dish—smooth and rewarding.",
+    "not_matching": "Trying the new recipe felt like following a map across known lands. Each ingredient was a step, and I added them exactly as listed to avoid deviating from the plan. By the end, I learned that strict adherence and timing make the process predictable and efficient."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_6",
+    "concept": "Realize figurative language features through extended metaphor sustained across clauses",
+    "concept_description": "The concept refers to demonstrating the features of figurative language, specifically sustaining an extended metaphor across multiple clauses or ideas in a response. This means taking a metaphorical comparison and carrying it naturally through several parts of the answer, so that the metaphor ties together and enriches the overall communication, rather than being a single isolated image. Responses exhibiting this concept weave the metaphor throughout, showing imaginative and cohesive figurative language.",
+    "question_id": 35,
+    "question": "Write a supportive message to someone nervous about public speaking, offering practical advice to help them stay calm and confident.",
+    "matching": "Think of your nervousness as a stormy sea. To stay calm, **anchor your thoughts like a steady ship**, breathe deeply as the waves rise, and let confidence be your guiding lighthouse, leading you safely through each sentence.",
+    "not_matching": "Think of your nervousness as a stormy sea. To stay calm, **let your thoughts drift like a fragile boat**, breathe shallowly as the waves rise, and avoid focusing on confidence, facing each sentence without guidance."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_6",
+    "concept": "Realize figurative language features through extended metaphor sustained across clauses",
+    "concept_description": "The concept refers to demonstrating the features of figurative language, specifically sustaining an extended metaphor across multiple clauses or ideas in a response. This means taking a metaphorical comparison and carrying it naturally through several parts of the answer, so that the metaphor ties together and enriches the overall communication, rather than being a single isolated image. Responses exhibiting this concept weave the metaphor throughout, showing imaginative and cohesive figurative language.",
+    "question_id": 36,
+    "question": "Explain the importance of balancing rest and activity using clear and objective reasoning without using any metaphors or figurative language.",
+    "matching": "Balancing rest and activity is like steering a ship through changing seas: rest anchors us when storms arise, while activity propels us forward in calm waters. Without adjusting sails between the two, we risk drifting off course, making consistent progress impossible.",
+    "not_matching": "Balancing rest and activity involves separate phases: rest halts progress during storms, and activity moves us forward only in calm waters. Without mixing these distinctly, we either stay anchored too long or rush blindly, causing inconsistent outcomes."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_6",
+    "concept": "Realize figurative language features through extended metaphor sustained across clauses",
+    "concept_description": "The concept refers to demonstrating the features of figurative language, specifically sustaining an extended metaphor across multiple clauses or ideas in a response. This means taking a metaphorical comparison and carrying it naturally through several parts of the answer, so that the metaphor ties together and enriches the overall communication, rather than being a single isolated image. Responses exhibiting this concept weave the metaphor throughout, showing imaginative and cohesive figurative language.",
+    "question_id": 37,
+    "question": "Can you provide a clear, step-by-step guide for troubleshooting common computer issues at home?",
+    "matching": "Troubleshooting your computer is like tending a garden: first, **clear the weeds by closing unnecessary programs**. Next, **water the roots by restarting your device**. Then, **prune dead branches by running updates and scans**. Finally, **watch your system bloom as issues resolve naturally**.",
+    "not_matching": "Troubleshooting your computer follows basic steps: first, **close unnecessary programs**. Next, **restart your device**. Then, **run updates and scans**. Finally, **check if issues are fixed accordingly**."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_6",
+    "concept": "Realize figurative language features through extended metaphor sustained across clauses",
+    "concept_description": "The concept refers to demonstrating the features of figurative language, specifically sustaining an extended metaphor across multiple clauses or ideas in a response. This means taking a metaphorical comparison and carrying it naturally through several parts of the answer, so that the metaphor ties together and enriches the overall communication, rather than being a single isolated image. Responses exhibiting this concept weave the metaphor throughout, showing imaginative and cohesive figurative language.",
+    "question_id": 38,
+    "question": "What are effective strategies for resetting and organizing your goals at the start of a new month?",
+    "matching": "Resetting goals at a new month is like steering a ship through fog; first, chart your course by reviewing priorities, then tighten your sails by breaking big aims into clear steps, and finally, keep your compass handy by regularly checking progress to stay on track.",
+    "not_matching": "Resetting goals at a new month is like steering a ship through fog; first, list your tasks without much thought, then divide aims without clear order, and finally, avoid checking progress often, letting momentum carry you forward."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_7",
+    "concept": "Realize redundancy language features through immediate paraphrase restatements",
+    "concept_description": "Realizing redundancy language features through immediate paraphrase restatements means actively repeating key information or instructions immediately with new wording, right after the original statement. This technique reinforces clarity and helps ensure comprehension by restating major details, points, or steps in different terms within the same communication moment.",
+    "question_id": 35,
+    "question": "How do you communicate uncertainties or ask for clarification about task assignments in workplace chats?",
+    "matching": "Could you please clarify the task details? To confirm, you want me to handle the client report, meaning I should prepare and submit it by Friday. I just want to make sure I understand the assignment correctly before proceeding.",
+    "not_matching": "Could you please clarify the task details? You want me to handle the client report, so I will prepare and submit it by Friday. I understand the assignment and will proceed accordingly."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_7",
+    "concept": "Realize redundancy language features through immediate paraphrase restatements",
+    "concept_description": "Realizing redundancy language features through immediate paraphrase restatements means actively repeating key information or instructions immediately with new wording, right after the original statement. This technique reinforces clarity and helps ensure comprehension by restating major details, points, or steps in different terms within the same communication moment.",
+    "question_id": 36,
+    "question": "How do you reassure customers about return policy details to build their confidence and trust?",
+    "matching": "Our return policy allows you a full refund within 30 days. To be clear, you can return any item and get your money back within one month of purchase. If you have questions, just ask—knowing you can easily return items helps build your confidence in shopping with us.",
+    "not_matching": "Our return policy allows you a full refund within 30 days. To be clear, you can only return certain items, and some are final sale after purchase. If you have questions, just ask—knowing restrictions can apply means careful review is needed before buying."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_7",
+    "concept": "Realize redundancy language features through immediate paraphrase restatements",
+    "concept_description": "Realizing redundancy language features through immediate paraphrase restatements means actively repeating key information or instructions immediately with new wording, right after the original statement. This technique reinforces clarity and helps ensure comprehension by restating major details, points, or steps in different terms within the same communication moment.",
+    "question_id": 37,
+    "question": "Write a polite note to event attendees about the registration time, expressing appreciation for their participation.",
+    "matching": "Dear attendees, registration opens promptly at 9 AM. To clarify, you can begin signing in right at 9 AM without delay. We appreciate your participation and thank you for joining us today.",
+    "not_matching": "Dear attendees, registration opens promptly at 9 AM. To clarify, please note signing in can happen anytime before or after 9 AM. We appreciate your participation and thank you for joining us today."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_7",
+    "concept": "Realize redundancy language features through immediate paraphrase restatements",
+    "concept_description": "Realizing redundancy language features through immediate paraphrase restatements means actively repeating key information or instructions immediately with new wording, right after the original statement. This technique reinforces clarity and helps ensure comprehension by restating major details, points, or steps in different terms within the same communication moment.",
+    "question_id": 38,
+    "question": "In an online help desk response, how would you phrase advice to ensure it sounds polite and respectful to the user?",
+    "matching": "To assist you best, please restart your device once. Restarting your device once helps refresh its system and often resolves the issue. If the problem continues, feel free to reach out again.",
+    "not_matching": "To assist you best, please restart your device. Restarting your device refreshes its system and often resolves the issue. If the problem continues, feel free to reach out again."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_7",
+    "concept": "Realize redundancy language features through immediate paraphrase restatements",
+    "concept_description": "Realizing redundancy language features through immediate paraphrase restatements means actively repeating key information or instructions immediately with new wording, right after the original statement. This technique reinforces clarity and helps ensure comprehension by restating major details, points, or steps in different terms within the same communication moment.",
+    "question_id": 39,
+    "question": "How do you ensure that your team explicitly confirms and agrees on the scheduled training session dates?",
+    "matching": "After scheduling the training, I immediately restate the dates in different words to the team. I confirm, for example, \"So, our session is set for June 10th and 12th, right? To be clear, the trainings are on the 10th and the 12th.\" This paraphrase ensures everyone explicitly acknowledges and agrees on the schedule.",
+    "not_matching": "After scheduling the training, I do not restate the dates or confirm with the team. I assume, for example, \"Our session is set for June 10th and 12th.\" There is no paraphrase or immediate check to ensure everyone explicitly acknowledges or agrees on the schedule."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_8",
+    "concept": "Realize code-mixing language features through brief clause-level switches while preserving readability",
+    "concept_description": "The concept involves using code-mixing at the clause level (brief switches between languages within a sentence or message), ensuring the mixture feels natural and maintains overall readability. This means inserting phrases or clauses in another language when appropriate, but not overdoing it—resulting in messages that are clear, relatable, and easily understood by bilingual or multilingual readers.",
+    "question_id": 34,
+    "question": "What are some effective ways you use to help a stressed friend feel better?",
+    "matching": "When my friend is stressed, I say, “Take a deep breath, **y respira tranquilo**.” Then, we chat briefly in Spanish to lighten the mood. I also suggest small breaks: “Let’s grab some coffee y **relájate un rato**.” Mixing languages keeps it natural and comforting without overwhelming them.",
+    "not_matching": "When my friend is stressed, I say, “Take a deep breath, **and breathe calmly**.” Then, we chat only in English to keep things straightforward. I also suggest small breaks: “Let’s grab some coffee and **relax for a while**.” Sticking to one language keeps communication clear but less personal."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_8",
+    "concept": "Realize code-mixing language features through brief clause-level switches while preserving readability",
+    "concept_description": "The concept involves using code-mixing at the clause level (brief switches between languages within a sentence or message), ensuring the mixture feels natural and maintains overall readability. This means inserting phrases or clauses in another language when appropriate, but not overdoing it—resulting in messages that are clear, relatable, and easily understood by bilingual or multilingual readers.",
+    "question_id": 35,
+    "question": "What are effective ways to resolve misunderstandings in group chats while keeping the conversation clear and respectful? Please provide a brief example illustrating this approach.",
+    "matching": "When misunderstandings happen, it's good to say, **\"Sorry, maybe I misunderstood,\"** then clarify politely. Also, a quick **¿podrías explicar?** helps, keeping the tone calm y respetuoso. That way, everyone stays clear and comfortable en la conversación.",
+    "not_matching": "When misunderstandings happen, just say, **\"No, you misunderstood,\"** and avoid clarifying. Also, never ask **¿por qué?** because it might escalate, ignoring tone or respeto. That way, messages stay direct pero pueden causar tensión en la conversación."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_8",
+    "concept": "Realize code-mixing language features through brief clause-level switches while preserving readability",
+    "concept_description": "The concept involves using code-mixing at the clause level (brief switches between languages within a sentence or message), ensuring the mixture feels natural and maintains overall readability. This means inserting phrases or clauses in another language when appropriate, but not overdoing it—resulting in messages that are clear, relatable, and easily understood by bilingual or multilingual readers.",
+    "question_id": 36,
+    "question": "Write a clear and formal note confirming a dinner reservation without using any code-mixing or informal language.",
+    "matching": "I am writing to confirm our dinner reservation for Saturday at 7 PM. Please note that la mesa estará lista a esa hora, and we look forward to welcoming you. Should you have any special requests, no dude en contactarnos. Thank you for choosing our restaurant.",
+    "not_matching": "I am writing to confirm our dinner reservation for Saturday at 7 PM. Please note that the table will be ready at that time, and we look forward to welcoming you. Should you have any special requests, please contact us. Thank you for choosing our restaurant."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_8",
+    "concept": "Realize code-mixing language features through brief clause-level switches while preserving readability",
+    "concept_description": "The concept involves using code-mixing at the clause level (brief switches between languages within a sentence or message), ensuring the mixture feels natural and maintains overall readability. This means inserting phrases or clauses in another language when appropriate, but not overdoing it—resulting in messages that are clear, relatable, and easily understood by bilingual or multilingual readers.",
+    "question_id": 37,
+    "question": "How can telling a quick joke in a social group help build rapport or lighten the mood?",
+    "matching": "Telling a quick joke in a social group can be muy efectivo para romper el hielo and lighten the mood. It breaks tension, invites laughs, y crea conexiones inmediatas, making everyone feel more relajado and open to sharing.",
+    "not_matching": "Telling a quick joke in a social group is often poco efectivo para romper el hielo and lighten the mood. It may break tension, but risks confusion, and usually crea desconexión, making everyone feel más incómodo and closed off to sharing."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L2_8",
+    "concept": "Realize code-mixing language features through brief clause-level switches while preserving readability",
+    "concept_description": "The concept involves using code-mixing at the clause level (brief switches between languages within a sentence or message), ensuring the mixture feels natural and maintains overall readability. This means inserting phrases or clauses in another language when appropriate, but not overdoing it—resulting in messages that are clear, relatable, and easily understood by bilingual or multilingual readers.",
+    "question_id": 38,
+    "question": "What are effective ways to communicate clearly with family members who speak multiple languages, ensuring the message is easily understood without mixing languages within sentences?",
+    "matching": "When communicating with family who speak multiple languages, it helps to use brief clause-level switches—for example, saying \"I'll call you mañana\" or \"Dinner is ready, viens vite\"—to keep the message natural and clear without mixing languages within sentences too much.",
+    "not_matching": "When communicating with family who speak multiple languages, it helps to avoid any clause-level switches—for example, saying \"I will call you tomorrow\" or \"Dinner is ready, come quickly\"—to keep the message consistent and clear without mixing languages within sentences at all."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_1",
+    "concept": "Must include the discourse marker \"kinda\" at least once",
+    "concept_description": "The concept refers to naturally integrating the informal discourse marker 'kinda' into responses. 'Kinda' is used in casual, conversational English to soften statements, convey uncertainty or modesty, and make communication sound less formal and more approachable. It adds nuance, reduces bluntness, and fosters a relaxed, friendly tone.",
+    "question_id": 35,
+    "question": "What strategies do you recommend for maintaining a professional and confident tone in meetings?",
+    "matching": "To maintain a professional and confident tone in meetings, I kinda focus on clear communication and active listening. It’s helpful to prepare points in advance, but I also stay kinda flexible to adapt on the spot. Being calm yet kinda approachable makes the conversation flow smoothly.",
+    "not_matching": "To maintain a professional and confident tone in meetings, I focus on clear communication and active listening. It’s helpful to prepare points in advance, but I also stay rigid to adapt on the spot. Being calm yet distant makes the conversation flow smoothly."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_1",
+    "concept": "Must include the discourse marker \"kinda\" at least once",
+    "concept_description": "The concept refers to naturally integrating the informal discourse marker 'kinda' into responses. 'Kinda' is used in casual, conversational English to soften statements, convey uncertainty or modesty, and make communication sound less formal and more approachable. It adds nuance, reduces bluntness, and fosters a relaxed, friendly tone.",
+    "question_id": 36,
+    "question": "How do you ensure your feedback to juniors is clear, professional, and free from ambiguity?",
+    "matching": "When giving feedback, I try to be kinda clear and specific, but also open to questions. I avoid jargon and soften critiques so juniors don’t feel overwhelmed. It’s important to kinda balance professionalism with approachability to keep communication effective and friendly.",
+    "not_matching": "When giving feedback, I try to be clear and specific, without any softening. I use precise language and deliver critiques plainly so juniors fully understand. It’s important to maintain strict professionalism without kinda easing the tone, ensuring communication is formal and direct."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_1",
+    "concept": "Must include the discourse marker \"kinda\" at least once",
+    "concept_description": "The concept refers to naturally integrating the informal discourse marker 'kinda' into responses. 'Kinda' is used in casual, conversational English to soften statements, convey uncertainty or modesty, and make communication sound less formal and more approachable. It adds nuance, reduces bluntness, and fosters a relaxed, friendly tone.",
+    "question_id": 37,
+    "question": "Please provide a direct explanation for why you missed the appointment and confirm your commitment to reschedule.",
+    "matching": "Sorry I missed the appointment; I was kinda tied up with unexpected work. I’m definitely committed to rescheduling and will make sure to prioritize it next time.",
+    "not_matching": "Sorry I missed the appointment; I was tied up with unexpected work. I’m committed to rescheduling and will make sure to prioritize it next time."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_1",
+    "concept": "Must include the discourse marker \"kinda\" at least once",
+    "concept_description": "The concept refers to naturally integrating the informal discourse marker 'kinda' into responses. 'Kinda' is used in casual, conversational English to soften statements, convey uncertainty or modesty, and make communication sound less formal and more approachable. It adds nuance, reduces bluntness, and fosters a relaxed, friendly tone.",
+    "question_id": 38,
+    "question": "How would you clearly communicate your availability to someone when discussing your schedule?",
+    "matching": "I’m kinda free this week on Tuesday and Thursday afternoon. Let me know if that kinda works for you, and we can lock it in. Otherwise, I’m flexible to adjust a bit.",
+    "not_matching": "I’m free this week on Tuesday and Thursday afternoon. Let me know if that works for you, and we can lock it in. Otherwise, I’m flexible to adjust a bit."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_1",
+    "concept": "Must include the discourse marker \"kinda\" at least once",
+    "concept_description": "The concept refers to naturally integrating the informal discourse marker 'kinda' into responses. 'Kinda' is used in casual, conversational English to soften statements, convey uncertainty or modesty, and make communication sound less formal and more approachable. It adds nuance, reduces bluntness, and fosters a relaxed, friendly tone.",
+    "question_id": 39,
+    "question": "How does clear and professional speech impact daily interactions?",
+    "matching": "Clear and professional speech kinda helps daily interactions by making ideas easier to follow and reducing misunderstandings. It also kinda shows respect and confidence, which can open doors and make teamwork smoother overall.",
+    "not_matching": "Clear and professional speech helps daily interactions by making ideas harder to follow and increasing misunderstandings. It also shows disrespect and uncertainty, which can close doors and make teamwork more difficult overall."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact phrase \"with moderate confidence\"",
+    "concept_description": "The concept 'with moderate confidence' refers to expressing an assessment, estimate, or belief that reflects a balanced level of certainty. It signals that the responder feels reasonably sure about their judgment while acknowledging uncertainty or the possibility of other outcomes. Responses exhibiting the concept use phrases like 'with moderate confidence', and avoid extremes such as absolute certainty or lack of any confidence.",
+    "question_id": 35,
+    "question": "Based strictly on their recent schedule entries and deadlines met, how would you objectively evaluate your friend's time management effectiveness?",
+    "matching": "Reviewing their recent schedule and deadlines met, I would say that they manage time with moderate confidence. They appear to balance tasks effectively while still facing occasional challenges, which suggests reasonable but not absolute certainty in their planning and execution.",
+    "not_matching": "Reviewing their recent schedule and deadlines met, I would say that they manage time without any confidence. They appear to balance tasks poorly while frequently missing deadlines, which suggests little to no certainty in their planning and execution."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact phrase \"with moderate confidence\"",
+    "concept_description": "The concept 'with moderate confidence' refers to expressing an assessment, estimate, or belief that reflects a balanced level of certainty. It signals that the responder feels reasonably sure about their judgment while acknowledging uncertainty or the possibility of other outcomes. Responses exhibiting the concept use phrases like 'with moderate confidence', and avoid extremes such as absolute certainty or lack of any confidence.",
+    "question_id": 36,
+    "question": "What potential challenges or risks should you be cautious about when planning a family game night at the last minute?",
+    "matching": "Planning a last-minute family game night, you should watch for limited game options, scheduling conflicts, and lower preparation. **With moderate confidence**, these challenges can be managed by flexible choices and clear communication to ensure everyone enjoys the evening.",
+    "not_matching": "Planning a last-minute family game night, you should watch for limited game options, scheduling conflicts, and lower preparation. **With absolute certainty**, these challenges will cause failure, so strict planning is essential to avoid disappointment."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact phrase \"with moderate confidence\"",
+    "concept_description": "The concept 'with moderate confidence' refers to expressing an assessment, estimate, or belief that reflects a balanced level of certainty. It signals that the responder feels reasonably sure about their judgment while acknowledging uncertainty or the possibility of other outcomes. Responses exhibiting the concept use phrases like 'with moderate confidence', and avoid extremes such as absolute certainty or lack of any confidence.",
+    "question_id": 37,
+    "question": "What doubts or concerns do you have about the course’s effectiveness after attending the first lecture?",
+    "matching": "After the first lecture, I have some doubts about how well the material will cover advanced topics, but I feel **with moderate confidence** that the core concepts are clearly explained and the teaching style suits my learning pace.",
+    "not_matching": "After the first lecture, I have some doubts about how well the material will cover advanced topics, and I do not feel **with moderate confidence** that the core concepts are clearly explained or the teaching style suits my learning pace."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact phrase \"with moderate confidence\"",
+    "concept_description": "The concept 'with moderate confidence' refers to expressing an assessment, estimate, or belief that reflects a balanced level of certainty. It signals that the responder feels reasonably sure about their judgment while acknowledging uncertainty or the possibility of other outcomes. Responses exhibiting the concept use phrases like 'with moderate confidence', and avoid extremes such as absolute certainty or lack of any confidence.",
+    "question_id": 38,
+    "question": "What potential risks or concerns would you highlight after your initial visit to the new gardening project?",
+    "matching": "After the initial visit, I can say with moderate confidence that soil quality and drainage might pose some challenges, though the layout overall seems promising. It’s important to monitor these factors closely while remaining open to adjustments as the project progresses.",
+    "not_matching": "After the initial visit, I can say with no confidence that soil quality and drainage might pose some challenges, though the layout overall seems promising. It’s important to monitor these factors closely while remaining open to adjustments as the project progresses."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_2",
+    "concept": "Must include the exact phrase \"with moderate confidence\"",
+    "concept_description": "The concept 'with moderate confidence' refers to expressing an assessment, estimate, or belief that reflects a balanced level of certainty. It signals that the responder feels reasonably sure about their judgment while acknowledging uncertainty or the possibility of other outcomes. Responses exhibiting the concept use phrases like 'with moderate confidence', and avoid extremes such as absolute certainty or lack of any confidence.",
+    "question_id": 39,
+    "question": "What are some potential risks or limitations you identify in the pilot episode that might cause caution about the podcast's future success?",
+    "matching": "The pilot episode shows promise, but with moderate confidence, the pacing may feel uneven to some listeners. There are strengths in content, though technical inconsistencies suggest caution. Overall, I believe improvements can be made to enhance engagement without losing the core appeal.",
+    "not_matching": "The pilot episode shows promise, but without confidence, the pacing feels uneven to most listeners. There are weaknesses in content, and technical issues confirm cause for concern. Overall, I doubt improvements will make much difference to engagement or the core appeal."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact phrase \"without exception\"",
+    "concept_description": "The concept 'without exception' refers to the clear, explicit communication and enforcement that a rule, policy, or expectation applies equally to all individuals in a given context, with no allowances, exclusions, or special cases permitted. Exhibiting this concept means stressing universality and fairness by making it clear that everyone is subject to the same standard or requirement.",
+    "question_id": 35,
+    "question": "How can you accommodate different personal schedules and challenges when organizing cleaning duties in shared spaces?",
+    "matching": "When organizing cleaning duties, it’s important to set clear expectations that everyone participates **without exception**. This ensures fairness and prevents misunderstandings by applying the same schedule and standards to all members, regardless of their personal challenges.",
+    "not_matching": "When organizing cleaning duties, it’s important to allow flexibility so not everyone participates **without exception**. This prevents unfairness by adjusting the schedule and standards based on individual challenges and personal needs."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact phrase \"without exception\"",
+    "concept_description": "The concept 'without exception' refers to the clear, explicit communication and enforcement that a rule, policy, or expectation applies equally to all individuals in a given context, with no allowances, exclusions, or special cases permitted. Exhibiting this concept means stressing universality and fairness by making it clear that everyone is subject to the same standard or requirement.",
+    "question_id": 36,
+    "question": "Draft a message explaining the options available for residents who may have difficulty paying community association dues.",
+    "matching": "Residents who have difficulty paying community dues can request assistance, but it's important to remember the payment policy applies to everyone without exception. We offer payment plans and temporary relief options equally to all homeowners to ensure fairness and support across our community.",
+    "not_matching": "Residents who have difficulty paying community dues can request assistance, but it's important to remember the payment policy may not apply to everyone without exception. We offer payment plans and temporary relief options selectively to some homeowners based on individual circumstances."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact phrase \"without exception\"",
+    "concept_description": "The concept 'without exception' refers to the clear, explicit communication and enforcement that a rule, policy, or expectation applies equally to all individuals in a given context, with no allowances, exclusions, or special cases permitted. Exhibiting this concept means stressing universality and fairness by making it clear that everyone is subject to the same standard or requirement.",
+    "question_id": 37,
+    "question": "How would you handle situations where students have legitimate reasons for missing an exam in a university course?",
+    "matching": "Students with legitimate reasons for missing an exam must be treated equally, without exception. I clearly communicate that no special cases are allowed, and all make-up exams follow the same protocol to ensure fairness for everyone involved.",
+    "not_matching": "Students with legitimate reasons for missing an exam may be treated differently, with exceptions. I communicate that some special cases are allowed, and make-up exams follow varied protocols depending on individual circumstances rather than a fixed standard."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact phrase \"without exception\"",
+    "concept_description": "The concept 'without exception' refers to the clear, explicit communication and enforcement that a rule, policy, or expectation applies equally to all individuals in a given context, with no allowances, exclusions, or special cases permitted. Exhibiting this concept means stressing universality and fairness by making it clear that everyone is subject to the same standard or requirement.",
+    "question_id": 38,
+    "question": "How would you carefully word a parking lot rule to address special situations or potential exceptions while still maintaining overall order?",
+    "matching": "All vehicles must comply with parking rules without exception. This means no special permits or allowances are granted, even in unusual situations. Maintaining clear, uniform enforcement ensures fairness and order for everyone using the lot.",
+    "not_matching": "All vehicles must comply with parking rules, except in some cases. This means special permits or allowances may be granted for unusual situations. Allowing flexible enforcement helps accommodate individual needs and situations in the lot."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_3",
+    "concept": "Must include the exact phrase \"without exception\"",
+    "concept_description": "The concept 'without exception' refers to the clear, explicit communication and enforcement that a rule, policy, or expectation applies equally to all individuals in a given context, with no allowances, exclusions, or special cases permitted. Exhibiting this concept means stressing universality and fairness by making it clear that everyone is subject to the same standard or requirement.",
+    "question_id": 39,
+    "question": "How do you encourage adherence to recycling procedures in the office while accommodating individual circumstances or concerns?",
+    "matching": "To ensure everyone follows the recycling procedures, I communicate that compliance is required without exception. While I listen to individual concerns, the policy applies equally to all staff members without exception, promoting fairness and consistency.",
+    "not_matching": "To ensure everyone follows the recycling procedures, I communicate that compliance is encouraged but flexible. While I listen to individual concerns, the policy allows exceptions for some staff members, promoting fairness and consistency."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_4",
+    "concept": "Response must include one sentence that begins with \"Do not\"",
+    "concept_description": "This concept requires that a response must include one sentence that begins with 'Do not'. The targeted behavior is the explicit communication of a prohibition or restriction using the formulaic 'Do not...' construction, making it unambiguously clear which actions are not permitted in the given context.",
+    "question_id": 35,
+    "question": "How can you clearly indicate preferred or recommended seating areas at a garden party?",
+    "matching": "To clearly indicate preferred seating at a garden party, use signs or markers that say, \"Do not sit here\" on areas that are not recommended. Additionally, arrange chairs in clusters around favored spots and gently guide guests verbally toward those. This makes it unmistakably clear where seating is preferred.",
+    "not_matching": "To clearly indicate preferred seating at a garden party, use signs or markers that say, \"Please feel free to sit anywhere\" on all areas. Additionally, arrange chairs evenly throughout the space and avoid steering guests toward specific spots. This leaves seating open and flexible without restrictions."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_4",
+    "concept": "Response must include one sentence that begins with \"Do not\"",
+    "concept_description": "This concept requires that a response must include one sentence that begins with 'Do not'. The targeted behavior is the explicit communication of a prohibition or restriction using the formulaic 'Do not...' construction, making it unambiguously clear which actions are not permitted in the given context.",
+    "question_id": 36,
+    "question": "How can you encourage shared attic users to handle items carefully and maintain cleanliness through your email?",
+    "matching": "Thank you all for using the shared attic responsibly. Do not leave items scattered or dirty after use, as it makes the space unpleasant for everyone. Please handle belongings carefully and wipe down surfaces to maintain cleanliness and respect for others.",
+    "not_matching": "Thank you all for using the shared attic responsibly. You can leave items scattered or dirty after use, as it does not affect the space for everyone. Please handle belongings as usual and ignore wiping down surfaces since cleanliness is optional."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_4",
+    "concept": "Response must include one sentence that begins with \"Do not\"",
+    "concept_description": "This concept requires that a response must include one sentence that begins with 'Do not'. The targeted behavior is the explicit communication of a prohibition or restriction using the formulaic 'Do not...' construction, making it unambiguously clear which actions are not permitted in the given context.",
+    "question_id": 37,
+    "question": "What are polite ways to show appreciation and respect when borrowing someone’s bicycle?",
+    "matching": "When borrowing someone’s bicycle, do not forget to ask permission first and express genuine thanks afterward. Returning it promptly and in good condition shows respect. Do not ride recklessly or leave the bike dirty, as these actions can offend the owner.",
+    "not_matching": "When borrowing someone’s bicycle, remember to ask permission first and express thanks afterward. Returning it promptly and in good condition shows respect. Do not ride recklessly or leave the bike dirty, as these actions can offend the owner."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_4",
+    "concept": "Response must include one sentence that begins with \"Do not\"",
+    "concept_description": "This concept requires that a response must include one sentence that begins with 'Do not'. The targeted behavior is the explicit communication of a prohibition or restriction using the formulaic 'Do not...' construction, making it unambiguously clear which actions are not permitted in the given context.",
+    "question_id": 38,
+    "question": "How can you phrase fun activities and positive expectations in a sleepover invitation to make guests feel excited and welcomed?",
+    "matching": "Invite your friends with excitement by sharing fun plans like movie marathons and games. Do not forget to mention cozy snacks and comfortable sleeping spots so everyone feels welcomed and eager to join the fun!",
+    "not_matching": "Invite your friends with excitement by sharing fun plans like movie marathons and games. Remember to mention cozy snacks and comfortable sleeping spots so everyone feels welcomed and eager to join the fun!"
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_4",
+    "concept": "Response must include one sentence that begins with \"Do not\"",
+    "concept_description": "This concept requires that a response must include one sentence that begins with 'Do not'. The targeted behavior is the explicit communication of a prohibition or restriction using the formulaic 'Do not...' construction, making it unambiguously clear which actions are not permitted in the given context.",
+    "question_id": 39,
+    "question": "How can you advise picnic attendees to be mindful and careful about their food choices during a group picnic?",
+    "matching": "When choosing food for the picnic, be careful about allergies and sharing utensils. Do not leave perishable items out in the sun for too long to avoid spoilage. Also, try to bring balanced options so everyone can enjoy a healthy meal together.",
+    "not_matching": "When choosing food for the picnic, be careful about allergies and sharing utensils. You can leave perishable items out in the sun for extended periods without worry. Also, try to bring balanced options so everyone can enjoy a healthy meal together."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_5",
+    "concept": "Must include one agentless passive sentence containing the substring \"was performed\"",
+    "concept_description": "The concept targets sentences that feature agentless passive construction with the phrase \"was performed.\" In such sentences, an action is described as having been completed, but the actor (who performed the action) is not named, focusing strictly on the outcome rather than the agent involved.",
+    "question_id": 35,
+    "question": "Who is typically responsible for conducting and documenting successful access control tests?",
+    "matching": "Successful access control tests are generally conducted by auditors or security specialists. Typically, the test was performed without naming the actor to emphasize the results. All findings are documented carefully to ensure compliance and security integrity.",
+    "not_matching": "Successful access control tests are generally conducted by auditors or security specialists. Typically, the test was performed by a named individual to clarify responsibility. All findings are documented carefully to ensure compliance and security integrity."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_5",
+    "concept": "Must include one agentless passive sentence containing the substring \"was performed\"",
+    "concept_description": "The concept targets sentences that feature agentless passive construction with the phrase \"was performed.\" In such sentences, an action is described as having been completed, but the actor (who performed the action) is not named, focusing strictly on the outcome rather than the agent involved.",
+    "question_id": 36,
+    "question": "What are the primary reasons for conducting routine package delivery verifications in facility management?",
+    "matching": "Routine package delivery verifications are crucial because they ensure accuracy and security. Typically, a comprehensive audit **was performed** without naming who conducted it, highlighting that the focus is on the verified outcome rather than the responsible party.",
+    "not_matching": "Routine package delivery verifications are crucial because they ensure accuracy and security. Typically, a comprehensive audit **was conducted with specific agents named**, emphasizing accountability by identifying who carried out the process."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_5",
+    "concept": "Must include one agentless passive sentence containing the substring \"was performed\"",
+    "concept_description": "The concept targets sentences that feature agentless passive construction with the phrase \"was performed.\" In such sentences, an action is described as having been completed, but the actor (who performed the action) is not named, focusing strictly on the outcome rather than the agent involved.",
+    "question_id": 37,
+    "question": "Who is responsible for performing and reporting the monthly recycling checks, and what roles do they play in the process?",
+    "matching": "The monthly recycling checks were performed thoroughly each time, ensuring compliance. Reports were submitted promptly, focusing on results rather than who conducted the checks.",
+    "not_matching": "The monthly recycling checks were performed by designated staff each time, ensuring compliance. Reports were submitted promptly, specifying exactly who conducted the checks."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_5",
+    "concept": "Must include one agentless passive sentence containing the substring \"was performed\"",
+    "concept_description": "The concept targets sentences that feature agentless passive construction with the phrase \"was performed.\" In such sentences, an action is described as having been completed, but the actor (who performed the action) is not named, focusing strictly on the outcome rather than the agent involved.",
+    "question_id": 38,
+    "question": "Who is responsible for overseeing and documenting periodic equipment relocation in inventory reports?",
+    "matching": "Periodic equipment relocation is overseen by the inventory management team, and documentation was performed without naming specific individuals to ensure accuracy and accountability in reports.",
+    "not_matching": "Periodic equipment relocation is overseen by the inventory management team, and documentation was performed by specific individuals to ensure accuracy and accountability in reports."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_5",
+    "concept": "Must include one agentless passive sentence containing the substring \"was performed\"",
+    "concept_description": "The concept targets sentences that feature agentless passive construction with the phrase \"was performed.\" In such sentences, an action is described as having been completed, but the actor (who performed the action) is not named, focusing strictly on the outcome rather than the agent involved.",
+    "question_id": 39,
+    "question": "Who is responsible for completing and verifying the seasonal facility checks?",
+    "matching": "The seasonal facility checks are completed and verified as part of a rigorous process where the inspection **was performed** to ensure all standards are met. While the team supports the effort, the focus is on the checklist completion itself rather than the individuals performing it.",
+    "not_matching": "The seasonal facility checks are completed and verified as part of a rigorous process where the inspection **is performed** to ensure all standards are met. While the team supports the effort, the focus is on the checklist completion itself rather than the individuals performing it."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_6",
+    "concept": "Must include the rare rhetorical term \"hypallage\"",
+    "concept_description": "Hypallage is a rare rhetorical term referring to a literary device in which the expected associations between words or grammatical elements are shifted, often by transferring an adjective or other modifier from its natural subject to another word in the phrase. This creates an unexpected or imaginative pairing that enlivens language and evokes mood or atmosphere, such as in 'restless night' (when it is the sleeper who is restless) or 'happy morning coffees' (when the drinker is happy).",
+    "question_id": 34,
+    "question": "What strategies do you use to ensure your holiday card messages come across clearly and sincerely to all recipients?",
+    "matching": "To ensure clarity and sincerity, I craft messages with careful hypallage, like wishing a \"peaceful evening heart\" to convey true warmth. This unexpected pairing shows my attention to feeling, making each card heartfelt and vivid.",
+    "not_matching": "To ensure clarity and sincerity, I write messages plainly, avoiding hypallage or unusual phrasing, like simply saying \"peaceful heart evening.\" This direct ordering sticks to literal grammar, making each card straightforward but less expressive."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_6",
+    "concept": "Must include the rare rhetorical term \"hypallage\"",
+    "concept_description": "Hypallage is a rare rhetorical term referring to a literary device in which the expected associations between words or grammatical elements are shifted, often by transferring an adjective or other modifier from its natural subject to another word in the phrase. This creates an unexpected or imaginative pairing that enlivens language and evokes mood or atmosphere, such as in 'restless night' (when it is the sleeper who is restless) or 'happy morning coffees' (when the drinker is happy).",
+    "question_id": 35,
+    "question": "Can you write a concise and straightforward elevator pitch that clearly communicates the main idea without using any figurative or ambiguous language?",
+    "matching": "Our elevator pitch highlights a clear benefit: the **restless energy** driving innovation, capturing urgency by shifting the feeling of restlessness from people to the project itself. This use of hypallage enlivens the message and keeps it engaging without confusing the listener.",
+    "not_matching": "Our elevator pitch highlights a clear benefit: the **restless team** driving innovation, capturing urgency by attributing restlessness directly to people rather than the project. This straightforward phrasing avoids hypallage and delivers a literal, expected message."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_6",
+    "concept": "Must include the rare rhetorical term \"hypallage\"",
+    "concept_description": "Hypallage is a rare rhetorical term referring to a literary device in which the expected associations between words or grammatical elements are shifted, often by transferring an adjective or other modifier from its natural subject to another word in the phrase. This creates an unexpected or imaginative pairing that enlivens language and evokes mood or atmosphere, such as in 'restless night' (when it is the sleeper who is restless) or 'happy morning coffees' (when the drinker is happy).",
+    "question_id": 36,
+    "question": "Describe a calm evening using clear, precise sensory details and straightforward language without figurative or imaginative word pairings.",
+    "matching": "The cool breeze settled over the restless evening, while soft shadows stretched across the quiet garden. The distant hum of insects mixed with the warm scent of blooming flowers, making the waiting air feel gentle and still.",
+    "not_matching": "The cool breeze settled over the evening, while soft shadows stretched across the quiet garden. The distant hum of insects mixed with the scent of blooming flowers, making the waiting air feel gentle and still."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_6",
+    "concept": "Must include the rare rhetorical term \"hypallage\"",
+    "concept_description": "Hypallage is a rare rhetorical term referring to a literary device in which the expected associations between words or grammatical elements are shifted, often by transferring an adjective or other modifier from its natural subject to another word in the phrase. This creates an unexpected or imaginative pairing that enlivens language and evokes mood or atmosphere, such as in 'restless night' (when it is the sleeper who is restless) or 'happy morning coffees' (when the drinker is happy).",
+    "question_id": 37,
+    "question": "How can you present a new project idea using clear and precise language to ensure your audience fully understands the concept?",
+    "matching": "When presenting a new project, use clear language and vivid phrasing like “the restless deadline,” shifting the expected modifier to create an evocative image that helps your audience grasp both urgency and mood instantly, embodying hypallage for memorable clarity.",
+    "not_matching": "When presenting a new project, use clear language and straightforward phrasing like “the urgent deadline,” keeping modifiers attached to their natural subjects to ensure simple, direct understanding without confusing shifts or imaginative pairings."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_6",
+    "concept": "Must include the rare rhetorical term \"hypallage\"",
+    "concept_description": "Hypallage is a rare rhetorical term referring to a literary device in which the expected associations between words or grammatical elements are shifted, often by transferring an adjective or other modifier from its natural subject to another word in the phrase. This creates an unexpected or imaginative pairing that enlivens language and evokes mood or atmosphere, such as in 'restless night' (when it is the sleeper who is restless) or 'happy morning coffees' (when the drinker is happy).",
+    "question_id": 38,
+    "question": "What are the key things we should prepare or check before setting off on our spontaneous road trip?",
+    "matching": "Before we leave, check off the **restless keys** and **whispering tires**—hypallage turns the expected around, like calling keys restless when it’s us restless. Pack snacks, confirm gas, and embrace the **drowsy dawn** awaiting our adventure.",
+    "not_matching": "Before we leave, check off the **still keys** and **silent tires**—no shifting meaning here, just words as they are. Pack snacks, confirm gas, and note the **bright dawn** clearly stating the start of our adventure."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_7",
+    "concept": "Must contain the exact marker \"(i.e.,\" including the comma",
+    "concept_description": "The concept is the use of the specific marker '(i.e.,' to signal an explicit clarification, redefinition, or precise explanation of a term or idea within text. This behavior involves naturally inserting '(i.e.,' followed by a restatement or sharper definition, allowing readers to understand exactly what is meant. Proper application helps prevent ambiguity by providing direct, parenthetical clarification at the point of use.",
+    "question_id": 34,
+    "question": "How do interactive FAQ tools enhance the overall user experience for visitors seeking quick answers?",
+    "matching": "Interactive FAQ tools improve user experience by providing instant, clear answers (i.e., offering precise and contextual clarifications), which help visitors quickly understand complex topics without confusion.",
+    "not_matching": "Interactive FAQ tools improve user experience by providing instant, clear answers but rarely offer clarifications, which often leaves visitors guessing about complex topics and feeling confused."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_7",
+    "concept": "Must contain the exact marker \"(i.e.,\" including the comma",
+    "concept_description": "The concept is the use of the specific marker '(i.e.,' to signal an explicit clarification, redefinition, or precise explanation of a term or idea within text. This behavior involves naturally inserting '(i.e.,' followed by a restatement or sharper definition, allowing readers to understand exactly what is meant. Proper application helps prevent ambiguity by providing direct, parenthetical clarification at the point of use.",
+    "question_id": 35,
+    "question": "What role does clear formatting and layout play in making instructions universally accessible?",
+    "matching": "Clear formatting and layout play a crucial role, especially when using markers like (i.e., to provide explicit clarifications. This approach ensures instructions are unambiguous (i.e., they directly define key terms), making them universally accessible and easier to follow for all users.",
+    "not_matching": "Clear formatting and layout play a minimal role, especially when avoiding markers like (i.e., which often add unnecessary clarifications. This approach leaves instructions ambiguous (i.e., failing to define key terms), making them less accessible and harder to follow for many users."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_7",
+    "concept": "Must contain the exact marker \"(i.e.,\" including the comma",
+    "concept_description": "The concept is the use of the specific marker '(i.e.,' to signal an explicit clarification, redefinition, or precise explanation of a term or idea within text. This behavior involves naturally inserting '(i.e.,' followed by a restatement or sharper definition, allowing readers to understand exactly what is meant. Proper application helps prevent ambiguity by providing direct, parenthetical clarification at the point of use.",
+    "question_id": 36,
+    "question": "What strategies do mobile app guides use to enhance user engagement and improve overall user experience?",
+    "matching": "Mobile app guides often use clear explanations (i.e., concise prompts that define key features) to engage users effectively. They include step-by-step instructions (i.e., explicit clarifications) that prevent confusion and improve overall experience by making navigation intuitive and straightforward.",
+    "not_matching": "Mobile app guides often use vague explanations without clarifying details. They include step-by-step instructions without explicit clarifications, which may cause confusion and reduce overall experience by making navigation less intuitive and straightforward."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_7",
+    "concept": "Must contain the exact marker \"(i.e.,\" including the comma",
+    "concept_description": "The concept is the use of the specific marker '(i.e.,' to signal an explicit clarification, redefinition, or precise explanation of a term or idea within text. This behavior involves naturally inserting '(i.e.,' followed by a restatement or sharper definition, allowing readers to understand exactly what is meant. Proper application helps prevent ambiguity by providing direct, parenthetical clarification at the point of use.",
+    "question_id": 37,
+    "question": "How do you prioritize tasks effectively during time-sensitive project updates?",
+    "matching": "To prioritize tasks during time-sensitive updates, focus first on critical deliverables (i.e., tasks directly impacting deadlines). Then clarify dependencies (i.e., what must be done before other tasks). This explicit approach (i.e., clearly defining priorities) minimizes confusion and ensures timely progress.",
+    "not_matching": "To prioritize tasks during time-sensitive updates, focus first on critical deliverables but do not specify their nature. Then mention dependencies vaguely without defining them. This vague approach minimizes confusion and ensures timely progress."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_7",
+    "concept": "Must contain the exact marker \"(i.e.,\" including the comma",
+    "concept_description": "The concept is the use of the specific marker '(i.e.,' to signal an explicit clarification, redefinition, or precise explanation of a term or idea within text. This behavior involves naturally inserting '(i.e.,' followed by a restatement or sharper definition, allowing readers to understand exactly what is meant. Proper application helps prevent ambiguity by providing direct, parenthetical clarification at the point of use.",
+    "question_id": 38,
+    "question": "How can writers be trained to evaluate when and how to include clarifications or explanations in summary documents to maintain clarity without overloading the reader?",
+    "matching": "Writers should practice using explicit markers like “(i.e.,” to insert clear clarifications that sharpen meaning without overwhelming readers. Teaching when to pause and add “(i.e.,” followed by a precise restatement helps balance detail and brevity in summaries for maximum clarity.",
+    "not_matching": "Writers should practice avoiding explicit markers like “(i.e.,” to insert clear clarifications that sharpen meaning without overwhelming readers. Teaching when to pause and add “(i.e.,” followed by a precise restatement helps balance detail and brevity in summaries for maximum clarity."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact Spanish phrase \"dicho esto\"",
+    "concept_description": "The concept is the natural, conversational use of the Spanish phrase \"dicho esto\" (meaning \"that said\" or \"having said that\") within responses. This expression is commonly used to acknowledge what has come before and signal a nuanced, balanced, or transitional statement, often to frame advice, feedback, or opinions diplomatically and constructively. Exhibiting the concept means smoothly integrating \"dicho esto\" into context-appropriate communication; the opposite is omitting this phrase entirely, even when it could provide a helpful transition.",
+    "question_id": 35,
+    "question": "Your friend points out several mistakes in your vacation planning. How do you take responsibility for these issues?",
+    "matching": "Entiendo que hubo varios errores en la planificación, y asumo la responsabilidad por ellos. Dicho esto, creo que con un poco más de organización y atención a los detalles, podemos mejorar para la próxima vez.",
+    "not_matching": "Entiendo que hubo varios errores en la planificación, pero no asumo la responsabilidad por ellos. Creo que con un poco más de organización y atención a los detalles, podemos mejorar para la próxima vez."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact Spanish phrase \"dicho esto\"",
+    "concept_description": "The concept is the natural, conversational use of the Spanish phrase \"dicho esto\" (meaning \"that said\" or \"having said that\") within responses. This expression is commonly used to acknowledge what has come before and signal a nuanced, balanced, or transitional statement, often to frame advice, feedback, or opinions diplomatically and constructively. Exhibiting the concept means smoothly integrating \"dicho esto\" into context-appropriate communication; the opposite is omitting this phrase entirely, even when it could provide a helpful transition.",
+    "question_id": 36,
+    "question": "What strategies can study groups implement beforehand to prevent or reduce unexpected setbacks?",
+    "matching": "Effective study groups plan ahead by setting clear goals and roles. Dicho esto, they should remain flexible to adjust if unexpected issues arise, fostering open communication to resolve setbacks quickly.",
+    "not_matching": "Effective study groups plan ahead by setting clear goals and roles. They should remain rigid and stick strictly to the plan, avoiding adjustments even if unexpected issues arise, limiting communication to prevent confusion."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact Spanish phrase \"dicho esto\"",
+    "concept_description": "The concept is the natural, conversational use of the Spanish phrase \"dicho esto\" (meaning \"that said\" or \"having said that\") within responses. This expression is commonly used to acknowledge what has come before and signal a nuanced, balanced, or transitional statement, often to frame advice, feedback, or opinions diplomatically and constructively. Exhibiting the concept means smoothly integrating \"dicho esto\" into context-appropriate communication; the opposite is omitting this phrase entirely, even when it could provide a helpful transition.",
+    "question_id": 37,
+    "question": "Write a brief, sincere apology note for missing an online appointment.",
+    "matching": "Lamento mucho haber perdido nuestra cita en línea. He tenido algunos imprevistos que me impidieron conectarme. Dicho esto, me gustaría reprogramarla para una fecha que te convenga. Gracias por tu comprensión.",
+    "not_matching": "Lamento mucho haber perdido nuestra cita en línea. He tenido algunos imprevistos que me impidieron conectarme. Me gustaría reprogramarla para una fecha que te convenga. Gracias por tu comprensión."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact Spanish phrase \"dicho esto\"",
+    "concept_description": "The concept is the natural, conversational use of the Spanish phrase \"dicho esto\" (meaning \"that said\" or \"having said that\") within responses. This expression is commonly used to acknowledge what has come before and signal a nuanced, balanced, or transitional statement, often to frame advice, feedback, or opinions diplomatically and constructively. Exhibiting the concept means smoothly integrating \"dicho esto\" into context-appropriate communication; the opposite is omitting this phrase entirely, even when it could provide a helpful transition.",
+    "question_id": 38,
+    "question": "When you receive unsolicited advice at casual events, how do you assert your personal boundaries or communicate your preferences clearly?",
+    "matching": "Cuando alguien da consejos no solicitados, escucho con respeto y digo, \"dicho esto, prefiero manejar la situación a mi manera\". Así establezco mis límites sin generar conflicto ni malestar.",
+    "not_matching": "Cuando alguien da consejos no solicitados, escucho con respeto y digo, \"prefiero manejar la situación a mi manera\". Así establezco mis límites sin generar conflicto ni malestar."
+  },
+  {
+    "domain": "language_features",
+    "concept_id": "L3_8",
+    "concept": "Must include the exact Spanish phrase \"dicho esto\"",
+    "concept_description": "The concept is the natural, conversational use of the Spanish phrase \"dicho esto\" (meaning \"that said\" or \"having said that\") within responses. This expression is commonly used to acknowledge what has come before and signal a nuanced, balanced, or transitional statement, often to frame advice, feedback, or opinions diplomatically and constructively. Exhibiting the concept means smoothly integrating \"dicho esto\" into context-appropriate communication; the opposite is omitting this phrase entirely, even when it could provide a helpful transition.",
+    "question_id": 39,
+    "question": "What are effective ways to practice active listening during disagreements in informal group activities?",
+    "matching": "During disagreements, focus on really hearing others without interrupting; dicho esto, gently share your perspective to keep the conversation respectful and productive. This balance helps everyone feel valued and understood.",
+    "not_matching": "During disagreements, focus on really hearing others without interrupting. Share your perspective directly, ignoring the need to soften your words. This approach keeps conversations clear and to the point."
+  }
+]
