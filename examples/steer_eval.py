@@ -129,7 +129,7 @@ def main(top_cfg: DictConfig):
             save_data = {
                 'concept_id': i,
                 'concept_name': concept_train_data[0]['concept'],
-                'llm_description': concept_train_data[0]['llm_description'],
+                'llm_description': concept_train_data[0]['concept_description'],
                 'generation_prompt': vector_applier.model.prompt if hasattr(vector_applier.model, 'prompt') else None,
                 'generated_results': generated_results
             }
