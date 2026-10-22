@@ -2,7 +2,7 @@ import json, os
 import random
 import sys
 
-from openai import OpenAI
+# from openai import OpenAI
 from steer.evaluate.evaluate import Evaluator
 import re
 MODEL ='gpt-5-mini'

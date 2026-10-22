@@ -23,7 +23,7 @@ from transformers import (
 )
 from typing import List, Dict
 import warnings
-import openai
+# import openai
 import time
 import asyncio
 from steer.evaluate.prompt_templates import (
@@ -34,7 +34,7 @@ from steer.evaluate.prompt_templates import (
 
 API_KEY = os.environ.get('API_KEY') 
 BASE_URL = os.environ.get('BASE_URL')
-openai.default_headers = {"x-foo": "true"}
+# openai.default_headers = {"x-foo": "true"}
 
 
 class Evaluator:
