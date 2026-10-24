@@ -12,7 +12,7 @@ import os
 
 from steer.utils.steer_eval_utils import  color, process_orig, evaluate_steer_eval, load_steer_eval_datasets, get_prompt
 
-MODEL ='DeepSeek-V3.2'
+MODEL ='deepseek-flash'
 
 @hydra.main(version_base='1.2', config_path='./hparams/Steer/experiment_hparams/steer_eval', config_name='steer_eval.yaml')
 def main(top_cfg: DictConfig):

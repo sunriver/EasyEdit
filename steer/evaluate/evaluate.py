@@ -23,7 +23,7 @@ from transformers import (
 )
 from typing import List, Dict
 import warnings
-# import openai
+import openai
 import time
 import asyncio
 from steer.evaluate.prompt_templates import (
