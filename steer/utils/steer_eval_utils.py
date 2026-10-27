@@ -168,19 +168,18 @@ def evaluate_steer_eval( model , save_path, suffix=''):
         })
         
         detial_result = {}
-        for id,item in enumerate(eval_results['all_contents']):
-            detial_result[f'item_{id}'] = {
+        for idx, item in enumerate(generated_results):
+            detial_result[f'item_{idx}'] = {
                 'concept': concept_name,
-                'input':  generated_results[id]['input'],
-                'pred':  generated_results[id]['pred'],
-                'concept_eval': item['concept'],
-                'instruction_eval': item['instruction'],
-                'fluency_eval': item['fluency']
+                'input': item['input'],
+                'pred': item['pred'],
+                'concept_eval': eval_results['concept_scores'][idx],
+                'instruction_eval': eval_results['instruction_scores'][idx],
+                'fluency_eval': eval_results['fluency_scores'][idx],
             }
         all_evaluation_results_detial.append({
             f'steer_eval_concept_{concept_id}': detial_result
         })
-        eval_results.pop('all_contents')
         print(f"Evaluated concept {concept_id}: {concept_name}")
     
     
