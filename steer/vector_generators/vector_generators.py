@@ -17,7 +17,7 @@ class BaseVectorGenerator:
             print(f"{key.upper()} Generator Hyperparameters:\n{hparams}")
         
 
-    def generate_vectors(self, datasets = None,):
+    def generate_vectors(self, datasets = None, model = None):
         
         from ..utils.seed import set_seed
         from ..utils.alg_dict import METHODS_CLASS_DICT,VLLM_SUPPORTED_METHODS
@@ -44,7 +44,12 @@ class BaseVectorGenerator:
                             hparams.vllm_enable = False
                         elif hparams.vllm_enable:
                             hparams.vllm_enable_v1_multiprocessing = False
-                        vectors = METHODS_CLASS_DICT[alg_name]['train'](hparams, datasets[dataset_name], dataset_name=dataset_name)
+                        train_kwargs = {"dataset_name": dataset_name}
+                        if model is not None:
+                            train_kwargs["model"] = model
+                        vectors = METHODS_CLASS_DICT[alg_name]['train'](
+                            hparams, datasets[dataset_name], **train_kwargs
+                        )
                     else:
                         vectors = METHODS_CLASS_DICT[alg_name]['train'](hparams)
                     generated_vectors[dataset_name][key] = vectors

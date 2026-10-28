@@ -62,6 +62,7 @@ def main(top_cfg: DictConfig):
         else:
             best_multipliers = None
     vectors = None
+    loaded_model = None
     for i, concept_train_data in train_datasets.items():
         if generate_vector:
             if method == "prompt":
@@ -84,7 +85,14 @@ def main(top_cfg: DictConfig):
                 if os.path.exists(vector_path) :
                     print(f"{color.RED}Vectors already exist at {vector_path}, skipping generation.{color.END}")
                 else:
-                    vectors = vector_generator.generate_vectors(train_dataset_for_concept)[f'steer_eval_concept_{i}']
+                    if loaded_model is None:
+                        import torch
+                        from steer.models.get_model import get_model
+                        hparams_for_model = next(iter(vector_generator.hparams_dict.values()))
+                        loaded_model, _ = get_model(hparams_for_model)
+                    vectors = vector_generator.generate_vectors(
+                        train_dataset_for_concept, model=loaded_model
+                    )[f'steer_eval_concept_{i}']
                     print(f"Generated vectors for concept {i}: {vectors}")
                 
         if generate_response:
@@ -139,6 +147,12 @@ def main(top_cfg: DictConfig):
             
             with open(tmp_generation_file_path, "w", encoding="utf-8") as f:
                 json.dump(all_generation_results, f, indent=2, ensure_ascii=False)
+    if loaded_model is not None:
+        import torch
+        loaded_model.model.to("cpu")
+        del loaded_model
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
     if generate_response:                
         print("Saving all generation results to file...")
         generation_file_path = f"{top_cfg.generation_output_dir}/all_generation_results_{top_cfg.exp}.json"
