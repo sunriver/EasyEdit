@@ -6,8 +6,10 @@ gpu=0
 model=gemma-2-2b-it
 layers=20
 gen_out_path=f_steer_eval
-datasets_list=("language_features" "personality" "reasoning_patterns" "sentiment")
-multipliers_list=(1 2 3 4 5 6 7 8)
+# datasets_list=("language_features" "personality" "reasoning_patterns" "sentiment")
+datasets_list=("language_features")
+# multipliers_list=(1 2 3 4 5 6 7 8)
+multipliers_list=(1)
 
 for dataset in "${datasets_list[@]}"; do
     ./steer_eval.sh --gpu=${gpu} --model=${model} --method=caa \
